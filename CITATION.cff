@@ -12,10 +12,6 @@ authors:
     family-names: Nome Completo
     email: aluno@pucminas.br
     affiliation: PUC Minas
-  + given-names: Danilo
-    family-names: César Brito
-    email: puc@minas.br
-    affiliation: PUC Minas
   - given-names: Hugo
     name-particle: 'B '
     family-names: de Paula
