@@ -48,16 +48,24 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade | 
 |------|-----------------------------------------|----| 
-|RF-001| A aplicação deve permitir que o usuário gerencie suas tarefas | ALTA |  
-|RF-002| A aplicação deve permitir a emissão de um relatório de tarefas realizadas no mês   | MÉDIA | 
+|RF-001| A aplicação deve permitir que o administrador cadastre os funcionários da barbearia | ALTA |  
+|RF-002| A aplicação deve permitir que o cliente crie seu próprio cadastro  | ALTA | 
+|RF-003| A aplicação deve permitir que o administrador edite os dados dos funcionários da barbearia |MÉDIA|
+|RF-004| A aplicação deve permitir que o cliente edite seus próprios dados |MÉDIA|
+|RF-005| A aplicação deve permitir que o cliente visualize seu histórico de cortes |ALTA|
+|RF-006| A aplicação deve permitir que o cliente visualize seu histórico de valores pagos |ALTA|
+|RF-007| O cliente deve ser capaz de escolher entre as opções de corte, barba e sobrancelha, inclusive dois ou mais desses itens simultaneamnete |ALTA|
 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| A aplicação deve ser responsiva | MÉDIA | 
-|RNF-002| A aplicação deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| A aplicação deve ser responsiva |BAIXA| 
+|RNF-002| A aplicação deve ser desenvolvida utilizando as linguagens HTML, CSS e JavaScript |ALTA| 
+|RNF-003| As telas da aplicação devem conter informações claras e inequívocas, sem excesso de conteúdo |ALTA|
+|RNF-004| Os formulários devem ser intuitivos e de fácil compreensão |ALTA|
+|RNF-005| Os campos dos formulários devem conter máscaras para evitar que os usuários digitem informações incorretas |MÉDIA|
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
