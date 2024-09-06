@@ -11,9 +11,9 @@ Caso deseje atribuir uma imagem a sua persona, utilize o site https://thisperson
 
   
 
-Nome: João 
+Nome: Alex
 
-Idade: 24 anos 
+Idade: 28 anos 
 
 Ocupação: Gerente de Marketing 
 
