@@ -7,21 +7,75 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 Caso deseje atribuir uma imagem a sua persona, utilize o site https://thispersondoesnotexist.com/
 
 ## Personas
+  
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+  
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+Nome: João 
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+Idade: 24 anos 
 
+Ocupação: Gerente de Marketing 
+
+Localização**: Área urbana (por exemplo, São Paulo) 
+
+Estilo de Vida**: Ocupado, focado na carreira, adepto da tecnologia 
+
+Renda: $40.000 por ano 
+
+  
+
+ Histórico: 
+
+Alex é um jovem profissional que valoriza sua aparência, mas tem uma agenda ocupada devido aos compromissos do trabalho e  sociais. Ele frequentemente encontra dificuldades para agendar horarios em meio ao seu estilo de vida corrido. 
+
+  
+
+Objetivos: 
+
+- Manter um corte de cabelo estiloso e uma rotina de cuidados sem gastar muito tempo. 
+
+- Encontrar e agendar facilmente compromissos em barbearias próximas. 
+
+- Acessar conselhos de estilo e tendências. 
+
+- Ler avaliações e classificações sobre barbeiros e suas especialidades. 
+
+  
+
+Dificuldades/Problemas: 
+
+- Dificuldade em encontrar horários disponíveis que se ajustem à sua agenda. 
+
+- Frustração com longos tempos de espera nas barbearias. 
+
+- Sentir-se sobrecarregado com muitas opções sem recomendações adequadas. 
+
+- Experiências inconsistentes dependendo da barbearia. 
+
+  
+
+Funcionalidades que atraem Alex: 
+
+- Agendamento Online: Uma interface amigável que permite agendar compromissos rapidamente. 
+
+- Lembretes e Notificações: Alertas para compromissos futuros ou quando é hora de um corte. 
+
+- Perfil de barbeiros: Informações sobre diferentes barbeiros, seus estilos e avaliações de clientes. 
+
+- Programas de fidelidade e descontos: Incentivos para clientes recorrentes ou indicações. 
+
+- Inspiração de estilo: Uma galeria de cortes de cabelo em tendência para inspirar seu próximo visual. 
+
+  
+
+ Plataformas preferidas: 
+
+- Aplicativo móvel (Android e iOS) 
+
+- Mídias sociais (Instagram para inspiração de estilo) 
+
+ 
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
