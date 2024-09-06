@@ -27,12 +27,12 @@ Assim, o projeto desenvolvido trará impacto real para um negócio pertencente a
 
 ## Público-Alvo
 
-O público-alvo pretendido consiste principalmente de homens que já consomem serviços de barbearia com foco em cuidados pessoais como corte de cabelo, barba e cuidados com a pele. Trata-se de um grupo  a utilizar a tecnologia para agendar serviços online, 
+Dados da Associação Brasileira de Franchising (ABF) demonstram que 30% do faturamento de serviços de beleza e cuidados são oriundos do público masculino. Embora esse percentual represente uma fatia significativa do mercado, ainda existe potencial para grande expansão.
+
+Portanto, o público-alvo pretendido consiste principalmente de homens que já consomem serviços de barbearia com foco em cuidados pessoais, como corte de cabelo, barba e cuidados com a pele. Trata-se de um grupo que tem demonstrado crescente propensão à utilização da tecnologia para agendar serviços online. Por estarem inseridos em uma rotina dinâmica, com inúmeros compromissos diários, uma aplicação simples e intuitiva poderá ser atrativa, devido à praticidade e à agilidade oferecidas pelo sistema de agendamentos via internet.
 
 
-
-
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.
+![image](https://github.com/user-attachments/assets/d2c63d48-aea5-45f3-aa99-b2bfc4ab2b1a)
 
 Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
 
