@@ -111,7 +111,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-007| O cliente deve ser capaz de escolher entre as opções de corte, barba e sobrancelha, inclusive dois ou mais desses itens simultaneamente |ALTA|
 |RF-008| A aplicação deve exibir os horários disponíveis e os horários não disponíveis de cada funcionário para o prazo mínimo de 2 meses |ALTA|
 |RF-009| O cliente deve ser capaz de registrar o horário definido na agenda de cortes, bem como qual funcionário foi escolhido para o serviço |ALTA|
-|RF-010| A aplicação deve ser capaz de exibir ofertas e promoções |BAIXA| 
+|RF-010| Os campos dos formulários devem conter máscaras para evitar que os usuários digitem informações incorretas |MÉDIA|
+|RF-011| A aplicação deve ser capaz de exibir ofertas e promoções |BAIXA| 
+
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
@@ -120,7 +122,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-002| A aplicação deve ser desenvolvida utilizando as linguagens HTML, CSS e JavaScript |ALTA| 
 |RNF-003| As telas da aplicação devem conter informações claras e inequívocas, sem excesso de conteúdo |ALTA|
 |RNF-004| Os formulários devem ser intuitivos e de fácil compreensão |ALTA|
-|RNF-005| Os campos dos formulários devem conter máscaras para evitar que os usuários digitem informações incorretas |MÉDIA|
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
