@@ -14,25 +14,23 @@ Objetivos:
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+A aplicação a ser desenvolvida tem como objetivo aumentar a aderência de um pequeno negócio de serviços de barbearia à tecnologia da informação, bem como elevar o nível de exposição do negócio ao público amplo da região, o que cria a potencialidade de alavancagem dos rendimentos. 
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+De maneira mais específica, a aplicação oferecerá um fácil manuseio das informações e das opções disponíveis, tais como a escolha entre os serviços de corte, barba e sobrancelha. Os clientes também poderão registrar, de modo que fique visível para todos, a data, o horário e o funcionário escolhidos para o atendimento. Por fim, o histórico de cada cliente poderá ser facilmente consultado, constando dados como as datas e os valores de cortes anteriores.
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+De acordo com números disponibilizados pelo SEBRAE no ano de 2021, cerca de 46% das micro e pequenas empresas brasileiras ainda não possuem participação digital efetiva, a exemplo de sites próprios e aplicativos de celular. Devido a essa defasagem na adesão a esses importantes canais de comunicação com os consumidores, foi escolhida uma microempresa que se enquadra nesse percentual e que poderá se beneficiar imensamente de uma aplicação digital que a conecte efetivamente ao seu público-alvo.
 
-Lembre-se de pesquisar e utilizar números que justifiquem por que é importante que tal problema seja resolvido ou que mostrem o impacto do problema na vida das pessoas.
+Assim, o projeto desenvolvido trará impacto real para um negócio pertencente ao ecossistema brasileiro de pequenos empreendimentos.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
+
+O público-alvo pretendido consiste principalmente de homens que já consomem serviços de barbearia com foco em cuidados pessoais como corte de cabelo, barba e cuidados com a pele. Trata-se de um grupo  a utilizar a tecnologia para agendar serviços online, 
+
+
+
 
 Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.
 
