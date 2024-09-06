@@ -19,7 +19,7 @@ Ocupação: Gerente de Marketing
 
 Localização: Área urbana 
 
-Estilo de Vida**: Ocupado, focado na carreira, adepto da tecnologia 
+Estilo de Vida: Ocupado, focado na carreira, adepto da tecnologia 
 
 Renda: $40.000 por ano 
 
