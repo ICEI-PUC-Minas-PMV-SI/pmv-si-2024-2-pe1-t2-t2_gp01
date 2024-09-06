@@ -17,7 +17,7 @@ Idade: 24 anos
 
 Ocupação: Gerente de Marketing 
 
-Localização**: Área urbana (por exemplo, São Paulo) 
+Localização: Área urbana 
 
 Estilo de Vida**: Ocupado, focado na carreira, adepto da tecnologia 
 
