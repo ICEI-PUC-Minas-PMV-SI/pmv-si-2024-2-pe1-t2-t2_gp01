@@ -1,25 +1,16 @@
 # Introdução
+A tecnologia nos dias atuais tem se empenhado muito em facilitar a comunicação e resolução dos problemas apresentados pela sociedade, visando melhorar aspectos de vida, acelerar processos e permitir a interconexão entre diversos elementos sociais. Mesmo que a tecnologia seja considerada fator determinante para o sucesso dos negócios, é comum que pequenos negócios ainda não tenham se adaptado a esta nova realidade, resultando em uma baixa produtividade; lucratividade e desorganização. Nesse contexto, aplicações que conectam o consumidor aos negócios podem desempenhar um papel de elevação de resultados, além de trazer uma melhoria na experiência do cliente.
 
-Imagine que você deseja apresentar este projeto para investidores que deverão decidir se investem ou não no desenvolvimento da sua ferramenta.
-
-A **Introdução** consiste das etapas: *Contextualização -- Definição do problema -- Definição dos Objetivos -- Justificativa*, e tem como função situar o seu trabalho dentro de um contexto de mercado e mostrar a importância da sua proposta para resolver a dor de um usuário.
-
-A Contextualização deve situar seu projeto em um determinado contexto de mercado, a fim de fornecer informações adicionais que possam ajudar a entender melhor o assunto que você irá abordar. Serve também para definir a relevância do seu assunto, uma vez que mostra o tamanho do mercado em que se está inserido. Ela pode envolver a análise de vários aspectos, como o ambiente histórico, cultural, político e social em que o problema a ser atacado surgiu.
-
-Escreva de 2 a 3 parágrafos para contetualizar o seu projeto.
+Dentro desta problemática, o projeto "Gestão de Agendamentos" busca atender esta demanda de consumidores insatisfeitos com a demora de atendimento, falta de eficiência na gestão dos horários e confirmações da realização dos serviços por parte de diversas pequenas empresas, inclusive barbearias. Este projeto, utilizando as inovações digitais para melhorar processos, foi criado com o intuito de apresentar uma solução intuitiva, acessível e de fácil compreensão para conectar clientes ao seu serviço preferido de barbearia.
 
 ## Problema
+Em um ponto de vista sobre a gestão dos agendamentos de uma barbearia localizada na cidade de Formiga - MG, consegue-se identificar diversos problemas quando se fala sobre a comunicação com o cliente, considerando que este comércio, em específico, frequentemente não possui um(a) recepcionista para realizar avisos ou comunicações.
 
-Nesse momento você deve apresentar o problema que a sua aplicação deve resolver. No entanto, **não** é a hora de comentar sobre a solução/aplicação.
+Em relatos contextualizados em algumas redes sociais, é possível encontrar diversas reclamações sobre a perda de horário e reagendamentos sem o consentimento do cliente, o que causa transtorno e também grande insatisfação por parte do consumidor, levando a não fidelização e diminuição da receita da empresa.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de fato existir, pois ainda não é a hora de apresentar requisitos detalhados ou projetos.
+Soluções improvisadas como whatsapp e anotação dos horários em uma folha de papel se tornam insuficientes frente ao avanço da competitivade local das empresas, visto que negócios que não investem em soluções digitais, estão fadados ao fracasso num mundo de rápidas mudanças e incessantes inovações tecnológicas.
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Objetivos:
 
 ## Objetivos
 
