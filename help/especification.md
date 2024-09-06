@@ -111,7 +111,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-007| O cliente deve ser capaz de escolher entre as opções de corte, barba e sobrancelha, inclusive dois ou mais desses itens simultaneamente |ALTA|
 |RF-008| A aplicação deve exibir os horários disponíveis e os horários não disponíveis de cada funcionário para o prazo mínimo de 2 meses |ALTA|
 |RF-009| O cliente deve ser capaz de registrar o horário definido na agenda de cortes, bem como qual funcionário foi escolhido para o serviço |ALTA|
-
+|RF-010| A aplicação deve ser capaz de exibir ofertas e promoções |BAIXA| 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
