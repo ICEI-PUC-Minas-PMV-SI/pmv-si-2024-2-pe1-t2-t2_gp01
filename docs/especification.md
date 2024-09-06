@@ -21,7 +21,7 @@ Localização: Área urbana
 
 Estilo de Vida: Ocupado, focado na carreira, adepto da tecnologia 
 
-Renda: $40.000 por ano 
+Renda: R$40.000 por ano 
 
   
 
