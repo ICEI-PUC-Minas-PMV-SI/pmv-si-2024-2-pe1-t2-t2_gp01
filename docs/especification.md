@@ -78,21 +78,50 @@ Funcionalidades que atraem Alex:
  
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+CONTEXTO: Usário de Final - Cliente do Salão 
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+EU COMO: Cliente do salão de beleza 
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
+QUERO/PRECISO: Agendar um corte de cabelo diretamente pelo aplicativo
 
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
+FUNCIONALIDADE: Funcionalidade de agendamento online com escolha de data, horário e profissional
+
+PARA: Garantir que terei um horário reservado, evitando filas e otimizando meu tempo
+
+EU COMO: Cliente do salão de beleza
+
+QUERO/PRECISO: Receber uma notificação antes do meu horário de corte de cabelo
+
+FUNCIONALIDADE: Envio de lembretes automáticos via push notification ou SMS
+
+PARA: Não esquecer meu compromisso e chegar a tempo
+
+EU COMO: Cliente do salão de beleza
+
+QUERO/PRECISO: Visualizar o histórico dos meus últimos serviços prestados
+
+FUNCIONALIDADE: Exibição de um histórico de serviços no perfil do cliente
+
+PARA: Acompanhar os tipos de cortes que já fiz e decidir com base nos anteriores
+
+CONTEXTO: Adiminidtrador-Profissional do Salão
+
+EU COMO: Profissional do salão de beleza
+
+QUERO/PRECISO: Ver a agenda dos meus clientes e horários disponíveis
+
+FUNCIONALIDADE: Visualização e gestão da agenda de serviços, com possibilidade de edição
+
+PARA: Planejar meu dia de trabalho e otimizar o tempo entre os atendimentos
+
+EU COMO: Profissional do salão de beleza
+
+QUERO/PRECISO: Cancelar ou remarcar agendamentos de clientes em casos excepcionais
+
+FUNCIONALIDADE: Opção de alteração e cancelamento de horários no sistema
+
+PARA: Gerenciar imprevistos e organizar minha agenda de maneira flexível
+
 
 ## Requisitos
 
