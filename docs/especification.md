@@ -80,6 +80,7 @@ Funcionalidades que atraem Alex:
 
 CONTEXTO: Usário de Final - Cliente do Salão 
 
+
 EU COMO: Cliente do salão de beleza 
 
 QUERO/PRECISO: Agendar um corte de cabelo diretamente pelo aplicativo
@@ -104,7 +105,9 @@ FUNCIONALIDADE: Exibição de um histórico de serviços no perfil do cliente
 
 PARA: Acompanhar os tipos de cortes que já fiz e decidir com base nos anteriores
 
+
 CONTEXTO: Adiminidtrador-Profissional do Salão
+
 
 EU COMO: Profissional do salão de beleza
 
