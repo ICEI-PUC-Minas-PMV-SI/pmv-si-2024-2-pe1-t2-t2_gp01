@@ -1,13 +1,8 @@
-# Especificações do Projeto_
+# Especificações do Projeto
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto.
-
-Caso deseje atribuir uma imagem a sua persona, utilize o site https://thispersondoesnotexist.com/
+Nessa seção da documentação do projeto serão detalhados os perfis dos usuários do sistema, bem como as funcionalidades que a aplicação deverá apresentar, por exemplo a gestão dos agendamentos, a gestão de sistemas de recompensa e a obtenção de feedbacks oriundos dos clientes. Dessa maneira, haverá ganho de produtividade e economia de tempo, tanto no que diz respeito aos clientes, quanto no que diz respeito à barbearia.
 
 ## Personas
-
   
 Persona 1: ***Marcos Ferreira - Dono da Barbearia Estilo***
 
@@ -56,9 +51,13 @@ Marcos é um empreendedor autônomo que abriu sua barbearia há 5 anos. Ele gost
 Persona 2:  ***Alex - consumidor de serviços de corte e barba***
 
 Idade: 28 anos 
+
 Ocupação: Gerente de Marketing 
+
 Localização: Área urbana 
+
 Estilo de Vida: Ocupado, focado na carreira, adepto da tecnologia 
+
 Renda: R$40.000 por ano 
 
  Histórico: 
@@ -106,9 +105,13 @@ Funcionalidades que atraem Alex:
 Persona 3:  ***Ricardo, barbeiro que trabalha com Marcos***
 
 Idade: 23 anos 
+
 Ocupação: Barbeiro
+
 Localização: Área urbana 
+
 Estilo de Vida: Despojado, solteiro, sem filhos, fã de música eletrônica
+
 Renda: R$25.000 por ano 
 
  Histórico: 
@@ -148,13 +151,13 @@ Funcionalidades que atraem Ricardo:
 |**EU COMO:**|**QUERO/PRECISO:**|**FUNCIONALIDADE:**|**PARA:**|
 |------|-----------------------------------------|----|-----|
 |Dono do estabelecimento|Ver a agenda de todos os clientes e funcionários|Visualização e gestão da agenda de serviços, com possibilidade de edição|Planejamento do trabalho e otimização do tempo entre atendimentos|
-|Dono do estabelecimentos|Receber informações sobre a satisfação da clientela|Visualização de avaliações quantitativas e de comentários dos clientes|Realizar uma melhoria contínua nos serviços prestados e recompensar meus funcionários|
+|Dono do estabelecimento|Receber informações sobre a satisfação da clientela|Visualização de avaliações quantitativas e de comentários dos clientes|Realizar uma melhoria contínua nos serviços prestados e recompensar meus funcionários|
 
 ***Contexto: Clientes da barbearia***
 
 |**EU COMO:**|**QUERO/PRECISO:**|**FUNCIONALIDADE:**|**PARA:**|
 |------|-----------------------------------------|----|-----|
-|Cliente do Salão |Agendar um corte de cabelo diretamente pela internet|Agendamento com escolha de data, horário e profissional|Evitar filas e otimização de tempo|
+|Cliente do salão |Agendar um corte de cabelo diretamente pela internet|Agendamento com escolha de data, horário e profissional|Evitar filas e otimização de tempo|
 |Cliente do salão| Receber uma notificação antes do meu horário de corte de cabelo|Envio de lembretes automáticos via push notification ou SMS|Não esquecer meu compromisso e chegar a tempo|
 |Cliente do salão|Visualizar meu histórico de serviços e valores pagos|Exibição de um histórico de serviços no meu perfil|Acompanhar os tipos de cortes que já fiz e decidir com base nos anteriores|
 
