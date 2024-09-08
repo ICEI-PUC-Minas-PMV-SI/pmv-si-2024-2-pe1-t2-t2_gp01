@@ -12,42 +12,43 @@ Caso deseje atribuir uma imagem a sua persona, utilize o site https://thisperson
 Persona 1: ***Marcos Ferreira - Dono da Barbearia Estilo***
 
 Idade: 32 anos
-Localização: Rio de Janeiro, RJ
-Profissão: Proprietário de barbearia
-Experiência com Tecnologia: Baixa (utiliza principalmente redes sociais e WhatsApp para comunicação, mas não tem experiência com softwares de gestão)
-Perfil Pessoal:
+Ocupação: Proprietário de barbearia
+Localização: Área urbana
+Estilo de Vida: Casado e pai de 3 filhos, ávido usuário de redes sociais, fã de futebol
+Renda: R$60.000 por ano
 
-Marcos é um empreendedor autônomo que abriu sua barbearia há 5 anos. Ele gosta de manter contato direto com os clientes e oferecer um serviço de qualidade, mas percebe que o mercado está se modernizando rapidamente. O tempo que Marcos dedica ao atendimento acaba sendo consumido por tarefas administrativas, o que o faz procurar uma solução digital para simplificar o dia a dia de seu negócio.
-Principais Problemas:
-
-    Organização de Agendamentos: Muitos clientes marcam horários por mensagens no WhatsApp ou pessoalmente, o que torna difícil o controle de horários e aumenta o risco de erros ou overbooking.
-    Gestão Financeira: Marcos tem dificuldades em acompanhar as finanças da barbearia e os pagamentos dos clientes, especialmente com a crescente demanda por serviços.
-    Fidelização e Promoções: Marcos gostaria de fidelizar seus clientes com promoções e descontos, mas não sabe como fazer isso de forma eficaz.
-    Comunicação com Clientes: A comunicação com os clientes é feita de forma manual e ele gostaria de automatizar lembretes de agendamentos e avisos sobre promoções.
-
-Objetivos para o App:
-
-    Facilidade de Agendamento: Um sistema simples de agendamento onde os clientes possam marcar e ver horários disponíveis de forma online, sem precisar ligar ou mandar mensagens.
-    Automatização de Notificações: Notificações automáticas para os clientes, como lembretes de cortes agendados e avisos sobre promoções ou pacotes especiais.
-    Gestão Financeira: Controle de fluxo de caixa e rastreamento de pagamentos, com relatórios automáticos de vendas e despesas.
-    Promoções e Programas de Fidelidade: Criar um sistema de recompensas para clientes fiéis e promoções periódicas, tudo integrado ao app.
-    Avaliações e Feedback: Receber feedback e avaliações diretamente pelo aplicativo para melhorar os serviços e acompanhar a satisfação dos clientes.
-
-Expectativas:
-
-Marcos quer uma solução que seja fácil de entender e usar, tanto para ele quanto para seus clientes. Ele prefere algo que automatize o máximo de processos possível para que ele possa focar mais no atendimento e menos nas tarefas administrativas. O app precisa ser simples e intuitivo, com suporte em português e que funcione bem no celular.
-Tecnologia Atual:
-
-    Smartphone: Android
-    Gestão Atual: Caderno de anotações para agendamentos e uma planilha simples para as finanças
-
-Citações:
-
-    “Eu só quero que meus clientes possam marcar os horários sozinhos, sem ter que ficar respondendo mensagem o tempo todo.”
-    “Seria ótimo ter um jeito de lembrar os clientes das promoções e das próximas visitas, tudo automático.”
-    “Não tenho tempo para aprender algo complicado, o app tem que ser direto e fácil de usar.”
+  Histórico:
   
+Marcos é um empreendedor autônomo que abriu sua barbearia há 5 anos. Ele gosta de manter contato direto com os clientes e oferecer um serviço de qualidade, mas percebe que o mercado está se modernizando rapidamente. O tempo que Marcos dedica ao atendimento acaba sendo consumido por tarefas administrativas, o que o faz procurar uma solução digital para simplificar o dia a dia de seu negócio.
 
+  Objetivos:
+
+- Facilidade de agendamento por parte do próprio cliente
+- Automatização de notificações para os clientes, como lembretes dos agendamentos e avisos sobre promoções e pacotes especiais
+- Criação de um sistema de recompensas para garantir a fidelização dos clientes
+- Formulários de avaliação dos serviços por parte dos clientes, com o intuito de receber feedback sobre a satisfação dos consumidores
+
+  Dificuldades/problemas:
+
+- Falta de tempo para gerir os agendamentos
+- Os agendamentos improvisados via Whatsapp consomem tempo que poderia ser melhor aproveitado no atendimento direto aos clientes
+- O Whatsapp, como instrumento de gestão de agendamentos, não apresenta uma estrutura adequada
+- A administração de pessoal necessita de maior formalização, para que as informações se tornem mais claras e inequívocas
+
+  Funcionalidades que atraem Marcos:
+
+- Calendário com exibição de todos os horários marcados
+- Exibição para os clientes de todos os serviços disponibilizados pela barbearia
+- Pequenos relatórios com o histórico de serviços contratados por cada cliente
+- Pop-ups chamativos com promoções e programas de fidelização
+- Relatório de satisfação dos clientes gerado a partir dos formulários das pesquisas respondidas pelos consumidores
+
+ Plataformas preferidas: 
+
+- Aplicativo móvel (Android e iOS) 
+
+- Mídias sociais (Whatsapp para contatos profissionais e pessoais e Instagram para entretenimento e para acompanhar tendências de corte e estilo) 
+  
 Persona 2:  ***Alex - consumidor de serviços de corte e barba***
 
 Idade: 28 anos 
@@ -98,7 +99,44 @@ Funcionalidades que atraem Alex:
 
 - Mídias sociais (Instagram para inspiração de estilo) 
 
- 
+Persona 3:  ***Ricardo, barbeiro que trabalha com Marcos***
+
+Idade: 23 anos 
+Ocupação: Barbeiro
+Localização: Área urbana 
+Estilo de Vida: Despojado, solteiro, sem filhos, fã de música eletrônica
+Renda: R$25.000 por ano 
+
+ Histórico: 
+
+Ricardo fez um curso profissionalizante de barbearia há cerca de um ano, tendo, então, se disponibilizado para trabalhar na barbaearia de Marcos. Como ainda é um profissional em início de carreira, não tem tantos clientes fiéis como Marcos. Se inspirando em seus colegas com mais experiência, ele pretende aumentar sua renda como barbeiro nos próximos anos, até estabilizar-se financeiramente. 
+
+Objetivos: 
+
+- Ganhar experiência como barbeiro
+- Aumentar seu nível de exposição ao público amplo e obter reconhecimento profissional por intermédio de boas avaliações por parte dos clientes
+- Obter feedback a respeito das tendências em voga por meio dos comentários dos clientes
+- Ter registros organizados a respeito de sua agenda de trabalho, verificar quais horários estão preenchidos e quais horários estão vagos
+
+Dificuldades/Problemas: 
+
+- Dificuldade na previsão da quantidade de clientes em uma determinada semana
+- Muitos horários vagos ao longo do dia
+- Ocasionalmente, excesso de clientes em um mesmo horário
+
+Funcionalidades que atraem Ricardo: 
+
+- Calendário com exibição de todos os horários marcados
+- Exibição para os clientes de todos os serviços prestados por ele
+- Pequenos relatórios com o histórico de serviços prestados para cada cliente
+- Relatório de satisfação dos clientes gerado a partir dos formulários das pesquisas respondidas por eles
+
+ Plataformas preferidas: 
+
+- Aplicativo móvel (Android e iOS) 
+
+- Mídias sociais (Whatsapp para contatos pessoais e Instagram para entretenimento e verificação de tendências em seu ramo de trabalho)
+
 ## Histórias de Usuários
 
 **CONTEXTO:** Usários Finais - Clientes do Salão 
