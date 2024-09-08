@@ -141,15 +141,9 @@ Funcionalidades que atraem Ricardo:
 
 |**EU COMO:**|**QUERO/PRECISO:**|**FUNCIONALIDADE:**|**PARA:**|
 |------|-----------------------------------------|----|-----|
-|Clientes do Salão |Agendar um corte de cabelo diretamente pela internet|Agendamento com escolha de data, horário e profissional|Evitar filas e otimização de tempo|
+|Cliente do Salão |Agendar um corte de cabelo diretamente pela internet|Agendamento com escolha de data, horário e profissional|Evitar filas e otimização de tempo|
+|Cliente do salão de beleza| Receber uma notificação antes do meu horário de corte de cabelo|Envio de lembretes automáticos via push notification ou SMS|Não esquecer meu compromisso e chegar a tempo|
 
-**EU COMO:** Cliente do salão de beleza 
-
-**QUERO/PRECISO:** Agendar um corte de cabelo diretamente pelo aplicativo
-
-**FUNCIONALIDADE:** Funcionalidade de agendamento online com escolha de data, horário e profissional
-
-**PARA:** Garantir que terei um horário reservado, evitando filas e otimizando meu tempo
 
 **EU COMO:** Cliente do salão de beleza
 
