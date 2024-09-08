@@ -50,7 +50,7 @@ Marcos é um empreendedor autônomo que abriu sua barbearia há 5 anos. Ele gost
   
 Persona 2:  ***Alex - consumidor de serviços de corte e barba***
 
-![Face|400](https://github.com/user-attachments/assets/b9c9ac44-0689-4afc-bc28-aee5151205b9| width=100)
+![Face](https://github.com/user-attachments/assets/b9c9ac44-0689-4afc-bc28-aee5151205b9 | width=100)
 
 
 Idade: 28 anos 
