@@ -31,6 +31,4 @@ Dados da Associação Brasileira de Franchising (ABF) demonstram que 30% do fatu
 
 Portanto, o público-alvo pretendido consiste principalmente em homens que já consomem serviços de barbearia com foco em cuidados pessoais, como corte de cabelo, barba e cuidados com a pele. Trata-se de um grupo que tem demonstrado crescente propensão à utilização da tecnologia para agendar serviços online. Por estarem inseridos em uma rotina dinâmica, com inúmeros compromissos diários, uma aplicação simples e intuitiva poderá ser atrativa, devido à praticidade e à agilidade oferecidas pelo sistema de agendamentos via internet.
 
-![GestÃo de Agendamentos(1)](https://github.com/user-attachments/assets/1d9ab351-9ffa-4ef9-82a7-dc63c32bd303)
-
-
+<img width="856" alt="Screenshot 2024-09-08 at 6 58 16 PM" src="https://github.com/user-attachments/assets/01c76d57-b0d9-433a-8a62-6c183881fe1a">
