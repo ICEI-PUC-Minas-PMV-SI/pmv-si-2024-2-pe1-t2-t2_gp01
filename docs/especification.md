@@ -61,7 +61,7 @@ Renda: R$40.000 por ano
 
 Alex é um jovem profissional que valoriza sua aparência, mas tem uma agenda ocupada devido aos compromissos do trabalho e  sociais. Ele frequentemente encontra dificuldades para agendar horarios em meio ao seu estilo de vida corrido. 
 
-Objetivos: 
+ Objetivos: 
 
 - Manter um corte de cabelo estiloso e uma rotina de cuidados sem gastar muito tempo. 
 
@@ -139,7 +139,8 @@ Funcionalidades que atraem Ricardo:
 
 ## Histórias de Usuários
 
-**CONTEXTO:** Usários Finais - Clientes do Salão 
+|**CONTEXTO:**|**EU COMO:**|**QUERO/PRECISO:**|**FUNCIONALIDADE:**|**PARA:**|
+|Clientes do Salão |Agendar um corte de cabelo diretamente pela internet|Agendamento com escolha de data, horário e profissional|Evitar filas e otimização de tempo|
 
 **EU COMO:** Cliente do salão de beleza 
 
