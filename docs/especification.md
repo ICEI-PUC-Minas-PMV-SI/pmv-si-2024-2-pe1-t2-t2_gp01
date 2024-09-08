@@ -12,9 +12,13 @@ Caso deseje atribuir uma imagem a sua persona, utilize o site https://thisperson
 Persona 1: ***Marcos Ferreira - Dono da Barbearia Estilo***
 
 Idade: 32 anos
+
 Ocupação: Proprietário de barbearia
+
 Localização: Área urbana
+
 Estilo de Vida: Casado e pai de 3 filhos, ávido usuário de redes sociais, fã de futebol
+
 Renda: R$60.000 por ano
 
   Histórico:
