@@ -139,47 +139,28 @@ Funcionalidades que atraem Ricardo:
 
 ## Histórias de Usuários
 
+***Contexto: Dono da Barbearia***
+
+|**EU COMO:**|**QUERO/PRECISO:**|**FUNCIONALIDADE:**|**PARA:**|
+|------|-----------------------------------------|----|-----|
+|Dono do estabelecimento|Ver a agenda de todos os clientes e funcionários|Visualização e gestão da agenda de serviços, com possibilidade de edição|Planejamento do trabalho e otimização do tempo entre atendimentos|
+|Dono do estabelecimentos|Receber informações sobre a satisfação da clientela|Visualização de avaliações quantitativas e de comentários dos clientes|Realizar uma melhoria contínua nos serviços prestados e recompensar meus funcionários|
+
+***Contexto: Clientes da barbearia***
+
 |**EU COMO:**|**QUERO/PRECISO:**|**FUNCIONALIDADE:**|**PARA:**|
 |------|-----------------------------------------|----|-----|
 |Cliente do Salão |Agendar um corte de cabelo diretamente pela internet|Agendamento com escolha de data, horário e profissional|Evitar filas e otimização de tempo|
-|Cliente do salão de beleza| Receber uma notificação antes do meu horário de corte de cabelo|Envio de lembretes automáticos via push notification ou SMS|Não esquecer meu compromisso e chegar a tempo|
+|Cliente do salão| Receber uma notificação antes do meu horário de corte de cabelo|Envio de lembretes automáticos via push notification ou SMS|Não esquecer meu compromisso e chegar a tempo|
+|Cliente do salão|Visualizar meu histórico de serviços e valores pagos|Exibição de um histórico de serviços no meu perfil|Acompanhar os tipos de cortes que já fiz e decidir com base nos anteriores|
 
+***Contexto: funcionários da barbearia***
 
-**EU COMO:** Cliente do salão de beleza
-
-**QUERO/PRECISO:** Receber uma notificação antes do meu horário de corte de cabelo
-
-**FUNCIONALIDADE:** Envio de lembretes automáticos via push notification ou SMS
-
-**PARA:** Não esquecer meu compromisso e chegar a tempo
-
-**EU COMO:** Cliente do salão de beleza
-
-**QUERO/PRECISO:** Visualizar o histórico dos meus últimos serviços prestados
-
-**FUNCIONALIDADE:** Exibição de um histórico de serviços no perfil do cliente
-
-**PARA:** Acompanhar os tipos de cortes que já fiz e decidir com base nos anteriores
-
-
-**CONTEXTO:** Adiministrador-Profissional do Salão
-
-**EU COMO:** Profissional do salão de beleza
-
-**QUERO/PRECISO:** Ver a agenda dos meus clientes e horários disponíveis
-
-**FUNCIONALIDADE:** Visualização e gestão da agenda de serviços, com possibilidade de edição
-
-**PARA:** Planejar meu dia de trabalho e otimizar o tempo entre os atendimentos
-
-**EU COMO:** Profissional do salão de beleza
-
-**QUERO/PRECISO:** Cancelar ou remarcar agendamentos de clientes em casos excepcionais
-
-**FUNCIONALIDADE:** Opção de alteração e cancelamento de horários no sistema
-
-**PARA:** Gerenciar imprevistos e organizar minha agenda de maneira flexível
-
+|**EU COMO:**|**QUERO/PRECISO:**|**FUNCIONALIDADE:**|**PARA:**|
+|------|-----------------------------------------|----|-----|
+|Funcionário|Cancelar ou remarcar agendamentos em casos excepcionais|Edição da agenda de atendimentos|Gerenciar imprevistos e organizar minha agenda de maneira flexível|
+|Funcionário|Me expor ao público da minha região|Exibição do meu perfil no site da barbearia|Aumentar minha visibilidade como profissional|
+|Funcionário|Receber feedback sobre meus serviços|Sistema de avaliação e comentários dos clientes|Aprimorar minhas habilidades como profissional de barbearia|
 
 ## Requisitos
 
