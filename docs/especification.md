@@ -140,6 +140,7 @@ Funcionalidades que atraem Ricardo:
 ## Histórias de Usuários
 
 |**CONTEXTO:**|**EU COMO:**|**QUERO/PRECISO:**|**FUNCIONALIDADE:**|**PARA:**|
+|------|-----------------------------------------|----|-----|----------|
 |Clientes do Salão |Agendar um corte de cabelo diretamente pela internet|Agendamento com escolha de data, horário e profissional|Evitar filas e otimização de tempo|
 
 **EU COMO:** Cliente do salão de beleza 
