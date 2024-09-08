@@ -31,13 +31,6 @@ Dados da Associação Brasileira de Franchising (ABF) demonstram que 30% do fatu
 
 Portanto, o público-alvo pretendido consiste principalmente em homens que já consomem serviços de barbearia com foco em cuidados pessoais, como corte de cabelo, barba e cuidados com a pele. Trata-se de um grupo que tem demonstrado crescente propensão à utilização da tecnologia para agendar serviços online. Por estarem inseridos em uma rotina dinâmica, com inúmeros compromissos diários, uma aplicação simples e intuitiva poderá ser atrativa, devido à praticidade e à agilidade oferecidas pelo sistema de agendamentos via internet.
 
+![GestÃo de Agendamentos(1)](https://github.com/user-attachments/assets/1d9ab351-9ffa-4ef9-82a7-dc63c32bd303)
 
-![image](https://github.com/user-attachments/assets/d2c63d48-aea5-45f3-aa99-b2bfc4ab2b1a)
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
