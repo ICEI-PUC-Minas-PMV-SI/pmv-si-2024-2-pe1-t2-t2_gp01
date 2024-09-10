@@ -4,7 +4,7 @@ Nessa seção da documentação do projeto serão detalhados os perfis dos usuá
 
 ## Personas
   
-Persona 1: ***Marcos Ferreira da Silva- Dono da Barbearia Estilo***
+Persona 1: ***Marcos Ferreira dos Santos- Dono da Barbearia Estilo***
 
 Idade: 45 anos
 
