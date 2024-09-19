@@ -1,5 +1,5 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15690107&assignment_repo_type=AssignmentRepo)
-# Título do Projeto
+# Gestão de Agendamentos
 
 `CURSO: Sistemas de Informação`
 
@@ -7,7 +7,10 @@
 
 `SEMESTRE: 1º`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Esse projeto visa ao desenvolvimento de uma aplicação web que permita o agendamento de horários em uma barbearia situada no interior de Minas Gerais. Os horários, bem como o barbeiro que prestará o serviço, serão escolhidos, de maneira rápida e fácil, pelos próprios clientes. A agenda de cada funcionário da barbearia ficará visível em um calendário, para que não haja ambiguidades no agendamento. 
+
+A aplicação também disponibilizará formulários de avaliação, a fim de que seja possível uma melhoria contínua nos serviços prestados. Também haverá exibição de promoções e lembretes dos horários agendados por cada cliente, via notificações pop-up.
+
 
 ## Integrantes
 

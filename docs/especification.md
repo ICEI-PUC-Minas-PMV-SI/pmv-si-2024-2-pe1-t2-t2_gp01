@@ -1,19 +1,56 @@
-# Especificações do Projeto_
+# Especificações do Projeto
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto.
-
-Caso deseje atribuir uma imagem a sua persona, utilize o site https://thispersondoesnotexist.com/
+Nessa seção da documentação do projeto serão detalhados os perfis dos usuários do sistema, bem como as funcionalidades que a aplicação deverá apresentar, por exemplo a gestão dos agendamentos, a gestão de sistemas de recompensa e a obtenção de feedbacks oriundos dos clientes. Dessa maneira, haverá ganho de produtividade e economia de tempo, tanto no que diz respeito aos clientes, quanto no que diz respeito à barbearia.
 
 ## Personas
   
+Persona 1: ***Marcos Ferreira- Dono da Barbearia Estilo***
 
+Idade: 45 anos
+
+Ocupação: Proprietário de barbearia
+
+Localização: Área urbana
+
+Estilo de Vida: Casado e pai de 3 filhos, ávido usuário de redes sociais, fã de futebol
+
+Renda: R$60.000 por ano
+
+  Histórico:
   
+Marcos é um empreendedor autônomo que abriu sua barbearia há 5 anos. Ele gosta de manter contato direto com os clientes e oferecer um serviço de qualidade, mas percebe que o mercado está se modernizando rapidamente. O tempo que Marcos dedica ao atendimento acaba sendo consumido por tarefas administrativas, o que o faz procurar uma solução digital para simplificar o dia a dia de seu negócio.
 
-Nome: João 
+  Objetivos:
 
-Idade: 24 anos 
+- Facilidade de agendamento por parte do próprio cliente
+- Automatização de notificações para os clientes, como lembretes dos agendamentos e avisos sobre promoções e pacotes especiais
+- Criação de um sistema de recompensas para garantir a fidelização dos clientes
+- Formulários de avaliação dos serviços por parte dos clientes, com o intuito de receber feedback sobre a satisfação dos consumidores
+
+  Dificuldades/problemas:
+
+- Falta de tempo para gerir os agendamentos
+- Os agendamentos improvisados via Whatsapp consomem tempo que poderia ser melhor aproveitado no atendimento direto aos clientes
+- O Whatsapp, como instrumento de gestão de agendamentos, não apresenta uma estrutura adequada
+- A administração de pessoal necessita de maior formalização, para que as informações se tornem mais claras e inequívocas
+
+  Funcionalidades que atraem Marcos:
+
+- Calendário com exibição de todos os horários marcados
+- Exibição para os clientes de todos os serviços disponibilizados pela barbearia
+- Pequenos relatórios com o histórico de serviços contratados por cada cliente
+- Pop-ups chamativos com promoções e programas de fidelização
+- Relatório de satisfação dos clientes gerado a partir dos formulários das pesquisas respondidas pelos consumidores
+
+ Plataformas preferidas: 
+
+- Aplicativo móvel (Android e iOS) 
+
+- Mídias sociais (Whatsapp para contatos profissionais e pessoais e Instagram para entretenimento e para acompanhar tendências de corte e estilo) 
+  
+Persona 2:  ***Alex - consumidor de serviços de corte e barba***
+
+Idade: 28 anos 
 
 Ocupação: Gerente de Marketing 
 
@@ -21,17 +58,13 @@ Localização: Área urbana
 
 Estilo de Vida: Ocupado, focado na carreira, adepto da tecnologia 
 
-Renda: $40.000 por ano 
-
-  
+Renda: R$40.000 por ano 
 
  Histórico: 
 
 Alex é um jovem profissional que valoriza sua aparência, mas tem uma agenda ocupada devido aos compromissos do trabalho e  sociais. Ele frequentemente encontra dificuldades para agendar horarios em meio ao seu estilo de vida corrido. 
 
-  
-
-Objetivos: 
+ Objetivos: 
 
 - Manter um corte de cabelo estiloso e uma rotina de cuidados sem gastar muito tempo. 
 
@@ -40,8 +73,6 @@ Objetivos:
 - Acessar conselhos de estilo e tendências. 
 
 - Ler avaliações e classificações sobre barbeiros e suas especialidades. 
-
-  
 
 Dificuldades/Problemas: 
 
@@ -52,8 +83,6 @@ Dificuldades/Problemas:
 - Sentir-se sobrecarregado com muitas opções sem recomendações adequadas. 
 
 - Experiências inconsistentes dependendo da barbearia. 
-
-  
 
 Funcionalidades que atraem Alex: 
 
@@ -67,32 +96,78 @@ Funcionalidades que atraem Alex:
 
 - Inspiração de estilo: Uma galeria de cortes de cabelo em tendência para inspirar seu próximo visual. 
 
-  
-
  Plataformas preferidas: 
 
 - Aplicativo móvel (Android e iOS) 
 
 - Mídias sociais (Instagram para inspiração de estilo) 
 
- 
+Persona 3:  ***Ricardo, barbeiro que trabalha com Marcos***
+
+Idade: 23 anos 
+
+Ocupação: Barbeiro
+
+Localização: Área urbana 
+
+Estilo de Vida: Despojado, solteiro, sem filhos, fã de música eletrônica
+
+Renda: R$25.000 por ano 
+
+ Histórico: 
+
+Ricardo fez um curso profissionalizante de barbearia há cerca de um ano, tendo, então, se disponibilizado para trabalhar na barbaearia de Marcos. Como ainda é um profissional em início de carreira, não tem tantos clientes fiéis como Marcos. Se inspirando em seus colegas com mais experiência, ele pretende aumentar sua renda como barbeiro nos próximos anos, até estabilizar-se financeiramente. 
+
+Objetivos: 
+
+- Ganhar experiência como barbeiro
+- Aumentar seu nível de exposição ao público amplo e obter reconhecimento profissional por intermédio de boas avaliações por parte dos clientes
+- Obter feedback a respeito das tendências em voga por meio dos comentários dos clientes
+- Ter registros organizados a respeito de sua agenda de trabalho, verificar quais horários estão preenchidos e quais horários estão vagos
+
+Dificuldades/Problemas: 
+
+- Dificuldade na previsão da quantidade de clientes em uma determinada semana
+- Muitos horários vagos ao longo do dia
+- Ocasionalmente, excesso de clientes em um mesmo horário
+
+Funcionalidades que atraem Ricardo: 
+
+- Calendário com exibição de todos os horários marcados
+- Exibição para os clientes de todos os serviços prestados por ele
+- Pequenos relatórios com o histórico de serviços prestados para cada cliente
+- Relatório de satisfação dos clientes gerado a partir dos formulários das pesquisas respondidas por eles
+
+ Plataformas preferidas: 
+
+- Aplicativo móvel (Android e iOS) 
+
+- Mídias sociais (Whatsapp para contatos pessoais e Instagram para entretenimento e verificação de tendências em seu ramo de trabalho)
+
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+***Contexto: Dono da Barbearia***
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|**EU COMO:**|**QUERO/PRECISO:**|**FUNCIONALIDADE:**|**PARA:**|
+|------|-----------------------------------------|----|-----|
+|Dono do estabelecimento|Ver a agenda de todos os clientes e funcionários|Visualização e gestão da agenda de serviços, com possibilidade de edição|Planejamento do trabalho e otimização do tempo entre atendimentos|
+|Dono do estabelecimento|Receber informações sobre a satisfação da clientela|Visualização de avaliações quantitativas e de comentários dos clientes|Realizar uma melhoria contínua nos serviços prestados e recompensar meus funcionários|
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
+***Contexto: Clientes da barbearia***
 
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
+|**EU COMO:**|**QUERO/PRECISO:**|**FUNCIONALIDADE:**|**PARA:**|
+|------|-----------------------------------------|----|-----|
+|Cliente do salão |Agendar um corte de cabelo diretamente pela internet|Agendamento com escolha de data, horário e profissional|Evitar filas e otimização de tempo|
+|Cliente do salão| Receber uma notificação antes do meu horário de corte de cabelo|Envio de lembretes automáticos via push notification ou SMS|Não esquecer meu compromisso e chegar a tempo|
+|Cliente do salão|Visualizar meu histórico de serviços e valores pagos|Exibição de um histórico de serviços no meu perfil|Acompanhar os tipos de cortes que já fiz e decidir com base nos anteriores|
+
+***Contexto: funcionários da barbearia***
+
+|**EU COMO:**|**QUERO/PRECISO:**|**FUNCIONALIDADE:**|**PARA:**|
+|------|-----------------------------------------|----|-----|
+|Funcionário|Cancelar ou remarcar agendamentos em casos excepcionais|Edição da agenda de atendimentos|Gerenciar imprevistos e organizar minha agenda de maneira flexível|
+|Funcionário|Me expor ao público da minha região|Exibição do meu perfil no site da barbearia|Aumentar minha visibilidade como profissional|
+|Funcionário|Receber feedback sobre meus serviços|Sistema de avaliação e comentários dos clientes|Aprimorar minhas habilidades como profissional de barbearia|
 
 ## Requisitos
 
@@ -111,7 +186,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-007| O cliente deve ser capaz de escolher entre as opções de corte, barba e sobrancelha, inclusive dois ou mais desses itens simultaneamente |ALTA|
 |RF-008| A aplicação deve exibir os horários disponíveis e os horários não disponíveis de cada funcionário para o prazo mínimo de 2 meses |ALTA|
 |RF-009| O cliente deve ser capaz de registrar o horário definido na agenda de cortes, bem como qual funcionário foi escolhido para o serviço |ALTA|
-|RF-010| A aplicação deve ser capaz de exibir ofertas e promoções |BAIXA| 
+|RF-010| Os campos dos formulários devem conter máscaras para evitar que os usuários digitem informações incorretas |MÉDIA|
+|RF-011| A aplicação deve ser capaz de exibir ofertas e promoções |BAIXA| 
+
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
@@ -120,35 +197,3 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-002| A aplicação deve ser desenvolvida utilizando as linguagens HTML, CSS e JavaScript |ALTA| 
 |RNF-003| As telas da aplicação devem conter informações claras e inequívocas, sem excesso de conteúdo |ALTA|
 |RNF-004| Os formulários devem ser intuitivos e de fácil compreensão |ALTA|
-|RNF-005| Os campos dos formulários devem conter máscaras para evitar que os usuários digitem informações incorretas |MÉDIA|
-
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-
-## Restrições
-
-O projeto está restrito pelos itens apresentados na tabela a seguir.
-
-|ID| Restrição                                             |
-|--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
-
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
