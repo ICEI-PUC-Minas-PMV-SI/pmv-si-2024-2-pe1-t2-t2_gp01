@@ -12,7 +12,7 @@ Soluções improvisadas como whatsapp e anotação dos horários em uma folha de
 
 Objetivos:
 
-## Objetivos (alt teste_)
+## Objetivos
 
 A aplicação a ser desenvolvida tem como objetivo aumentar a aderência de um pequeno negócio de serviços de barbearia à tecnologia da informação, bem como elevar o nível de exposição do negócio ao público amplo da região, o que cria a potencialidade de alavancagem dos rendimentos. 
 
