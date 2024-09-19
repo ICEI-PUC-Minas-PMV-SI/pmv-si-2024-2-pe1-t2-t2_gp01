@@ -29,6 +29,7 @@ Assim, o projeto desenvolvido trará impacto real para um negócio pertencente a
 
 O público-alvo pretendido consiste principalmente de homens que já consomem serviços de barbearia com foco em cuidados pessoais como corte de cabelo, barba e cuidados com a pele. Trata-se de um grupo  a utilizar a tecnologia para agendar serviços online, 
 
+Teste
 
 
 
