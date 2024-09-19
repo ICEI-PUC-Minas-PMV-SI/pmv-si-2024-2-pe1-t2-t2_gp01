@@ -2,7 +2,7 @@
 
 Nessa seção da documentação do projeto serão detalhados os perfis dos usuários do sistema, bem como as funcionalidades que a aplicação deverá apresentar, por exemplo a gestão dos agendamentos, a gestão de sistemas de recompensa e a obtenção de feedbacks oriundos dos clientes. Dessa maneira, haverá ganho de produtividade e economia de tempo, tanto no que diz respeito aos clientes, quanto no que diz respeito à barbearia.
 
-## Personas
+## Personas 
   
 Persona 1: ***Marcos Ferreira- Dono da Barbearia Estilo***
 
