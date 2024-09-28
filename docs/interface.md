@@ -34,14 +34,3 @@ Página para a escolha dos serviços e valores com a opção de pagamento.
 Página para a avaliação dos serviços e funcionários.
 
 ![Avaliacao do servico e funcionarios](https://github.com/user-attachments/assets/146e174f-e10e-42dd-8620-1ced5fd8e1bf)
-
-
- 
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [Axure](https://www.axure.com/edu) (Licença Educacional)
-> - [InvisionApp](https://www.invisionapp.com/) (Licença Educacional)
