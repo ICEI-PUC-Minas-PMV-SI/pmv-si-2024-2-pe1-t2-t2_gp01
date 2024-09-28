@@ -4,7 +4,7 @@
 ## User Flow
 
 ![image](https://github.com/user-attachments/assets/9da27e6c-0a09-41ee-81df-8602ee567624)
-![image](https://github.com/user-attachments/assets/9b989a16-a2d0-454c-85db-5051b2f0bb12)
+![image](https://github.com/user-attachments/assets/23b9d0df-1f4a-4ffd-9c0c-997a0ece6b47)
 ![image](https://github.com/user-attachments/assets/4a8b320f-4b5a-4867-9ced-507bd69636ce)
 ![image](https://github.com/user-attachments/assets/cdc7ee8a-45da-40cf-9eeb-915b562f74a0)
 ![image](https://github.com/user-attachments/assets/708f7994-8038-4403-a1d9-cbb9ff7bf55c)
