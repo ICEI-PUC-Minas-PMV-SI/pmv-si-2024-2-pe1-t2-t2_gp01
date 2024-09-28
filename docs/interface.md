@@ -1,16 +1,15 @@
 
 # Projeto de Interface
 
-Visão geral da interação do usuário pelas telas do sistema e protótipo interativo das telas com as funcionalidades que fazem parte do sistema (wireframes).
-
- Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
-
 ## User Flow
 
-![Exemplo de UserFlow](img/userflow.jpg)
-
-Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
-
+![image](https://github.com/user-attachments/assets/9da27e6c-0a09-41ee-81df-8602ee567624)
+![image](https://github.com/user-attachments/assets/9b989a16-a2d0-454c-85db-5051b2f0bb12)
+![image](https://github.com/user-attachments/assets/4a8b320f-4b5a-4867-9ced-507bd69636ce)
+![image](https://github.com/user-attachments/assets/cdc7ee8a-45da-40cf-9eeb-915b562f74a0)
+![image](https://github.com/user-attachments/assets/708f7994-8038-4403-a1d9-cbb9ff7bf55c)
+![image](https://github.com/user-attachments/assets/1038fdb0-a606-4061-b4a5-ac722570112f)
+![image](https://github.com/user-attachments/assets/d67f7198-be5e-4d72-ac26-3d47e597ee2a)
 
 
 ## Wireframes
