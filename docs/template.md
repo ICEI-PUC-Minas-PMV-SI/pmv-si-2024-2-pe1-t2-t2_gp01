@@ -16,8 +16,55 @@ Apresente a paleta de cores que será utilizada. Uma ferramenta interessante par
 
 ## Tipografia
 
-Apresente as fontes que serão utilizadas e sua função no site. As principais funções são: Título de página, Título de Seção, Rótulos de componentes e Corpo de Texto.
+**Título da página:**
 
+Fonte: Goldman
+Estilo: Regular
+Tamanho: 60
+Cor: #000000
+Opacidade: 100%
+
+**Texto de apresentação do site:**
+
+Fonte: Gruppo
+Estilo: Regular
+Tamanho: 65
+Cor 1: #000000
+Opacidade: 20%
+Cor 2: #000000
+Opacidade: 100%
+
+**Título da seção "Funcionalidades:**
+
+Fonte: Gruppo
+Estilo: Regular
+Tamanho: 54
+Cor: #000000
+Opacidade: 100%
+
+**Títulos dos ícones na página inicial:***
+
+Fonte: Galindo
+Estilo: Regular
+Tamanho: 35
+Cor: #000000
+Opacidade: 100%
+
+**Corpo de textos explicativos:**
+
+Fonte: Body/Font Family
+Estilo: Font Weight Strong
+Tamanho: 48
+Cor: #FFFFFF
+Opacidade: 100%
+
+**Textos presentes em botões:**
+
+Fonte: Inter
+Estilo: Semi bold
+Tamanho: 36
+Cor: #FFFFFF
+Opacidade: 100%
 
 ## Iconografia
 
