@@ -9,7 +9,8 @@ Explique as guias de estilo utilizadas no seu projeto.
 Detalhe os layouts que serão utilizados. Apresente onde será colocado o logo do sistema. Defina os menus padrões, entre outras coisas.
 
 
-## Cores
+## Cores 
+Utilação de cores neutras preto branca e cinza.
 
 
 ![Paleta ce cores](https://github.com/user-attachments/assets/f9cfd372-4755-40b4-b160-7eef8a1def73)
