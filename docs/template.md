@@ -181,7 +181,7 @@ Opacidade: 100%
 
 ![image](https://github.com/user-attachments/assets/175266e0-e4c0-4d96-b157-f6d7b0cbd944)
 
-##Estilos CSS
+## Estilos CSS
 
 **1.0 - Header**
 
