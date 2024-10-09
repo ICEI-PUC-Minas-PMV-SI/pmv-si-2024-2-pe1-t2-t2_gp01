@@ -22,7 +22,7 @@ Página para a escolha da data e do horário.
 
 ![Agendamento](https://github.com/user-attachments/assets/9411cc21-d0e4-4bb7-a58e-8c879529d74f)
 
-Página para a escolha dos serviços e valores com a opção de pagamento.
+Página para a escolha dos serviços e valores, com a opção de pagamento.
 
 ![Servicos e valores](https://github.com/user-attachments/assets/d45c849c-f34a-4e44-9da8-1e321097c099)
 
