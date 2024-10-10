@@ -14,3 +14,23 @@
      max-width: 200px; 
      height: auto;
 }
+
+#funcionalidades {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 3 colunas de tamanho igual */
+    grid-gap: 20px; /* Espaçamento entre as imagens */
+    justify-items: center; /* Centraliza as imagens dentro das colunas */
+    padding: 20px;
+    text-align: center;
+    justify-items: center;
+}
+
+#funcionalidades h1 {
+    grid-column: 1 / -1; /* Faz o título ocupar todas as colunas */
+    margin-bottom: 20px; /* Espaço abaixo do título */
+}
+
+#funcionalidades img {
+    max-width: 300px; /* Ajuste o tamanho máximo das imagens */
+    height: auto; /* Mantém a proporção das imagens */
+}
