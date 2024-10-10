@@ -1,7 +1,16 @@
 
-#logo_apresentacao {
+#apresentacao {
+    display: flex;
+    align-items: center; 
+    justify-content: space-between; 
+    padding: 20px;
+}
 
-    position: absolute;
-     left: 70%;
-     top: 15%;
+#apresentacao .conteudo-apresentacao {
+    max-width: 60%; 
+}
+
+#logo_apresentacao {
+     max-width: 200px; 
+     height: auto;
 }
