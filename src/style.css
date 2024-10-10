@@ -1,4 +1,12 @@
 
+#initial {
+    display:inline-flex;
+    text-align: center;
+    justify-content:left;
+    padding: 20px;
+
+}
+
 #apresentacao {
     display: flex;
     align-items: center; 
