@@ -64,7 +64,13 @@ body {
 }
 
 #logo_apresentacao {
-     max-width: 200px; 
+
+     /* max-width: 200px;  */
+
+     /* Aqui, aumentei por enquanto o tamanho do logo, para condizer com o design no FIgma */
+     width: 450px;
+     height: 450px;
+    
 }
 
 #funcionalidades {
