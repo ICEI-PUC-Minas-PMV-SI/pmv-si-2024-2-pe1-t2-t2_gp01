@@ -91,7 +91,6 @@ body {
     justify-items: center; 
     padding: 20px;
     text-align: center;
-    justify-items: center;
 }
 
 
@@ -99,7 +98,8 @@ body {
 
     position:relative;
     top:-4px;
-    border-bottom:6px solid #999;padding-bottom:6px
+    border-bottom:6px solid #999;
+    padding-bottom:6px;
     border: 6px;
     border-color: black;
     border-style: solid;
