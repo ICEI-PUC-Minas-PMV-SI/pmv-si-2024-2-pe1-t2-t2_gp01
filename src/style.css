@@ -17,6 +17,7 @@ body {
 
     display: flex;
     align-items: center;
+    gap: 40px;
     justify-content: space-between;
     padding: 20px;
     
@@ -33,14 +34,22 @@ body {
     text-align: center;
     font-size: 80px;
     font-family: "Goldman", sans-serif;
-    padding: 40px 600px 40px 250px;
+    padding: 40px 750px 40px 10px;
+}
+
+.foto-capa-container {
+
+    display: flex;
+    justify-content: center;
+
 }
 
 #apresentacao {
 
     display: flex;
     align-items: center; 
-    justify-content: space-between; 
+    justify-content: flex-end; 
+    gap: 450px;
     padding: 20px;
 }
 
@@ -61,7 +70,7 @@ body {
 
     font-family: "Gruppo", sans-serif;
     font-size: 50px;
-    text-align: left;
+    text-align: justify;
 }
 
 #logo_apresentacao {
