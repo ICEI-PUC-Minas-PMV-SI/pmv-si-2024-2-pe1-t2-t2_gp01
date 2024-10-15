@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Goldman:wght@400;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Gruppo&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.meus-cortes-container {
+
+    display: flex;
+    gap: 0px; 
+
+    height: 100vh;
+
+}
+.meus-cortes-esquerda {
+
+    background-color: #1E1E1E;
+    width:50%;
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    gap: 80px;
+   
+    
+}
+
+.meus-cortes-esquerda-botoes {
+
+    color:#FFFFFF;
+    width: 600px;
+    font-size: 65px;
+    padding: 2%;
+
+    text-align: center;
+    background-color: #000;
+    border: 8px double;
+    border-color: #FFFFFF;
+
+}
+
+.meus-cortes-direita {
+
+    background-color: #FFFFFF;
+    width:50%;
+   
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    gap: 80px;
+    
+}
+
+.meus-cortes-direita-logo {
+
+    padding: 15% 0%;
+}
+
+.meus-cortes-direita-icone {
+
+    padding: 0%;
+}
