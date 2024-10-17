@@ -28,7 +28,7 @@
 
     color: #FFFFFF;
     padding: 15% 15%;
-    font-size: 65px;
+    font-size: 50px;
     text-align: center;
    
 }
@@ -40,9 +40,74 @@
     background-color: #FFFFFF;
     width:60%;
    
-    /* display: flex;
+    display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: space-between;
-    gap: 80px; */
+    gap: 80px;
+    padding: 2% 0% 0% 0%;
+
+}
     
+.cadastro-direita-formulario {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    gap: 30px;  
+
+}
+
+.quadro-campos {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+    border: none;
+}
+
+.cadastro-direita-formulario-campo label {
+
+    margin-bottom: 0.2em;
+    color:black;
+    display:block;
+    font-size: 1.2em;
+
+}
+
+.cadastro-direita-formulario-campo input {
+
+    padding: 0.2em;
+    border: 2px solid rgb(0,0,0);
+    box-shadow: 2 px 2 px 2 px rgba(0,0,0,0.2);
+    display:block;
+    width: 30.0em;
+    height: 1.5em;
+    font-size:0.9em;
+}
+
+.cadastro-direita-formulario-campo input:focus {
+
+    background: rgb(230,230,230);
+
+}
+
+.cadastro-direita-formulario-botao button{
+
+    font-size: 25px;
+    color: white;
+    background-color: black ;
+    text-align: center;
+    padding: 1% 3% 1% 3%; 
+    width: 180px;
+    height: 40px;
+
+}
+
+.cadastro-direita-formulario-botao button:hover {
+
+    background-color: rgb(40,40,40);
+    box-shadow: rgba(0,0,0,0.2);
+}

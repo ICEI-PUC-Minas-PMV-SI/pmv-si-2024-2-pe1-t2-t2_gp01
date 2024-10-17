@@ -24,7 +24,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: space-between;
-    gap: 80px;
+    gap: 50px;
    
     
 }
@@ -32,8 +32,9 @@
 .promocoes-esquerda-texto {
 
     color: #FFFFFF;
-    padding: 15% 15%;
-    font-size: 65px;
+    padding: 5% 5%;
+    font-size: 40px;
+    text-align: justify;
    
 }
 
@@ -42,16 +43,22 @@
     color:#FFFFFF;
     text-align: center;
     width: 300px;
-    font-size: 65px;
+    font-size: 40px;
     padding: 0%;
 
     background-color: #000;
     border: 8px double;
     border-color: #ffffff;
+    padding: 2% 0%;
 
 
 }
 
+.promocoes-esquerda-botao:hover {
+
+    background-color: rgb(50,50,50);
+
+}
 .promocoes-esquerda-imagem {
 
     width: 20%;
@@ -68,15 +75,16 @@
     flex-direction: column;
     align-items: center;
     justify-content: space-between;
-    gap: 80px;
+    gap: 50px;
     
 }
 
 .promocoes-direita-texto {
 
     color: #000;
-    padding: 15% 15%;
-    font-size: 65px;
+    padding: 5% 5%;
+    font-size: 40px;
+    text-align: justify;
    
 
 }
@@ -85,19 +93,25 @@
 
     color:#FFFFFF;
     width: 300px;
-    font-size: 65px;
+    font-size: 40px;
     padding: 0%;
 
     text-align: center;
     background-color: #000;
     border: 8px double;
-    border-color: #1f1f1f;
+    border-color: #FFFFFF;
+    padding: 2% 0%;
 }
 
+.promocoes-direita-botao:hover {
+
+    background-color: rgb(50,50,50);
+
+}
 
 .promocoes-direita-imagem {
 
     width: 20%;
     height: 20%;
-    padding: 0% 0% 20% 0%;
+    padding: 0% 0% 15% 0%;
 }

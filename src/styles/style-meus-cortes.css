@@ -26,7 +26,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: space-around;
-    gap: 80px;
+    gap: 30px;
    
     
 }
@@ -34,8 +34,8 @@
 .meus-cortes-esquerda-botoes {
 
     color:#FFFFFF;
-    width: 600px;
-    font-size: 65px;
+    width: 300px;
+    font-size: 35px;
     padding: 2%;
 
     text-align: center;
@@ -45,6 +45,10 @@
 
 }
 
+.meus-cortes-esquerda-botoes:hover {
+
+    background-color: rgb(50,50,50);
+}
 .meus-cortes-direita {
 
     background-color: #FFFFFF;
@@ -54,16 +58,18 @@
     flex-direction: column;
     align-items: center;
     justify-content: space-around;
-    gap: 80px;
+    gap: 40px;
     
 }
 
 .meus-cortes-direita-logo {
 
-    padding: 15% 0%;
+    padding: 5% 0%;
+    max-width: 200px;
 }
 
 .meus-cortes-direita-icone {
 
     padding: 0%;
+    max-width: 200px;
 }

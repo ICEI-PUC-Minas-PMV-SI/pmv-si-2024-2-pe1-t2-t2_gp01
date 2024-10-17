@@ -13,44 +13,53 @@ body {
     height: 100vh;
 }
 
-.cabecalho {
+header {
 
     display: flex;
     align-items: center;
-    gap: 40px;
-    justify-content: space-between;
+    gap: 160px;
+    justify-content: last baseline;
     padding: 20px;
     
 }
 
 .cabecalho-logo {
 
-    padding: 30px;
+    max-width: 150px;
+    padding: 10px;
 }
 
 .cabecalho-texto {
 
     color:black;
     text-align: center;
-    font-size: 80px;
+    font-size: 45px;
     font-family: "Goldman", sans-serif;
-    padding: 40px 750px 40px 10px;
+    padding: 40px 200px 40px 10px;
+    text-align: center;
 }
 
 .foto-capa-container {
 
     display: flex;
-    justify-content: center;
+    flex-direction: column;
+   align-items: center;
 
+}
+
+.foto-capa-container img {
+
+    width: 700px;
+    height: 650px;
 }
 
 #apresentacao {
 
     display: flex;
     align-items: center; 
-    justify-content: flex-end; 
-    gap: 450px;
-    padding: 20px;
+    justify-content: space-between; 
+    gap: 200px;
+    padding: 10px;
 }
 
 #apresentacao .conteudo-apresentacao {
@@ -58,28 +67,29 @@ body {
     display: flex;
     flex-direction: column;
     gap: 30px;
+    padding: 0% 0% 0% 5%;
 }
 
 #apresentacao .conteudo-apresentacao-titulo {
 
     font-family: "Gruppo", sans-serif;
-    font-size: 65px;
+    font-size: 40px;
 }
 
 #apresentacao .conteudo-apresentacao-texto {
 
     font-family: "Gruppo", sans-serif;
-    font-size: 50px;
+    font-size: 30px;
     text-align: justify;
 }
 
 #logo_apresentacao {
 
-     /* max-width: 200px;  */
+     max-width: 200px; 
 
      /* Aqui, aumentei por enquanto o tamanho do logo, para condizer com o design no FIgma */
-     width: 450px;
-     height: 450px;
+     /* width: 450px;
+     height: 450px; */
     
 }
 
@@ -87,9 +97,9 @@ body {
 
     display: grid;
     grid-template-columns: repeat(3, 1fr); 
-    grid-gap: 20px; 
+    grid-gap: 10px; 
     justify-items: center; 
-    padding: 20px;
+    padding: 10px, 0px 0px, 5px;
     text-align: center;
 }
 
@@ -109,14 +119,14 @@ body {
 
 #funcionalidades h1 {
     
-    font-size: 60px;
+    font-size: 40px;
     font-family: "Gruppo", sans-serif;
     
     grid-column: 1 / -1; 
-    margin-bottom: 40px; 
+    margin-bottom: 10px; 
 }
 
 #funcionalidades img {
-    max-width: 300px; 
+    max-width: 180px; 
     height: auto; 
 }

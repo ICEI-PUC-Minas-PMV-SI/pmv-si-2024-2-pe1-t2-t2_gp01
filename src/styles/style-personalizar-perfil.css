@@ -31,7 +31,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: space-between;
-    gap: 80px;
+    gap: 60px;
     padding: 5% 0% 0% 0%
 
 
@@ -40,19 +40,24 @@
 .parte-escura-cima-texto{
 
     color: #ffffff;
-    font-size: 60px;
+    font-size: 45px;
 }
 
 .parte-escura-cima-botao{
 
     color: #ffffff;
-    font-size: 55px;
+    font-size: 40px;
     background-color: black;
-    width: 450px;
+    width: 350px;
     padding: 0%;
     text-align: center;
     border: 8px double;
     border-color: #FFFFFF;
+}
+
+.parte-escura-cima-botao:hover {
+
+    background-color: rgb(50,50,50);
 }
 
 .parte-escura-baixo {
@@ -61,7 +66,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: space-between;
-    gap: 80px;
+    gap: 60px;
     padding: 0% 0% 5% 0%
 
 
@@ -70,17 +75,22 @@
 .parte-escura-baixo-texto{
 
     color: #ffffff;
-    font-size: 60px;
+    font-size: 45px;
 }
 
 .parte-escura-baixo-botao{
 
     color: #ffffff;
-    font-size: 55px;
+    font-size: 40px;
     background-color: black;
-    width: 450px;
+    width: 350px;
     padding: 0%;
     text-align: center;
     border: 8px double;
     border-color: #FFFFFF;
+}
+
+.parte-escura-baixo-botao:hover {
+
+    background-color: rgb(50,50,50);
 }
