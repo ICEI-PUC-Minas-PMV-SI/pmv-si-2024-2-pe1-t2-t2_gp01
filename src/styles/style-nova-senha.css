@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Goldman:wght@400;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Gruppo&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.cadastro-container {
+
+    display: flex;
+    gap: 0px; 
+    height: 100vh;
+
+}
+.cadastro-esquerda {
+
+    background-color: #1E1E1E;
+    width:40%;
+    display: flex;
+    align-items: center;
+    
+}
+
+.cadastro-esquerda-texto {
+
+    color: #FFFFFF;
+    padding: 15% 15%;
+    font-size: 65px;
+    text-align: center;
+   
+}
+
+
+
+.cadastro-direita {
+
+    background-color: #FFFFFF;
+    width:60%;
+   
+    /* display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    gap: 80px; */
+    
