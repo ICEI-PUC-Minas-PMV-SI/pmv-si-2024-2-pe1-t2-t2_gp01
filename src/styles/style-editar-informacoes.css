@@ -8,14 +8,14 @@
 }
 
 
-.login-container {
+.editar-informacoes-container {
 
     display: flex;
     gap: 0px; 
     height: 100vh;
 
 }
-.login-esquerda {
+.editar-informacoes-esquerda {
 
     background-color: #1E1E1E;
     width:40%;
@@ -24,7 +24,7 @@
     
 }
 
-.login-esquerda-texto {
+.editar-informacoes-esquerda-texto {
 
     color: #FFFFFF;
     padding: 15% 15%;
@@ -33,7 +33,9 @@
    
 }
 
-.login-direita {
+
+
+.editar-informacoes-direita {
 
     background-color: #FFFFFF;
     width:60%;
