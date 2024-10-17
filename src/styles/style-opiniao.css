@@ -8,14 +8,14 @@
 }
 
 
-.cadastro-container {
+.opiniao-container {
 
     display: flex;
     gap: 0px; 
     height: 100vh;
 
 }
-.cadastro-esquerda {
+.opiniao-esquerda {
 
     background-color: #1E1E1E;
     width:40%;
@@ -24,7 +24,7 @@
     
 }
 
-.cadastro-esquerda-texto {
+.opiniao-esquerda-texto {
 
     color: #FFFFFF;
     padding: 15% 15%;
@@ -35,7 +35,7 @@
 
 
 
-.cadastro-direita {
+.opiniao-direita {
 
     background-color: #FFFFFF;
     width:60%;
@@ -45,4 +45,4 @@
     align-items: center;
     justify-content: space-between;
     gap: 80px; */
-    
+}
