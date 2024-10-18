@@ -1,86 +1,115 @@
 @import url('https://fonts.googleapis.com/css2?family=Goldman:wght@400;700&display=swap');
+
 @import url('https://fonts.googleapis.com/css2?family=Gruppo&display=swap');
 
 * {
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
-}
-
-html, body {
-    height: 100%;
-    width: 100%;
-    overflow: hidden; /* Esconde a barra de rolagem */
 }
 
 .promocoes-container {
-    display: flex;
-    width: 100%;
-    height: 100%; /* Garante que o container ocupe toda a altura */
-    gap: 0px;
-}
 
-.promocoes-esquerda, .promocoes-direita {
-    width: 50%;
+    display: flex;
+    gap: 0px; 
+
+}
+.promocoes-esquerda {
+
+    background-color: #1E1E1E;
+    width:50%;
+    
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: space-between;
     gap: 50px;
-}
-
-.promocoes-esquerda {
-    background-color: #1E1E1E;
-}
-
-.promocoes-esquerda-texto,
-.promocoes-direita-texto {
-    padding: 5%;
-    font-size: 40px;
-    text-align: justify;
+   
+    
 }
 
 .promocoes-esquerda-texto {
-    color: #FFFFFF;
-}
 
-.promocoes-esquerda-botao,
-.promocoes-direita-botao {
-    width: 300px;
+    color: #FFFFFF;
+    padding: 5% 5%;
     font-size: 40px;
-    padding: 2% 0%;
-    text-align: center;
-    background-color: #000;
-    border: 8px double;
-    cursor: pointer;
+    text-align: justify;
+   
 }
 
 .promocoes-esquerda-botao {
-    border-color: #FFFFFF;
-    color: #FFFFFF;
+
+    color:#FFFFFF;
+    text-align: center;
+    width: 300px;
+    font-size: 40px;
+    padding: 0%;
+
+    background-color: #000;
+    border: 8px double;
+    border-color: #ffffff;
+    padding: 2% 0%;
+
+
 }
 
-.promocoes-esquerda-botao:hover,
-.promocoes-direita-botao:hover {
-    background-color: rgb(50, 50, 50);
-}
+.promocoes-esquerda-botao:hover {
 
-.promocoes-esquerda-imagem,
-.promocoes-direita-imagem {
-    width: 30%;
-    height: 30%;
-    padding-bottom: 15%;
+    background-color: rgb(50,50,50);
+
+}
+.promocoes-esquerda-imagem {
+
+    width: 20%;
+    height: 20%;
+    padding: 0% 0% 15% 0%;
 }
 
 .promocoes-direita {
+
     background-color: #FFFFFF;
+    width:50%;
+   
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    gap: 50px;
+    
 }
 
 .promocoes-direita-texto {
+
     color: #000;
+    padding: 5% 5%;
+    font-size: 40px;
+    text-align: justify;
+   
+
 }
 
 .promocoes-direita-botao {
+
+    color:#FFFFFF;
+    width: 300px;
+    font-size: 40px;
+    padding: 0%;
+
+    text-align: center;
+    background-color: #000;
+    border: 8px double;
     border-color: #FFFFFF;
-    color: #FFFFFF;
+    padding: 2% 0%;
+}
+
+.promocoes-direita-botao:hover {
+
+    background-color: rgb(50,50,50);
+
+}
+
+.promocoes-direita-imagem {
+
+    width: 20%;
+    height: 20%;
+    padding: 0% 0% 15% 0%;
 }
