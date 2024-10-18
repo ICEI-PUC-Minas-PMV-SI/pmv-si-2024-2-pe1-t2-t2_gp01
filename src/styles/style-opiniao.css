@@ -156,3 +156,9 @@
 
     
 }
+
+.quadro-opiniao-do-cliente textarea:focus {
+
+    background: rgb(240,240,240);
+
+}
