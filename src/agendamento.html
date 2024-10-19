@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agendamento</title>
+    <link rel = "stylesheet" href = "./styles/style-agendamento.css">
+</head>
+<body>
+
+    <div class = "agendamento-container">
+
+        <div class = "agendamento-esquerda">
+
+            <p class = "agendamento-esquerda-texto"> Com qual funcionário você deseja agendar seu corte?</p>
+
+            <form class = "lista-funcionarios">
+                    
+                    <label for = "funcionarios">Clique para selecionar</label>
+                    <select name = "funcionarios" id = "funcionarios">
+                        <option>Funcionário 1</option>
+                        <option>Funcionário 2</option>
+                        <option>Funcionário 3</option>
+                        <option>Funcionário 4</option>
+                    </select>
+
+            </form>
+
+        </div>
+
+        <div class = "agendamento-direita">
+           
+            <form class = "formulario-agendamento">
+
+                <fieldset class = "quadro-agendamento">
+
+                    <div class = "data-e-horario">
+                        <label>Escolha uma data: </label>
+
+                            <input type = "date" class = "calendario-datas" name = "calendario-datas" min = "2024-10-20" required>    
+                    </div>
+
+                    <div class = "data-e-horario">
+                        <label>Escolha um horário: </label>
+
+                            <input type = "time" class = "calendario-horario" name = "calendario-horarios" required>    
+                    </div>
+
+                </fieldset>
+
+                    <button class = "agendamento-botao">Agendar
+
+                    </button>
+             
+
+
+            </form>
+
+        </div>
+    </div>  
+
+
+</body>
+</html>

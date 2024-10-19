@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Promoçoes</title>
+    <title>Opinião do cliente</title>
     <link rel = "stylesheet" href = "./styles/style-opiniao.css">
 </head>
 <body>
@@ -17,12 +17,12 @@
             <form class = "lista-funcionarios">
                     
                     <label for = "funcionarios">Clique para selecionar</label>
-                    <select name = "funcionarios" id = "funcionarios">
-                        <option>Funcionário 1</option>
-                        <option>Funcionário 2</option>
-                        <option>Funcionário 3</option>
-                        <option>Funcionário 4</option>
-                    </select>
+                        <select name = "funcionarios" id = "funcionarios" required>
+                            <option>Funcionário 1</option>
+                            <option>Funcionário 2</option>
+                            <option>Funcionário 3</option>
+                            <option>Funcionário 4</option>
+                        </select>
 
             </form>
 
@@ -41,15 +41,15 @@
 
                         <div class = "pontuacoes">
                             <label>1</label>
-                            <input type = "radio" name = "pontualidade" value = "1">
+                                <input type = "radio" name = "pontualidade" value = "1">
                             <label>2</label>
-                            <input type = "radio" name = "pontualidade" value = "2">
+                                <input type = "radio" name = "pontualidade" value = "2">
                             <label>3</label>
-                            <input type = "radio" name = "pontualidade" value = "3">
+                                <input type = "radio" name = "pontualidade" value = "3">
                             <label>4</label>
-                            <input type = "radio" name = "pontualidade" value = "4">
+                                <input type = "radio" name = "pontualidade" value = "4">
                             <label>5</label>
-                            <input type = "radio" name = "pontualidade"  value = "5">
+                                <input type = "radio" name = "pontualidade"  value = "5" checked>
 
                         </div>
                     </div>
@@ -59,15 +59,15 @@
 
                         <div class = "pontuacoes">
                             <label>1</label>
-                            <input type = "radio" name = "educacao" value = "1">
+                                <input type = "radio" name = "educacao" value = "1">
                             <label>2</label>
-                            <input type = "radio" name = "educacao" value = "2">
+                                <input type = "radio" name = "educacao" value = "2">
                             <label>3</label>
-                            <input type = "radio" name = "educacao" value = "3">
+                                <input type = "radio" name = "educacao" value = "3">
                             <label>4</label>
-                            <input type = "radio" name = "educacao" value = "4">
+                                <input type = "radio" name = "educacao" value = "4">
                             <label>5</label>
-                            <input type = "radio" name = "educacao" value = "5">
+                                <input type = "radio" name = "educacao" value = "5" checked>
                     
                         </div> 
                     </div>    
@@ -77,15 +77,15 @@
 
                         <div class = "pontuacoes">
                             <label>1</label>
-                            <input type = "radio" name = "qualidade-do-corte" value = "1">
+                                <input type = "radio" name = "qualidade-do-corte" value = "1">
                             <label>2</label>
-                            <input type = "radio" name = "qualidade-do-corte" value = "2">
+                                <input type = "radio" name = "qualidade-do-corte" value = "2">
                             <label>3</label>
-                            <input type = "radio" name = "qualidade-do-corte" value = "3">
+                                <input type = "radio" name = "qualidade-do-corte" value = "3">
                             <label>4</label>
-                            <input type = "radio" name = "qualidade-do-corte" value = "4">
+                                <input type = "radio" name = "qualidade-do-corte" value = "4">
                             <label>5</label>
-                            <input type = "radio" name = "qualidade-do-corte" value = "5">
+                                <input type = "radio" name = "qualidade-do-corte" value = "5" checked>
                         </div>
                     </div>
                 </fieldset>
@@ -101,13 +101,10 @@
 
                     <button class = "satisfacao-do-cliente-botao">Enviar opinião</button>
              
-
-
             </form>
 
         </div>
     </div>  
-
 
 </body>
 </html>
