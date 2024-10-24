@@ -177,17 +177,17 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade | 
 |------|-----------------------------------------|----| 
-|RF-001| A aplicação deve permitir que o administrador cadastre os funcionários da barbearia | ALTA |  
+|RF-001| A aplicação deve permitir que o administrador cadastre os funcionários da barbearia | BAIXA |  
 |RF-002| A aplicação deve permitir que o cliente crie seu próprio cadastro  | ALTA | 
-|RF-003| A aplicação deve permitir que o administrador edite os dados dos funcionários da barbearia |MÉDIA|
-|RF-004| A aplicação deve permitir que o cliente edite seus próprios dados |MÉDIA|
-|RF-005| A aplicação deve permitir que o cliente visualize seu histórico de cortes |ALTA|
-|RF-006| A aplicação deve permitir que o cliente visualize seu histórico de valores pagos |ALTA|
-|RF-007| O cliente deve ser capaz de escolher entre as opções de corte, barba e sobrancelha, inclusive dois ou mais desses itens simultaneamente |ALTA|
-|RF-008| A aplicação deve exibir os horários disponíveis e os horários não disponíveis de cada funcionário para o prazo mínimo de 2 meses |ALTA|
-|RF-009| O cliente deve ser capaz de registrar o horário definido na agenda de cortes, bem como qual funcionário foi escolhido para o serviço |ALTA|
-|RF-010| Os campos dos formulários devem conter máscaras para evitar que os usuários digitem informações incorretas |MÉDIA|
-|RF-011| A aplicação deve ser capaz de exibir ofertas e promoções |BAIXA| 
+|RF-003| A aplicação deve permitir que o administrador edite os dados dos funcionários da barbearia |BAIXA|
+|RF-004| A aplicação deve permitir que o cliente edite seus próprios dados |ALTA|
+|RF-005| A aplicação deve permitir que o cliente visualize seu histórico de cortes e seus respectivos valores pagos |ALTA|
+|RF-006| O cliente deve ser capaz de escolher entre as opções de corte, barba e sobrancelha, inclusive dois ou mais desses itens simultaneamente |ALTA|
+|RF-007| A aplicação deve exibir os horários disponíveis e os horários não disponíveis de cada funcionário para o prazo mínimo de 2 meses |ALTA|
+|RF-008| O cliente deve ser capaz de registrar o horário definido na agenda de cortes, bem como qual funcionário foi escolhido para o serviço |ALTA|
+|RF-009| A aplicação deve ser capaz de exibir ofertas e promoções |ALTA| 
+|RF-010| A aplicação deve ser capaz de captar feedbacks do usuário por meio de campos com notas de 1 a 5 e de um campo de opinião por extenso |ALTA|
+
 
 ### Requisitos não Funcionais
 
