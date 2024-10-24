@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Goldman:wght@400;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Gruppo&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+
+.indicar-amigo-container {
+
+    display: flex;
+    gap: 0px; 
+    height: 100vh;
+
+}
+.indicar-amigo-esquerda {
+
+    background-color: #1E1E1E;
+    width:40%;
+    display: flex;
+    align-items: center;
+    
+}
+
+.indicar-amigo-esquerda-texto {
+
+    color: #FFFFFF;
+    padding: 15% 15%;
+    font-size: 50px;
+    text-align: center;
+   
+}
+
+
+
+.indicar-amigo-direita {
+
+    background-color: #FFFFFF;
+    width:60%;
+   
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    gap: 80px;
+    padding: 5% 0% 0% 0%;
+   
+}
+
+.indicar-amigo-direita-formulario {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    gap: 30px;  
+
+}
+
+.quadro-campos {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
+    border: none;
+}
+
+.indicar-amigo-direita-formulario-campo label {
+
+    margin-bottom: 0.2em;
+    color:black;
+    display:block;
+    font-size: 1.8em;
+
+}
+
+.indicar-amigo-direita-formulario-campo input {
+
+    padding: 0.2em;
+    border: 2px solid rgb(0,0,0);
+    box-shadow: 2 px 2 px 2 px rgba(0,0,0,0.2);
+    display:block;
+    width: 30.0em;
+    height: 2.0em;
+    font-size:0.9em;
+}
+
+.indicar-amigo-direita-formulario-campo input:focus {
+
+    background: rgb(230,230,230);
+
+}
+
+.indicar-amigo-direita-formulario-botao button{
+
+    font-size: 25px;
+    color: white;
+    background-color: black ;
+    text-align: center;
+    padding: 1% 3% 1% 3%; 
+    width: 300px;
+    height: 40px;
+
+}
+
+.indicar-amigo-direita-formulario-botao button:hover {
+
+    background-color: rgb(40,40,40);
+    box-shadow: rgba(0,0,0,0.2);
+}
+
+.quadro-enviar-email {
+
+    width: 90%;
+    height: 30%;
+    padding: 0% 0% 1% 0%;
+    border: none;
+    align-items: center;
+    text-align: center;
+    gap: 5px;
+
+}
+
+.quadro-enviar-email label {
+
+    font-size: 25px;
+    
+}
+
+.quadro-enviar-email textarea {
+
+    padding: 0% 0% 1% 0%;
+    font-size: 15px;
+
+    
+}
+
+.quadro-enviar-email textarea:focus {
+
+    background: rgb(240,240,240);
+
+}
