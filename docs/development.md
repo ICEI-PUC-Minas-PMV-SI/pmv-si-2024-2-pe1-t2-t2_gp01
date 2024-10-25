@@ -36,7 +36,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 |RF-011|A aplicação deve ser capaz de enviar um e-mail para uma pessoa indicada por um usuário já cadastrado, com o intuito de obter descontos caso essa indicação realize seu primeiro corte| Jessé| indicar-amigo.html|
 
 
-## Descrição das estruturas:
+# Descrição das estruturas:
 
 # Cadastro e Login
 ## Cadastro 
