@@ -41,7 +41,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 # Agendamento de cortes
 | **Nome** | **Tipo** | **Descrição** | **Exemplo** |
 |:--------:|:--------:|:-------------:|:-----------:|
-| Clique para selecionar | Múltipla Escolha | O usuário deverá selecionar o funcionário do qual deseja realizar a avaliação | Funcionário 1 |
+| Clique para selecionar | Seleção | O usuário deverá selecionar o funcionário do qual deseja realizar a avaliação | Funcionário 1 |
 | Escolha uma data | Calendário | O usuário deve escolher a data em que deseja realizar o seu agendamento | 28/10/2024 |
 | Escolha um horário | Relógio | O usuário deve escolher o horário em que deseja realizar seu agendamento | 18:00 |
 
@@ -49,9 +49,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 ## Agendamento
 | **Nome** | **Tipo** | **Descrição** | **Exemplo** |
 |:--------:|:--------:|:-------------:|:-----------:|
-| Clique para selecionar | Múltipla Escolha | O usuário deverá selecionar o funcionário do qual deseja realizar a avaliação | Funcionário 1 |
-| Escolha uma data | Calendário | O usuário deve escolher a data em que deseja realizar o seu agendamento | 28/10/2024 |
-| Escolha um horário | Relógio | O usuário deve escolher o horário em que deseja realizar seu agendamento | 18:00 |
+| Clique para selecionar | Seleção | O usuário deverá selecionar o funcionário do qual deseja realizar a avaliação | Funcionário 1 |
+| Escolha uma data | Data | O usuário deve escolher a data em que deseja realizar o seu agendamento | 28/10/2024 |
+| Escolha um horário | Hora | O usuário deve escolher o horário em que deseja realizar seu agendamento | 18:00 |
 
 # Cadastro e Login
 ## Cadastro 
@@ -76,8 +76,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 |:--------:|:--------:|:-------------:|:-----------:|
 | Nome | Texto | O usuário deve inserir o seu primeiro nome | João |
 | Sobrenome | Texto | O usuário deve inserir o seu sobrenome | Marques |
-| Telefone | Telefone (número) | O usuário deve inserir o seu número de telefone | 31983227358 |
-| E-mail | E-mail (texto) | O usuário deve inserir o seu endereço eletrônico | joao.j51@gmail.com
+| Telefone | Telefone | O usuário deve inserir o seu número de telefone | 31983227358 |
+| E-mail | Email | O usuário deve inserir o seu endereço eletrônico | joao.j51@gmail.com
 | Usuário | Texto | O usuário deve inserir seu nome de usuário unico | Joaozinho_1998 |
 ## Mudar senha
 | **Nome** | **Tipo** | **Descrição** | **Exemplo** |
@@ -89,9 +89,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 | **Nome** | **Tipo** | **Descrição** | **Exemplo** |
 |:--------:|:--------:|:-------------:|:-----------:|
 | Clique para selecionar | Múltipla Escolha | O usuário deverá selecionar o funcionário do qual deseja realizar a avaliação | Funcionário 1 |
-| Pontualidade | Nota | O usuário deverá pontuar a pontualidade do funcionário com uma nota entre 1 e 5. | 2 |
-| Educação | Nota | O usuário deverá pontuar a educação do funcionário com uma nota entre 1 e 5. | 5 |
-| Qualidade do corte | Nota | O usuário deverá pontuar a qualidade do corte do funcionário com uma nota entre 1 e 5 | 5 |
+| Pontualidade | radio | O usuário deverá pontuar a pontualidade do funcionário com uma nota entre 1 e 5. | 2 |
+| Educação | radio | O usuário deverá pontuar a educação do funcionário com uma nota entre 1 e 5. | 5 |
+| Qualidade do corte | radio | O usuário deverá pontuar a qualidade do corte do funcionário com uma nota entre 1 e 5 | 5 |
 | Conte-nos mais sobre sua experiência na Det's | Texto | O usuário deverá discrever um pouco sobre sua experiência na barbearia | Gostei muito de cortar o cabelo na barbearia Det's, o atendimento e corte de cabelo são excelentes |
 
 # Ofertas e Promoções
@@ -108,5 +108,5 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 | **Nome** | **Tipo** | **Descrição** | **Exemplo** |
 |:--------:|:--------:|:-------------:|:-----------:|
 | Nome | Texto | O usuário deve inserir o nome da pessoa cujo ele está indicando a barbearia | Fernando Pereira |
-| E-mail | E-mail (texto) | O usuário deve inserir o e-mail da pessoa cujo ele está indicando a barbearia | fernandoprr87@gmail.com |
+| E-mail | Email | O usuário deve inserir o e-mail da pessoa cujo ele está indicando a barbearia | fernandoprr87@gmail.com |
 | Escreva uma mensagem para o seu amigo | Texto | O usuário deverá deixar um recado, o qual será enviado ao correio eletrônico da pessoa cujo ele está indicando. | Fernando, essa barbearia é ótima, marque um agendamento e vá conhecer mais |
