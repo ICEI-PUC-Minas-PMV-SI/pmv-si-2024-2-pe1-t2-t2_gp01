@@ -38,8 +38,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 
 ## Descrição das estruturas:
 
-## Cadastro e Login
-# Cadastro 
+# Cadastro e Login
+## Cadastro 
 |  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
 |:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
 | Nome            | Texto  | primeiro nome       | João |
@@ -49,14 +49,14 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 | Nome de usuário           | Texto  | Nome de usuário único para cada cliente        | Joaozinho_1998 |
 | Senha     | Password             | Senha para entrada no sistema        |        Amoapuc1919!   |
 | Repita sua senha      | Password             |O usuario deve repetir a senha       |        Amoapuc1919!   |
-# Login 
+## Login 
 |  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
 |:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
 | Nome de usuário           | Texto  | Nome de usuário único para cada cliente        | Joaozinho_1998 |
 | Senha      | Password             | Senha para entrada no sistema        |        Amoapuc1919!   |
 
-## Personalização de Perfil
-# Editar informações
+# Personalização de Perfil
+## Editar informações
 | **Nome** | **Tipo** | **Descrição** | **Exemplo** |
 |:--------:|:--------:|:-------------:|:-----------:|
 | Nome | Texto | O usuário deve inserir o seu primeiro nome | João |
@@ -64,13 +64,13 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 | Telefone | Telefone (número) | O usuário deve inserir o seu número de telefone | 31983227358 |
 | E-mail | E-mail (texto) | O usuário deve inserir o seu endereço eletrônico | joao.j51@gmail.com
 | Usuário | Texto | O usuário deve inserir seu nome de usuário unico | Joaozinho_1998 |
-# Mudar senha
+## Mudar senha
 | **Nome** | **Tipo** | **Descrição** | **Exemplo** |
 |:--------:|:--------:|:-------------:|:-----------:|
 | Digite sua nova senha | Password | O usuário deve inserir sua nova senha desejada | Jotinha123 |
 | Repita sua nova senha | Password | O usuário deve repetir sua nova senha desejada | Jotinha123 |
 
-## Deixe sua opinião
+# Deixe sua opinião
 | **Nome** | **Tipo** | **Descrição** | **Exemplo** |
 |:--------:|:--------:|:-------------:|:-----------:|
 | Clique para selecionar | Múltipla Escolha | O usuário deverá selecionar o funcionário do qual deseja realizar a avaliação | Funcionário 1 |
@@ -79,12 +79,12 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 | Qualidade do corte | Nota | O usuário deverá pontuar a qualidade do corte do funcionário com uma nota entre 1 e 5 | 5 |
 | Conte-nos mais sobre sua experiência na Det's | Texto | O usuário deverá discrever um pouco sobre sua experiência na barbearia | Gostei muito de cortar o cabelo na barbearia Det's, o atendimento e corte de cabelo são excelentes |
 
-# Ofertas e Promoções
-## Faça seu cadastro e ganhe 20% de desconto =)
+## Ofertas e Promoções
+# Faça seu cadastro e ganhe 20% de desconto =)
 | **Nome** | **Tipo** | **Descrição** | **Exemplo** |
 |:--------:|:--------:|:-------------:|:-----------:|
 | Ir para o cadastro | Botão | O usuário clicará no botão e será direcionado para tela de cadastro | Cadastro realizado com o e-mail joao.j51@gmail.com recebeu os 20% de desconto. |
-## Indique um amigo e ganhe 20% de desconto =D
+# Indique um amigo e ganhe 20% de desconto =D
 | **Nome** | **Tipo** | **Descrição** | **Exemplo** |
 |:--------:|:--------:|:-------------:|:-----------:|
 | Indicar amigo | Botão | O usuário clicará no botão e será redirecionado para tela de indicação | Indicação realizada e enviada para Fernando Pereira de e-mail fernandoprr87@gmail.com |
