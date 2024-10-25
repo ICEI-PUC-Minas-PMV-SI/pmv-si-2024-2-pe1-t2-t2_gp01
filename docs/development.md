@@ -83,7 +83,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 ## Faça seu cadastro e ganhe 20% de desconto =)
 | **Nome** | **Tipo** | **Descrição** | **Exemplo** |
 |:--------:|:--------:|:-------------:|:-----------:|
-| Ir para o cadastro | Botão | O usuário clicará no botão e será direcionado para tela de cadastro | Cadastro realizado com o e-mail joão.j51@gmail.com recebeu os 20% de desconto. |
+| Ir para o cadastro | Botão | O usuário clicará no botão e será direcionado para tela de cadastro | Cadastro realizado com o e-mail joao.j51@gmail.com recebeu os 20% de desconto. |
 ## Indique um amigo e ganhe 20% de desconto =D
 | **Nome** | **Tipo** | **Descrição** | **Exemplo** |
 |:--------:|:--------:|:-------------:|:-----------:|
