@@ -45,7 +45,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 | Escolha uma data | Calendário | O usuário deve escolher a data em que deseja realizar o seu agendamento | 28/10/2024 |
 | Escolha um horário | Relógio | O usuário deve escolher o horário em que deseja realizar seu agendamento | 18:00 |
 
-# Listagem de histório de cortes
+# Listagem de histórico de cortes
 ## Agendamento
 | **Nome** | **Tipo** | **Descrição** | **Exemplo** |
 |:--------:|:--------:|:-------------:|:-----------:|
