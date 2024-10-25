@@ -41,7 +41,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 # Agendamento de cortes
 | **Nome** | **Tipo** | **Descrição** | **Exemplo** |
 |:--------:|:--------:|:-------------:|:-----------:|
-| Clique para selecionar | Seleção | O usuário deverá selecionar o funcionário do qual deseja realizar a avaliação | Funcionário 1 |
+| Clique para selecionar | Opção | O usuário deverá selecionar o funcionário do qual deseja realizar a avaliação | Funcionário 1 |
 | Escolha uma data | Calendário | O usuário deve escolher a data em que deseja realizar o seu agendamento | 28/10/2024 |
 | Escolha um horário | Relógio | O usuário deve escolher o horário em que deseja realizar seu agendamento | 18:00 |
 
@@ -49,7 +49,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 ## Agendamento
 | **Nome** | **Tipo** | **Descrição** | **Exemplo** |
 |:--------:|:--------:|:-------------:|:-----------:|
-| Clique para selecionar | Seleção | O usuário deverá selecionar o funcionário do qual deseja realizar a avaliação | Funcionário 1 |
+| Clique para selecionar | Opção | O usuário deverá selecionar o funcionário do qual deseja realizar a avaliação | Funcionário 1 |
 | Escolha uma data | Data | O usuário deve escolher a data em que deseja realizar o seu agendamento | 28/10/2024 |
 | Escolha um horário | Hora | O usuário deve escolher o horário em que deseja realizar seu agendamento | 18:00 |
 
@@ -88,7 +88,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 # Deixe sua opinião
 | **Nome** | **Tipo** | **Descrição** | **Exemplo** |
 |:--------:|:--------:|:-------------:|:-----------:|
-| Clique para selecionar | Opções | O usuário deverá selecionar o funcionário do qual deseja realizar a avaliação | Funcionário 1 |
+| Clique para selecionar | Opção | O usuário deverá selecionar o funcionário do qual deseja realizar a avaliação | Funcionário 1 |
 | Pontualidade | radio | O usuário deverá pontuar a pontualidade do funcionário com uma nota entre 1 e 5. | 2 |
 | Educação | radio | O usuário deverá pontuar a educação do funcionário com uma nota entre 1 e 5. | 5 |
 | Qualidade do corte | radio | O usuário deverá pontuar a qualidade do corte do funcionário com uma nota entre 1 e 5 | 5 |
