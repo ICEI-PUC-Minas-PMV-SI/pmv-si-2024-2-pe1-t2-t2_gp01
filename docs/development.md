@@ -42,7 +42,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 |  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
 |:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
 | Nome de usuário           | Texto  | Nome de usuário único para cada cliente        | Joaozinho_1998 |
-| Título         | Texto             | Título da notícia                         | Sistemas de Informação PUC Minas é o melhor                                   |
+| Senha      | Password             | Senha para entrada no sistema                      |                                 |
 | Conteúdo       | Texto             | Conteúdo da notícia                       | Sistemas de Informação da PUC Minas é eleito o melhor curso do Brasil                            |
 | Id do usuário  | Numero (Inteiro)  | Identificador do usuário autor da notícia | 1                                              |
 
