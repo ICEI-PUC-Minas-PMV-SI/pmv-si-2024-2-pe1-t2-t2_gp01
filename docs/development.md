@@ -22,7 +22,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 | **Nome** | **Tipo** | **Descrição** | **Exemplo** |
 |:--------:|:--------:|:-------------:|:-----------:|
 | Clique para selecionar |Lista de seleção de opções | O usuário deverá selecionar o funcionário com o qual deseja realizar o serviço| Funcionário 1 |
-| Escolha uma data | Calendário | O usuário deve escolher a data em que deseja realizar o seu agendamento | 28/10/2024 |
+| Escolha uma data | Data | O usuário deve escolher a data em que deseja realizar o seu agendamento | 28/10/2024 |
 | Escolha um horário | Hora | O usuário deve escolher o horário em que deseja realizar seu agendamento | 18:00 |
 | Escolha quais serviços você deseja agendar| Caixa de seleção | O usuário pode escolher, simultaneamente ou não, entre os serviços de corte, sobrancelha e barba| Corte de cabelo|
 
