@@ -13,7 +13,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 |RF-006| O cliente deve ser capaz de escolher entre as opções de corte, barba e sobrancelha, inclusive dois ou mais desses itens simultaneamente| Danilo| agendamento.html|
 |RF-008| O cliente deve ser capaz de registrar o horário definido na agenda de cortes, bem como qual funcionário foi escolhido para o serviço| Jessé| agendamento.html|
 |RF-009|A aplicação deve ser capaz de exibir ofertas e promoções | Michael| promocoes.html|
-|RF-010|A aplicação deve ser capaz de captar feedbacks do usuário por meio de campos com notas de 1 a 5 e de um campo de opinião por extenso | Kauê| opiniao.html|
+|RF-010|A aplicação deve ser capaz de captar feedbacks do usuário por meio de campos com notas de 1 a 5 e de um campo de opinião por extenso | Franz| opiniao.html|
 |RF-011|A aplicação deve ser capaz de enviar um e-mail para uma pessoa indicada por um usuário já cadastrado, com o intuito de obter descontos caso essa indicação realize seu primeiro corte| Jessé| indicar-amigo.html|
 
 # Descrição das estruturas:
