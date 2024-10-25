@@ -94,12 +94,12 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 | Qualidade do corte | Nota | O usuário deverá pontuar a qualidade do corte do funcionário com uma nota entre 1 e 5 | 5 |
 | Conte-nos mais sobre sua experiência na Det's | Texto | O usuário deverá discrever um pouco sobre sua experiência na barbearia | Gostei muito de cortar o cabelo na barbearia Det's, o atendimento e corte de cabelo são excelentes |
 
-## Ofertas e Promoções
-# Faça seu cadastro e ganhe 20% de desconto =)
+# Ofertas e Promoções
+## Faça seu cadastro e ganhe 20% de desconto =)
 | **Nome** | **Tipo** | **Descrição** | **Exemplo** |
 |:--------:|:--------:|:-------------:|:-----------:|
 | Ir para o cadastro | Botão | O usuário clicará no botão e será direcionado para tela de cadastro | Cadastro realizado com o e-mail joao.j51@gmail.com recebeu os 20% de desconto. |
-# Indique um amigo e ganhe 20% de desconto =D
+## Indique um amigo e ganhe 20% de desconto =D
 | **Nome** | **Tipo** | **Descrição** | **Exemplo** |
 |:--------:|:--------:|:-------------:|:-----------:|
 | Indicar amigo | Botão | O usuário clicará no botão e será redirecionado para tela de indicação | Indicação realizada e enviada para Fernando Pereira de e-mail fernandoprr87@gmail.com |
