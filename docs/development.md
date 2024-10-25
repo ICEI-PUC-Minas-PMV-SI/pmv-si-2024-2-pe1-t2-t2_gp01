@@ -61,7 +61,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 | Nome | Texto | O usuário deve inserir o seu primeiro nome | João |
 | Sobrenome | Texto | O usuário deve inserir o seu sobrenome | Marques |
 | Telefone | Telefone (número) | O usuário deve inserir o seu número de telefone | 31983227358 |
-| E-mail | E-mail (texto) | O usuário deve inserir o seu endereço eletrônico | joão.j51@gmail.com
+| E-mail | E-mail (texto) | O usuário deve inserir o seu endereço eletrônico | joao.j51@gmail.com
 | Usuário | Texto | O usuário deve inserir seu nome de usuário unico | Joaozinho_1998 |
 
 ## Mudar senha
