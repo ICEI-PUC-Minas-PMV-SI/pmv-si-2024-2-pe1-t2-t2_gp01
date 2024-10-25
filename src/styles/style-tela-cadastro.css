@@ -24,9 +24,20 @@ html, body {
 
     background-color: #1E1E1E;
     width:40%;
+    height: 100%;
     display: flex;
+    flex-direction: column;
     align-items: center;
+    gap: 5.3%;
     
+    
+}
+
+.cadastro-esquerda-topo {
+
+    align-content: center;
+    width: 100%;
+    background-color: #1E1E1E;
 }
 
 .cadastro-esquerda-texto {
@@ -38,7 +49,21 @@ html, body {
    
 }
 
+.cadastro-esquerda-rodape {
 
+    width: 100%;
+    background-color: #1E1E1E;
+    justify-content: flex-start;
+    gap: 0%;
+
+}
+
+.logo {
+
+    max-width: 20%;
+    padding: 0% 0% 0% 2%;
+
+}
 
 .cadastro-direita {
 

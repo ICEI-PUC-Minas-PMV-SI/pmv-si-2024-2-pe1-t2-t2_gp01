@@ -24,9 +24,19 @@ html, body {
 
     background-color: #1E1E1E;
     width:40%;
+    height: 100%;
     display: flex;
+    flex-direction: column;
     align-items: center;
+    gap: 5.3%;
     
+}
+
+.indicar-amigo-esquerda-topo {
+
+    align-content: center;
+    width: 100%;
+    background-color: #1E1E1E;
 }
 
 .indicar-amigo-esquerda-texto {
@@ -38,6 +48,21 @@ html, body {
    
 }
 
+.indicar-amigo-esquerda-rodape {
+
+    width: 100%;
+    background-color: #1E1E1E;
+    justify-content: flex-start;
+    gap: 0%;
+
+}
+
+.logo {
+
+    max-width: 20%;
+    padding: 0% 0% 0% 2%;
+
+}
 
 
 .indicar-amigo-direita {
