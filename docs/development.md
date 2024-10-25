@@ -88,7 +88,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 # Deixe sua opinião
 | **Nome** | **Tipo** | **Descrição** | **Exemplo** |
 |:--------:|:--------:|:-------------:|:-----------:|
-| Clique para selecionar | Múltipla Escolha | O usuário deverá selecionar o funcionário do qual deseja realizar a avaliação | Funcionário 1 |
+| Clique para selecionar | Opções | O usuário deverá selecionar o funcionário do qual deseja realizar a avaliação | Funcionário 1 |
 | Pontualidade | radio | O usuário deverá pontuar a pontualidade do funcionário com uma nota entre 1 e 5. | 2 |
 | Educação | radio | O usuário deverá pontuar a educação do funcionário com uma nota entre 1 e 5. | 5 |
 | Qualidade do corte | radio | O usuário deverá pontuar a qualidade do corte do funcionário com uma nota entre 1 e 5 | 5 |
