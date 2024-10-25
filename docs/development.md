@@ -38,6 +38,21 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 
 # Descrição das estruturas:
 
+# Agendamento de cortes
+| **Nome** | **Tipo** | **Descrição** | **Exemplo** |
+|:--------:|:--------:|:-------------:|:-----------:|
+| Clique para selecionar | Múltipla Escolha | O usuário deverá selecionar o funcionário do qual deseja realizar a avaliação | Funcionário 1 |
+| Escolha uma data | Calendário | O usuário deve escolher a data em que deseja realizar o seu agendamento | 28/10/2024 |
+| Escolha um horário | Relógio | O usuário deve escolher o horário em que deseja realizar seu agendamento | 18:00 |
+
+# Listagem de histório de cortes
+## Agendamento
+| **Nome** | **Tipo** | **Descrição** | **Exemplo** |
+|:--------:|:--------:|:-------------:|:-----------:|
+| Clique para selecionar | Múltipla Escolha | O usuário deverá selecionar o funcionário do qual deseja realizar a avaliação | Funcionário 1 |
+| Escolha uma data | Calendário | O usuário deve escolher a data em que deseja realizar o seu agendamento | 28/10/2024 |
+| Escolha um horário | Relógio | O usuário deve escolher o horário em que deseja realizar seu agendamento | 18:00 |
+
 # Cadastro e Login
 ## Cadastro 
 |  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
