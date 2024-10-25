@@ -38,13 +38,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 
 ## Descrição das estruturas:
 
-## Login 
-|  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
-|:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
-| Nome de usuário           | Texto  | Nome de usuário único para cada cliente        | Joaozinho_1998 |
-| Senha      | Password             | Senha para entrada no sistema        |        Amoapuc1919!   |
-
-## Cadastro 
+## Cadastro e Login
+# Cadastro 
 |  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
 |:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
 | Nome            | Texto  | primeiro nome       | João |
@@ -54,8 +49,14 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 | Nome de usuário           | Texto  | Nome de usuário único para cada cliente        | Joaozinho_1998 |
 | Senha     | Password             | Senha para entrada no sistema        |        Amoapuc1919!   |
 | Repita sua senha      | Password             |O usuario deve repetir a senha       |        Amoapuc1919!   |
+# Login 
+|  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
+|:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
+| Nome de usuário           | Texto  | Nome de usuário único para cada cliente        | Joaozinho_1998 |
+| Senha      | Password             | Senha para entrada no sistema        |        Amoapuc1919!   |
 
-## Editar informações
+## Personalização de Perfil
+# Editar informações
 | **Nome** | **Tipo** | **Descrição** | **Exemplo** |
 |:--------:|:--------:|:-------------:|:-----------:|
 | Nome | Texto | O usuário deve inserir o seu primeiro nome | João |
@@ -63,8 +64,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 | Telefone | Telefone (número) | O usuário deve inserir o seu número de telefone | 31983227358 |
 | E-mail | E-mail (texto) | O usuário deve inserir o seu endereço eletrônico | joao.j51@gmail.com
 | Usuário | Texto | O usuário deve inserir seu nome de usuário unico | Joaozinho_1998 |
-
-## Mudar senha
+# Mudar senha
 | **Nome** | **Tipo** | **Descrição** | **Exemplo** |
 |:--------:|:--------:|:-------------:|:-----------:|
 | Digite sua nova senha | Password | O usuário deve inserir sua nova senha desejada | Jotinha123 |
