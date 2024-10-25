@@ -87,11 +87,11 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 ## Indique um amigo e ganhe 20% de desconto =D
 | **Nome** | **Tipo** | **Descrição** | **Exemplo** |
 |:--------:|:--------:|:-------------:|:-----------:|
-| Indicar amigo | Botão | O usuário clicará no botão e será redirecionado para tela de indicação | Indicação realizada e enviada para José de e-mail jose.conceicao92@gmail.com |
+| Indicar amigo | Botão | O usuário clicará no botão e será redirecionado para tela de indicação | Indicação realizada e enviada para Fernando Pereira de e-mail fernandoprr87@gmail.com |
 
 ## Indicar amigo
 | **Nome** | **Tipo** | **Descrição** | **Exemplo** |
 |:--------:|:--------:|:-------------:|:-----------:|
 | Nome | Texto | O usuário deve inserir o nome da pessoa cujo ele está indicando a barbearia | Fernando Pereira |
 | E-mail | E-mail (texto) | O usuário deve inserir o e-mail da pessoa cujo ele está indicando a barbearia | fernandoprr87@gmail.com |
-| Escreva uma mensagem para o seu amigo | Texto | O usuário deverá deixar um recado, o qual será enviado ao correio eletrônico da pessoa cujo ele está indicando. |
+| Escreva uma mensagem para o seu amigo | Texto | O usuário deverá deixar um recado, o qual será enviado ao correio eletrônico da pessoa cujo ele está indicando. | Fernando, essa barbearia é ótima, marque um agendamento e vá conhecer mais |
