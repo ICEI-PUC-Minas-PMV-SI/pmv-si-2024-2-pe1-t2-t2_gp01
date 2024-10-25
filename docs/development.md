@@ -65,7 +65,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 | Pontualidade | Botão tipo rádio | O usuário deverá pontuar a pontualidade do funcionário com uma nota entre 1 e 5. | 2 |
 | Educação | Botão tipo rádio| O usuário deverá pontuar a educação do funcionário com uma nota entre 1 e 5. | 5|
 | Qualidade do corte | Botão tipo rádio | O usuário deverá pontuar a qualidade do corte do funcionário com uma nota entre 1 e 5 | 5 |
-| Conte-nos mais sobre sua experiência na Det's | Área de texto para digitação | O usuário deverá discrever um pouco sobre sua experiência na barbearia | Gostei muito de cortar o cabelo na barbearia Det's, o atendimento e corte de cabelo são excelentes |
+| Conte-nos mais sobre sua experiência na Det's | Área de texto para digitação | O usuário deverá descrever um pouco sobre sua experiência na barbearia | Gostei muito de cortar o cabelo na barbearia Det's, o atendimento e corte de cabelo são excelentes |
 
 ## Indicar amigo
 | **Nome** | **Tipo** | **Descrição** | **Exemplo** |
