@@ -44,4 +44,14 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 | Nome de usuário           | Texto  | Nome de usuário único para cada cliente        | Joaozinho_1998 |
 | Senha      | Password             | Senha para entrada no sistema        |        Amoapuc1919!   |
 
+## Cadastro 
+|  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
+|:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
+| Nome            | Texto  | primeiro nome       | João |
+| Sobrenome   | Texto         | Sobrenome de cada cliente      |        Breno  |
+| Telefone   | Telefone           | Numero de telefone de cada cliente        |        31 9832272586  |
+| Email    | Email   | Endereço de eletronico do cliente       |        Joao.j51@gmail.com  |
+| Nome de usuário           | Texto  | Nome de usuário único para cada cliente        | Joaozinho_1998 |
+| Senha     | Password             | Senha para entrada no sistema        |        Amoapuc1919!   |
+| Repita sua senha      | Password             |O usuario deve repetir a senha       |        Amoapuc1919!   |
 
