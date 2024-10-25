@@ -89,7 +89,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 |:--------:|:--------:|:-------------:|:-----------:|
 | Indicar amigo | Botão | O usuário clicará no botão e será redirecionado para tela de indicação | Indicação realizada e enviada para Fernando Pereira de e-mail fernandoprr87@gmail.com |
 
-## Indicar amigo
+# Indicar amigo
 | **Nome** | **Tipo** | **Descrição** | **Exemplo** |
 |:--------:|:--------:|:-------------:|:-----------:|
 | Nome | Texto | O usuário deve inserir o nome da pessoa cujo ele está indicando a barbearia | Fernando Pereira |
