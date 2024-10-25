@@ -1,4 +1,4 @@
-# Especificações do Projeto (apagar depois, apenas teste)
+# Especificações do Projeto 
 
 Nessa seção da documentação do projeto serão detalhados os perfis dos usuários do sistema, bem como as funcionalidades que a aplicação deverá apresentar, por exemplo a gestão dos agendamentos, a gestão de sistemas de recompensa e a obtenção de feedbacks oriundos dos clientes. Dessa maneira, haverá ganho de produtividade e economia de tempo, tanto no que diz respeito aos clientes, quanto no que diz respeito à barbearia.
 
@@ -187,6 +187,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-008| O cliente deve ser capaz de registrar o horário definido na agenda de cortes, bem como qual funcionário foi escolhido para o serviço |ALTA|
 |RF-009| A aplicação deve ser capaz de exibir ofertas e promoções |ALTA| 
 |RF-010| A aplicação deve ser capaz de captar feedbacks do usuário por meio de campos com notas de 1 a 5 e de um campo de opinião por extenso |ALTA|
+|RF-011| A aplicação deve ser capaz de enviar um e-mail para uma pessoa indicada por um usuário já cadastrado, com o intuito de obter descontos caso essa indicação realize seu primeiro corte |MÉDIA|
 
 
 ### Requisitos não Funcionais
