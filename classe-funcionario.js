@@ -7,8 +7,8 @@ export class funcionario {
     sobrancelha
     barba
 
-    // array de strings com datas e horas INDISPONÍVEIS, 
+    // array de strings com horários INDISPONÍVEIS, 
     servicos_agendados = []
 
-    
+
 }
