@@ -18,16 +18,20 @@ header {
 
     display: flex;
     align-items: center;
-    gap: 12%;
-    justify-content: last baseline;
+    justify-content: center;
     padding: 1%;
+    gap: 0%;
     
 }
 
+.cabecalho-esquerda {
+
+    width: 25%;
+}
 .cabecalho-logo {
 
-    max-width: 60%;
-    padding: 5%;
+    max-width: 50%;
+    padding: 2%;
 }
 
 .cabecalho-texto {
@@ -36,11 +40,15 @@ header {
     text-align: center;
     font-size: 2.8125rem;
     font-family: "Goldman", sans-serif;
-    padding: 2.5% 10% 2.5% 2.5%;
-    text-align: center;
-    box-sizing: border-box;
+    padding: 2.5% 10% 2.5% 10%;
+
 }
 
+.cabecalho-direita{
+
+    width: 25%;
+    background-color: #FFFFFF;
+}
 .foto-capa-container {
 
     display: flex;
@@ -55,16 +63,16 @@ header {
    
 }
 
-#apresentacao {
+.apresentacao {
 
     display: flex;
     align-items: center; 
     justify-content: space-between; 
     gap: 20%;
-    padding: 2%;
+    padding: 0% 0% 3% 0%;
 }
 
-#apresentacao .conteudo-apresentacao {
+.conteudo-apresentacao {
 
     max-width: 60%; 
     display: flex;
@@ -73,14 +81,14 @@ header {
     padding: 0% 0% 0% 5%;
 }
 
-#apresentacao .conteudo-apresentacao-titulo {
+.conteudo-apresentacao-titulo {
 
     font-family: "Gruppo", sans-serif;
     font-size: 2.5rem;
     padding: 2cqmax 0%
 }
 
-#apresentacao .conteudo-apresentacao-texto {
+.conteudo-apresentacao-texto {
 
     font-family: "Gruppo", sans-serif;
     font-size: 1.875rem;
@@ -131,4 +139,157 @@ header {
 #funcionalidades img {
     max-width: 60%; 
     height: auto; 
+}
+
+
+/* A partir daqui a estilização é para telas curtas: */
+@media (max-width: 800px) {
+
+    * {
+        margin: 0;
+        padding: 0;
+    }
+    
+    body {
+    
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        box-sizing: border-box;
+    
+    }
+    
+    header {
+    
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 1%;
+        gap: 0%;
+        
+    }
+    
+    .cabecalho-esquerda {
+    
+        width: 25%;
+    }
+    .cabecalho-logo {
+    
+        max-width: 50%;
+        padding: 2%;
+    }
+    
+    .cabecalho-texto {
+    
+        color:black;
+        text-align: center;
+        font-size: 2.8125rem;
+        font-family: "Goldman", sans-serif;
+        padding: 2.5% 10% 2.5% 10%;
+    
+    }
+    
+    .cabecalho-direita{
+    
+        width: 25%;
+        background-color: #FFFFFF;
+    }
+
+    .foto-capa-container {
+    
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    
+    }
+    
+    .foto-capa-container img {
+    
+        width: 80%;
+       
+    }
+    
+    .apresentacao {
+    
+        width: 80%;
+        display: flex;
+        flex-direction: column;
+        align-items: center; 
+        justify-content: center; 
+        gap: 0%;
+        padding: 0% 0% 0% 0%;
+    }
+    
+    .conteudo-apresentacao {
+
+        display: flex;
+        flex-direction: column;
+        width: auto%;
+        padding: 0%;
+    }
+    
+   .conteudo-apresentacao-titulo {
+    
+        width: 100%;
+        font-family: "Gruppo", sans-serif;
+        font-size: 2.5rem;
+        padding: 2% 0%
+    }
+    
+    .conteudo-apresentacao-texto {
+    
+        width: 100%;
+        font-family: "Gruppo", sans-serif;
+        font-size: 1.875rem;
+        text-align: justify;
+        padding: 2% 0%
+    }
+    
+    .logo-container {
+    
+        display: none; 
+    
+    }
+    
+    #funcionalidades {
+    
+        display: grid;
+        grid-template-columns: repeat(3, 1fr); 
+        grid-gap: 0%; 
+        justify-items: center; 
+        padding: 0%;
+        text-align: center;
+    }
+    
+    
+    #funcionalidades .funcionalidades-icones:hover {
+    
+        position:relative;
+        top:-0.25rem;
+        border-bottom:0.375rem solid #999;
+        padding-bottom:0.375rem;
+        border: 0.375rem;
+        border-color: black;
+        border-style: solid;
+    
+    }
+    
+    
+    #funcionalidades h2 {
+        
+        font-size: 2.0rem;
+        font-family: "Gruppo", sans-serif;
+        
+        grid-column: 1 / -1; 
+        margin-bottom: 5%; 
+    }
+    
+    #funcionalidades img {
+        max-width: 80%; 
+        height: auto; 
+    }
+
+
+
+
 }
