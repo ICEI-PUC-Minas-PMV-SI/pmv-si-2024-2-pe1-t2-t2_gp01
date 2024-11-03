@@ -30,7 +30,7 @@ header {
 }
 .cabecalho-logo {
 
-    max-width: 50%;
+    width: 40%;
     padding: 2%;
 }
 
@@ -103,7 +103,7 @@ header {
     
 }
 
-#funcionalidades {
+.funcionalidades {
 
     display: grid;
     grid-template-columns: repeat(3, 1fr); 
@@ -114,7 +114,7 @@ header {
 }
 
 
-#funcionalidades .funcionalidades-icones:hover {
+.funcionalidades-icones:hover {
 
     position:relative;
     top:-0.25rem;
@@ -127,7 +127,7 @@ header {
 }
 
 
-#funcionalidades h2 {
+.funcionalidades h2 {
     
     font-size: 2.5rem;
     font-family: "Gruppo", sans-serif;
@@ -136,7 +136,7 @@ header {
     margin-bottom: 5%; 
 }
 
-#funcionalidades img {
+.funcionalidades img {
     max-width: 60%; 
     height: auto; 
 }
@@ -171,16 +171,17 @@ header {
     
     .cabecalho-esquerda {
     
-        width: 25%;
+        width: 10%;
     }
     .cabecalho-logo {
     
-        max-width: 50%;
+        width: 100%;
         padding: 2%;
     }
     
     .cabecalho-texto {
     
+        width: 80%;
         color:black;
         text-align: center;
         font-size: 2.8125rem;
@@ -191,7 +192,7 @@ header {
     
     .cabecalho-direita{
     
-        width: 25%;
+        width: 10%;
         background-color: #FFFFFF;
     }
 
@@ -224,7 +225,7 @@ header {
 
         display: flex;
         flex-direction: column;
-        width: auto%;
+        width: auto;
         padding: 0%;
     }
     
@@ -251,7 +252,7 @@ header {
     
     }
     
-    #funcionalidades {
+    .funcionalidades {
     
         display: grid;
         grid-template-columns: repeat(3, 1fr); 
@@ -262,7 +263,7 @@ header {
     }
     
     
-    #funcionalidades .funcionalidades-icones:hover {
+    .funcionalidades-icones:hover {
     
         position:relative;
         top:-0.25rem;
@@ -275,7 +276,7 @@ header {
     }
     
     
-    #funcionalidades h2 {
+    .funcionalidades h2 {
         
         font-size: 2.0rem;
         font-family: "Gruppo", sans-serif;
@@ -284,8 +285,9 @@ header {
         margin-bottom: 5%; 
     }
     
-    #funcionalidades img {
-        max-width: 80%; 
+    .funcionalidades img {
+        
+        width: 100%; 
         height: auto; 
     }
 
