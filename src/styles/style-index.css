@@ -69,7 +69,7 @@ header {
     align-items: center; 
     justify-content: space-between; 
     gap: 20%;
-    padding: 0% 0% 3% 0%;
+    padding: 3% 0% 5% 0%;
 }
 
 .conteudo-apresentacao {
@@ -218,11 +218,9 @@ header {
     
     .apresentacao {
     
-        width: 100%;
-        /* display: flex;
-        flex-direction: column; */
+        width: 150%;
         align-items: center; 
-        justify-content: center; 
+        justify-content: center;
         gap: 0%;
         padding: 0% 0% 0% 0%;
     }
@@ -253,7 +251,7 @@ header {
         font-family: "Gruppo", sans-serif;
         font-size: 1.875rem;
         text-align: justify;
-        padding: 5% 0%
+        padding: 5% 0 10% 0%;
     }
     
     .logo-container {
@@ -265,7 +263,7 @@ header {
     .funcionalidades {
     
         display: grid;
-        grid-template-columns: repeat(3, 1fr); 
+        grid-template-columns: repeat(2, 1fr); 
         grid-gap: 0%; 
         justify-items: center; 
         padding: 0%;
