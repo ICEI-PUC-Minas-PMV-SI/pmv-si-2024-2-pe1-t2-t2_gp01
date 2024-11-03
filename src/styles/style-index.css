@@ -30,7 +30,7 @@ header {
 }
 .cabecalho-logo {
 
-    width: 40%;
+    width: 50%;
     padding: 2%;
 }
 
@@ -161,6 +161,7 @@ header {
     
     header {
     
+        width: 100%;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -171,7 +172,7 @@ header {
     
     .cabecalho-esquerda {
     
-        width: 10%;
+        width: 20%;
     }
     .cabecalho-logo {
     
@@ -179,20 +180,25 @@ header {
         padding: 2%;
     }
     
+    .cabecalho-centro {
+
+        align-items: center;
+    }
+
     .cabecalho-texto {
     
-        width: 80%;
+        width: 100%;
         color:black;
         text-align: center;
-        font-size: 2.8125rem;
+        font-size: 2rem;
         font-family: "Goldman", sans-serif;
-        padding: 2.5% 10% 2.5% 10%;
+        padding: 0%;
     
     }
     
     .cabecalho-direita{
     
-        width: 10%;
+        width: 20%;
         background-color: #FFFFFF;
     }
 
@@ -212,9 +218,9 @@ header {
     
     .apresentacao {
     
-        width: 80%;
-        display: flex;
-        flex-direction: column;
+        width: 100%;
+        /* display: flex;
+        flex-direction: column; */
         align-items: center; 
         justify-content: center; 
         gap: 0%;
@@ -223,10 +229,12 @@ header {
     
     .conteudo-apresentacao {
 
+        width: 100%;
         display: flex;
         flex-direction: column;
-        width: auto;
         padding: 0%;
+        box-sizing: content-box;
+        
     }
     
    .conteudo-apresentacao-titulo {
@@ -234,8 +242,10 @@ header {
         width: 100%;
         font-family: "Gruppo", sans-serif;
         font-size: 2.5rem;
-        padding: 2% 0%
+        padding: 2% 0%;
+        text-align: center;
     }
+   
     
     .conteudo-apresentacao-texto {
     
@@ -243,7 +253,7 @@ header {
         font-family: "Gruppo", sans-serif;
         font-size: 1.875rem;
         text-align: justify;
-        padding: 2% 0%
+        padding: 5% 0%
     }
     
     .logo-container {
@@ -285,10 +295,11 @@ header {
         margin-bottom: 5%; 
     }
     
+
     .funcionalidades img {
-        
+
         width: 100%; 
-        height: auto; 
+     
     }
 
 
