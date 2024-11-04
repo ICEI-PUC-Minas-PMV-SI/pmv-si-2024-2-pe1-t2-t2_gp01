@@ -167,7 +167,7 @@ html, body {
 .checkbox-serviços {
 
     display: flex;
-    justify-content: first baseline;
+    justify-content: space-between;
     font-size: 1.2em;
     text-align: left;
     width: 200px;
