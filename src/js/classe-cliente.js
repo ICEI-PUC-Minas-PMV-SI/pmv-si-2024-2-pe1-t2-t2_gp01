@@ -21,7 +21,7 @@ export class classe_cliente {
         this.usuario = usuario
         this.senha = senha
 
-        numero_de_clientes ++
+        classe_cliente.numero_de_clientes ++
 
     }
     
