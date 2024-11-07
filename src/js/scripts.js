@@ -10,6 +10,6 @@ let senha_cliente = document.getElementById("senha")
 let repita_senha_cliente = document.getElementById("repita-senha")
 
 // aqui o botão do formulário de cadastrar é atribuído à sua variável, que será usada em conjunto com o "listener" do evento "click" para chamar a função de cadastrar o cliente
-const botao_cadastrar = document.getElementById("botao-cadastrar")
+// const botao_cadastrar = document.getElementById("botao-cadastrar")
 
-botao_cadastrar.addEventListener("click", cadastrar_cliente(nome_cliente, sobrenome_cliente, telefone_cliente, email_cliente, usuario_cliente, senha_cliente, repita_senha_cliente))
+// botao_cadastrar.addEventListener("click", cadastrar_cliente(nome_cliente, sobrenome_cliente, telefone_cliente, email_cliente, usuario_cliente, senha_cliente, repita_senha_cliente))

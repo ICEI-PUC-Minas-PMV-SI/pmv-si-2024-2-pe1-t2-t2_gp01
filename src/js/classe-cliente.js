@@ -11,7 +11,6 @@ export class classe_cliente {
 
     servicos_agendados = []
 
-
     constructor (nome, sobrenome, telefone, email, usuario, senha) {
 
         this.nome = nome
