@@ -1,4 +1,3 @@
-import { classe_cliente } from "./classe-cliente.js";
 import { cadastrar_cliente } from "./funcao-cadastrar.js";
 
 // aqui os campos digitados são atribuídos às suas respectivas variáveis, que serão usadas como parâmetro para a função que cadastra o cliente
