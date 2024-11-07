@@ -1,4 +1,4 @@
-export class funcionario {
+export class classe_funcionario {
 
     nome 
 
