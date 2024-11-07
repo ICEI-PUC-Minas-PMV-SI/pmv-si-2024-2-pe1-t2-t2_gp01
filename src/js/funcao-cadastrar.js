@@ -1,7 +1,6 @@
 import { classe_cliente } from "./classe-cliente.js";
 
 
-
 export function cadastrar_cliente(nome, sobrenome, telefone, email, usuario, senha, repita_senha) {
 
     if (senha === repita_senha) {
