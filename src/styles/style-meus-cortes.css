@@ -17,8 +17,7 @@ html, body {
 
     display: flex;
     gap: 0px; 
-
-    height: 100vh;
+    height:100vh;
 
 }
 .meus-cortes-esquerda {
@@ -29,30 +28,11 @@ html, body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: space-around;
-    gap: 30px;
-   
-    
+    justify-content: space-between;
+    gap: 2%;
+      
 }
 
-.meus-cortes-esquerda-botoes {
-
-    color:#FFFFFF;
-    width: 300px;
-    font-size: 35px;
-    padding: 2%;
-
-    text-align: center;
-    background-color: #000;
-    border: 8px double;
-    border-color: #FFFFFF;
-
-}
-
-.meus-cortes-esquerda-botoes:hover {
-
-    background-color: rgb(50,50,50);
-}
 .meus-cortes-direita {
 
     background-color: #FFFFFF;
@@ -76,4 +56,41 @@ html, body {
 
     padding: 0%;
     max-width: 200px;
+}
+
+.titulo-lista {
+
+    color: #FFFFFF;
+    font-family: "Gruppo", sans-serif;
+    font-size: 30px;
+    padding: 5% 0%;
+
+}
+
+.container-lista {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.lista {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.item-da-lista {
+
+    padding: 3%;
+    text-align: justify;
+    list-style-type:armenian;
+    list-style-position: outside;
+}
+
+.lista div li p{
+
+    display: inline-block;
+    color:#FFFFFF;
 }

@@ -1,14 +1,17 @@
 export class classe_funcionario {
 
+    static vetor_funcionarios = JSON.parse(localStorage.getItem("lista de funcionários")) || []
+    static servicos_agendados = JSON.parse(localStorage.getItem("todos os serviços agendados")) || []
+    
     nome 
 
-    // valores booleanos (faz ou não faz cada serviço):
-    corte
-    sobrancelha
-    barba
+    constructor (nome) {
 
-    // array de strings com horários INDISPONÍVEIS, 
-    servicos_agendados = []
-
-
+        this.nome = nome
+       
+    }
 }
+
+
+
+

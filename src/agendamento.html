@@ -50,13 +50,14 @@
                     <div class = "data-e-horario">
                         <label>Escolha uma data: </label>
 
-                            <input type = "date" class = "calendario-datas" name = "calendario-datas" min = "2024-10-20" required>    
+                            <input type = "date" class = "calendario-datas" id = "data" name = "calendario-datas" min = "2024-10-20" required>    
                     </div>
 
                     <div class = "data-e-horario">
                         <label>Escolha um horário: </label>
 
-                            <input type = "time" class = "calendario-horario" name = "calendario-horarios" required>    
+                            <input type = "time" class = "calendario-horario" 
+                            id = "hora" name = "calendario-horarios" required>    
                     </div>
 
                     <div class = "escolher-serviços">
@@ -65,29 +66,30 @@
 
                             <div class = "checkbox-serviços">
                                 <label for = "corte de cabelo">Corte de cabelo</label>
-                                <input type = "checkbox" class = "corte de cabelo" name = "corte de cabelo">
+                                <input type = "checkbox" class = "corte de cabelo" id = "cabelo" name = "corte de cabelo">
                             </div>
                             
                             <div class = "checkbox-serviços">
                                 <label for = "sobrancelha">Fazer as sobrancelhas</label>
-                                <input type = "checkbox" class = "sobrancelha" name = "sobrancelha">
+                                <input type = "checkbox" class = "sobrancelha" id = "sobrancelha" name = "sobrancelha">
                             </div>
                            
                             <div class = "checkbox-serviços">
                                 <label for = "Barba">Fazer a barba</label>
-                                <input type = "checkbox" class = "barba" name = "barba">
+                                <input type = "checkbox" class = "barba" id = "barba" name = "barba">
                             </div>
                     
                         </div>
 
                 </fieldset>
 
-                    <button class = "agendamento-botao">Agendar</button>
+                    <button class = "agendamento-botao" id = "agendamento-botao">Agendar</button>
             </form>
 
         </div>
     </div>  
 
-
+    <script src="./js/script-agendamento.js" type = "module"></script>
 </body>
+
 </html>
