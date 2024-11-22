@@ -18,6 +18,8 @@ export function agendar (email_cliente, nome_funcionario, dia, hora, cabelo, sob
             classe_cliente.servicos_agendados.push(agendamento)
             classe_funcionario.servicos_agendados.push(agendamento)
 
+            console.log(dia)
+
             confirm(`Serviço agendado com sucesso, ${cliente.nome}! Aguardamos você no dia ${dia}, às ${hora}! Nosso ${nome_funcionario} irá te atender. Agora, você será redirecionado para a página inicial.`)
 
             localStorage.setItem("todos os serviços agendados", JSON.stringify(classe_cliente.servicos_agendados))

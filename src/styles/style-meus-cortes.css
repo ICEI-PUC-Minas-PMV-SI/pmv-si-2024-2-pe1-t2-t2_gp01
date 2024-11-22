@@ -79,18 +79,20 @@ html, body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    
 }
 
 .item-da-lista {
 
     padding: 3%;
     text-align: justify;
-    list-style-type:armenian;
+    list-style: solid circle;
     list-style-position: outside;
+    color: #FFFFFF;
 }
 
 .lista div li p{
 
-    display: inline-block;
+    display: inline;
     color:#FFFFFF;
 }

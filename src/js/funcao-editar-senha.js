@@ -6,7 +6,7 @@ export function editar_senha(email_cliente, nova_senha){
 
     for (i=0; i < classe_cliente.vetor_clientes.length; i++) {
         
-        if(email_cliente == classe_cliente.vetor_clientes[i].email) {
+        if(email_cliente === classe_cliente.vetor_clientes[i].email) {
 
             classe_cliente.vetor_clientes[i].senha = nova_senha
 

@@ -8,7 +8,9 @@ botao_agendar.addEventListener("click", function(evento){
 
     const email_cliente = JSON.parse(localStorage.getItem("cliente logado")) 
     const nome_funcionario = document.getElementById("funcionarios").value
-    const dia = document.getElementById("data").value
+    const dia_bruto = document.getElementById("data").value
+    const dia_split = dia_bruto.split('-')
+    const dia = `${dia_split[2]}/${dia_split[1]}/${dia_split[0]}`
     const hora = document.getElementById("hora").value
     const cabelo = document.getElementById("cabelo").checked
     const sobrancelha = document.getElementById("sobrancelha").checked
