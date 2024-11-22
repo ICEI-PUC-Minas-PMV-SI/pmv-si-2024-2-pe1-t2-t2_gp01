@@ -264,9 +264,9 @@ header {
     
         display: grid;
         grid-template-columns: repeat(2, 1fr); 
-        grid-gap: 10%; 
+        grid-gap: 3%; 
         justify-items: center; 
-        padding: 5%;
+        padding: 2%;
         text-align: center;
     }
     
@@ -288,6 +288,7 @@ header {
         
         font-size: 2.0rem;
         font-family: "Gruppo", sans-serif;
+        color: red;
         
         grid-column: 1 / -1; 
         margin-bottom: 5%; 
