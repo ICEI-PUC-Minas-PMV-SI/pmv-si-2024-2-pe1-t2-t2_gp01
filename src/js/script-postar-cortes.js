@@ -4,7 +4,7 @@ window.onload = function () {
 
     const meus_agendamentos = JSON.parse(localStorage.getItem("meus serviços")) || []
 
-
+    meus_agendamentos.sort((a, b) => a.data.localeCompare(b.data))
 
     if (meus_agendamentos.length === 0) {
 
