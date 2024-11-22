@@ -18,7 +18,7 @@ for(i = 0; i < classe_cliente.servicos_agendados.length; i++) {
 
         console.log(email)
         console.log("item adicionado")
-        console.log(`iteração ${i}`)
+        console.log(`iteração ${i+1}`)
     }   
 }
 
