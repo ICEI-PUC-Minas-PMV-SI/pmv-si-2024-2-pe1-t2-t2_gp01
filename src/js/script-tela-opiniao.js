@@ -37,5 +37,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         alert("Obrigado pela sua opinião!");
         formulario.reset();
+
+        window.location.href = "/src/index.html"
     });
 });

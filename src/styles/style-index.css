@@ -117,7 +117,6 @@ header {
 
 .funcionalidades-icones:hover {
 
-    box-shadow: #999;
     border: 0.15rem;
     border-color: black;
     border-style: solid;
@@ -271,23 +270,19 @@ footer {
     
         display: grid;
         grid-template-columns: repeat(2, 1fr); 
-        grid-gap: 0%; 
+        grid-gap: 5%; 
         justify-items: center; 
         padding: 0%;
         text-align: center;
+        margin-bottom: 5%;
     }
     
     
     .funcionalidades-icones:hover {
     
-        position:relative;
-        top:-0.25rem;
-        border-bottom:0.375rem solid #999;
-        padding-bottom:0.375rem;
-        border: 0.375rem;
+        border: 0.15rem;
         border-color: black;
         border-style: solid;
-    
     }
     
     
@@ -295,7 +290,6 @@ footer {
         
         font-size: 2.0rem;
         font-family: "Gruppo", sans-serif;
-        color: red;
         
         grid-column: 1 / -1; 
         margin-bottom: 5%; 
@@ -316,7 +310,8 @@ footer {
         text-align: center;
         font-family: "Goldman", sans-serif;
         font-size: 1.5rem;
-        margin-top: 2%;
+        margin-top: 5%;
+        width: 100%;
     }
 
 
