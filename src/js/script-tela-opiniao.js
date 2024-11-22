@@ -31,9 +31,9 @@ document.addEventListener("DOMContentLoaded", () => {
             opiniao
         };
 
-        const avaliacoes = JSON.parse(localStorage.getItem("avaliacoes")) || [];
+        const avaliacoes = JSON.parse(localStorage.getItem("avaliações")) || [];
         avaliacoes.push(avaliacao);
-        localStorage.setItem("avaliaçoes", JSON.stringify(avaliacoes));
+        localStorage.setItem("avaliações", JSON.stringify(avaliacoes));
 
         alert("Obrigado pela sua opinião!");
         formulario.reset();
