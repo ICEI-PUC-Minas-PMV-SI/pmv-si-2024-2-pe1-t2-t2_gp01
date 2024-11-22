@@ -4,7 +4,7 @@ window.onload = function () {
 
     const meus_agendamentos = JSON.parse(localStorage.getItem("meus serviços")) || []
 
-    meus_agendamentos.sort((a, b) => a.data.localeCompare(b.data))
+    // meus_agendamentos.sort((a, b) => a.data.localeCompare(b.data))
 
     if (meus_agendamentos.length === 0) {
 
@@ -164,40 +164,45 @@ window.onload = function () {
                 barba.innerText = "Barba: não"
             }
 
-            //separador 6
-            const separador_6 = document.createElement("p")
-            separador_6.classList.add("separador-6")
-            item_da_lista.appendChild(separador_6)
-            separador_6.innerText = " __ "
+            // //separador 6
+            // const separador_6 = document.createElement("p")
+            // separador_6.classList.add("separador-6")
+            // item_da_lista.appendChild(separador_6)
+            // separador_6.innerText = " __ "
 
-            //status
-            const status = document.createElement("p")
-            status.classList.add("status")
-            item_da_lista.appendChild(status)
+            // //status
+            // const status = document.createElement("p")
+            // status.classList.add("status")
+            // item_da_lista.appendChild(status)
 
-            let data_atual = new Date().toLocaleDateString("pt-br")
-            let hora_atual = new Date().toLocaleTimeString("pt-br", { hour: "numeric", minute: "numeric" })
+            // let data_atual = new Date().toLocaleDateString("pt-br")
+            // let hora_atual = new Date().toLocaleTimeString("pt-br", { hour: "numeric", minute: "numeric" })
 
-            if (meus_agendamentos[i].data < data_atual) {
+            // console.log(data_atual)
+            // console.log(meus_agendamentos[i].data)
+        
+            // if (meus_agendamentos[i].data < data_atual) {
 
-                status.innerText = "Status: realizado"
+            //     console.log("ENTROU EM DATA MENOR QUE A ATUAL")
+            //     status.innerText = "Status: realizado"
 
-            } else {
+            // } else {
 
-                if (meus_agendamentos[i].data === data_atual) {
+            //     if (meus_agendamentos[i].data === data_atual) {
 
-                    if (meus_agendamentos[i].hora < hora_atual) {
+            //         console.log("entrou na data igual à atual")
+            //         if (meus_agendamentos[i].hora < hora_atual) {
 
-                        status.innerText = "Status: realizado"
-                    } else {
+            //             status.innerText = "Status: a ser realizado"
+            //         } else {
 
-                        status.innerText = "Status: a ser realizado"
-                    }
-                } else {
+            //             status.innerText = "Status: realizado"
+            //         }
+            //     } else {
 
-                    status.innerText = "Status: a ser realizado"
-                }
-            }
+            //         status.innerText = "Status: realizado"
+            //     }
+            // }
 
         }
     }
