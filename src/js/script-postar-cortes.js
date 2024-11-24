@@ -4,7 +4,8 @@ window.onload = function () {
 
     const meus_agendamentos = JSON.parse(localStorage.getItem("meus serviços")) || []
 
-    // meus_agendamentos.sort((a, b) => a.data.localeCompare(b.data))
+    meus_agendamentos.sort((a, b) => a.id - b.id)
+    console.log(meus_agendamentos)
 
     if (meus_agendamentos.length === 0) {
 
@@ -27,7 +28,6 @@ window.onload = function () {
 
     } else {
 
-
         let i
 
         for (i = 0; i < meus_agendamentos.length; i++) {
@@ -46,167 +46,122 @@ window.onload = function () {
 
             //label da data
             const label_data = document.createElement("p")
-            label_data.classList.add("label-data")
+            label_data.classList.add("label")
             item_da_lista.appendChild(label_data)
             label_data.innerText = "Data: "
 
             //data em si
             const valor_data = meus_agendamentos[i].data
             const data = document.createElement("p")
-            data.classList.add("data")
+            data.classList.add("dado")
             item_da_lista.appendChild(data)
             data.innerText = valor_data
 
-            //separador 1
-            const separador_1 = document.createElement("p")
-            separador_1.classList.add("separador-1")
-            item_da_lista.appendChild(separador_1)
-            separador_1.innerText = " __"
-
             //label-horário
             const label_horario = document.createElement("p")
-            label_horario.classList.add("label-horario")
+            label_horario.classList.add("label")
             item_da_lista.appendChild(label_horario)
             label_horario.innerText = "Horário: "
 
             //horário em si
             const valor_horario = meus_agendamentos[i].hora
             const horario = document.createElement("p")
-            horario.classList.add("horario")
+            horario.classList.add("dado")
             item_da_lista.appendChild(horario)
             horario.innerText = valor_horario
 
-            //separador 2
-            const separador_2 = document.createElement("p")
-            separador_2.classList.add("separador-2")
-            item_da_lista.appendChild(separador_2)
-            separador_2.innerText = " __ "
-
             //label-funcionario
             const label_funcionario = document.createElement("p")
-            label_funcionario.classList.add("label-funcionario")
+            label_funcionario.classList.add("label")
             item_da_lista.appendChild(label_funcionario)
             label_funcionario.innerText = "Funcionário: "
 
             //funcionário em si
             const valor_funcionario = meus_agendamentos[i].nome_funcionario
             const funcionario = document.createElement("p")
-            funcionario.classList.add("funcionario")
+            funcionario.classList.add("dado")
             item_da_lista.appendChild(funcionario)
             funcionario.innerText = valor_funcionario
-
-            //separador 3
-            const separador_3 = document.createElement("p")
-            separador_3.classList.add("separador-3")
-            item_da_lista.appendChild(separador_3)
-            separador_3.innerText = " __ "
 
             //cabelo
             const valor_cabelo = meus_agendamentos[i].cabelo
             const cabelo = document.createElement("p")
-            cabelo.classList.add("cabelo")
+            cabelo.classList.add("label-dado")
             item_da_lista.appendChild(cabelo)
 
-
-            console.log(cabelo)
             if (valor_cabelo) {
 
-                console.log("entrou no cabelo sim")
                 cabelo.innerText = "Cabelo: sim"
 
             } else {
 
-                console.log("entrou no cabelo não")
                 cabelo.innerText = "Cabelo: não"
             }
-
-            //separador 4
-            const separador_4 = document.createElement("p")
-            separador_4.classList.add("separador-4")
-            item_da_lista.appendChild(separador_4)
-            separador_4.innerText = " __ "
 
             //sobrancelha
             const valor_sobrancelha = meus_agendamentos[i].sobrancelha
             const sobrancelha = document.createElement("p")
-            sobrancelha.classList.add("sobrancelha")
+            sobrancelha.classList.add("label-dado")
             item_da_lista.appendChild(sobrancelha)
 
             if (valor_sobrancelha) {
 
-                console.log("entrou no sobrancelha sim")
                 sobrancelha.innerText = "Sobrancelha: sim"
             } else {
 
-                console.log("entrou no sobrancelha não")
                 sobrancelha.innerText = "Sobrancelha: não"
             }
-
-            //separador 5
-            const separador_5 = document.createElement("p")
-            separador_5.classList.add("separador-5")
-            item_da_lista.appendChild(separador_5)
-            separador_5.innerText = " __ "
 
             //barba
             const valor_barba = meus_agendamentos[i].barba
             const barba = document.createElement("p")
-            barba.classList.add("barba")
+            barba.classList.add("label-dado")
             item_da_lista.appendChild(barba)
 
             if (valor_barba) {
 
-                console.log("entrou no barba sim")
                 barba.innerText = "Barba: sim"
             } else {
 
-                console.log("entrou no barba não")
                 barba.innerText = "Barba: não"
             }
 
-            // //separador 6
-            // const separador_6 = document.createElement("p")
-            // separador_6.classList.add("separador-6")
-            // item_da_lista.appendChild(separador_6)
-            // separador_6.innerText = " __ "
+            //status
+            const status = document.createElement("p")
+            status.classList.add("label-dado")
+            item_da_lista.appendChild(status)
 
-            // //status
-            // const status = document.createElement("p")
-            // status.classList.add("status")
-            // item_da_lista.appendChild(status)
+            let data_atual = new Date().toLocaleDateString("en-ca")
+            console.log(data_atual)
+            let hora_atual = new Date().toLocaleTimeString("pt-br", { hour: "numeric" })
+            let hora_atual_inteira = parseInt(hora_atual)
+            console.log(hora_atual_inteira)
+            
 
-            // let data_atual = new Date().toLocaleDateString("pt-br")
-            // let hora_atual = new Date().toLocaleTimeString("pt-br", { hour: "numeric", minute: "numeric" })
+            let id_data_hora_atual = Date.parse(data_atual) + hora_atual_inteira
+            console.log(id_data_hora_atual)
+            console.log(meus_agendamentos[i].id)
 
-            // console.log(data_atual)
-            // console.log(meus_agendamentos[i].data)
-        
-            // if (meus_agendamentos[i].data < data_atual) {
+            if (meus_agendamentos[i].id < id_data_hora_atual) {
 
-            //     console.log("ENTROU EM DATA MENOR QUE A ATUAL")
-            //     status.innerText = "Status: realizado"
+                console.log("O momento do corte agendado já passou")
+                status.innerText = "Status: realizado"
 
-            // } else {
+            } else {
 
-            //     if (meus_agendamentos[i].data === data_atual) {
+                if(meus_agendamentos[i].id > id_data_hora_atual){
 
-            //         console.log("entrou na data igual à atual")
-            //         if (meus_agendamentos[i].hora < hora_atual) {
+                console.log("O momento do agendamento ainda não chegou")
 
-            //             status.innerText = "Status: a ser realizado"
-            //         } else {
+                status.innerText = "Status: a ser realizado"
+                } else {
 
-            //             status.innerText = "Status: realizado"
-            //         }
-            //     } else {
-
-            //         status.innerText = "Status: realizado"
-            //     }
-            // }
-
+                    status.innerText = "Status: sendo realizado nesse momento"
+                }
+            }
         }
     }
-
 }
+
 
 

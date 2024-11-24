@@ -11,7 +11,6 @@ document.addEventListener("DOMContentLoaded", () => {
         const qualidadeCorte = formulario.querySelector('input[name="qualidade-do-corte"]:checked')?.value;
         const opiniao = formulario.querySelector('textarea[name="opiniao"]').value;
 
-        
         if (!funcionario) {
             alert("Por favor, selecione um funcionário para avaliar.");
             return;
@@ -22,20 +21,21 @@ document.addEventListener("DOMContentLoaded", () => {
             return;
         }
 
-       
         const avaliacao = {
+            
             funcionario,
             pontualidade,
             educacao,
             qualidadeCorte,
             opiniao
+    
         };
 
         const avaliacoes = JSON.parse(localStorage.getItem("avaliações")) || [];
         avaliacoes.push(avaliacao);
         localStorage.setItem("avaliações", JSON.stringify(avaliacoes));
 
-        alert("Obrigado pela sua opinião!");
+        alert("Obrigado pela sua opinião! Agora você será redirecionado para a página inicial.");
         formulario.reset();
 
         window.location.href = "/src/index.html"

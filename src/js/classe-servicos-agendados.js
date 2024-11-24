@@ -10,7 +10,11 @@ export class classe_servicos_agendados {
     email_cliente
     nome_funcionario
 
-    constructor (data, hora, barba, sobrancelha, cabelo, email_cliente, nome_funcionario){
+    //esse identificador é temporal, para fins de comparação entre datas. É um número inteiro, quanto mais
+    //à frente a data, maior é o número. O valor tem como dois últimos dígitos o horario
+    id
+
+    constructor (data, hora, barba, sobrancelha, cabelo, email_cliente, nome_funcionario, id_temporal){
 
         this.data = data
         this.hora = hora
@@ -19,6 +23,7 @@ export class classe_servicos_agendados {
         this.cabelo = cabelo
         this.email_cliente = email_cliente
         this.nome_funcionario = nome_funcionario
+        this.id = id_temporal
 
     }
 }

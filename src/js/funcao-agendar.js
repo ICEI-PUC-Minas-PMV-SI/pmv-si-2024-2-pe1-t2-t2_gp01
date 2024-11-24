@@ -3,9 +3,9 @@ import { classe_funcionario } from "./classe-funcionario.js"
 import { classe_servicos_agendados } from "./classe-servicos-agendados.js"
 import { listar_cortes } from "./funcao-listar-cortes.js"
 
-export function agendar (email_cliente, nome_funcionario, dia, hora, cabelo, sobrancelha, barba) {
+export function agendar (email_cliente, nome_funcionario, dia, hora, cabelo, sobrancelha, barba, id_temporal) {
 
-    let agendamento = new classe_servicos_agendados(dia, hora, barba, sobrancelha, cabelo, email_cliente,nome_funcionario)
+    let agendamento = new classe_servicos_agendados(dia, hora, barba, sobrancelha, cabelo, email_cliente,nome_funcionario, id_temporal)
 
     let i
 

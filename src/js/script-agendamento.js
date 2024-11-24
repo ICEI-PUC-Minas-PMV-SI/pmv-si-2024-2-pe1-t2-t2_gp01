@@ -8,10 +8,17 @@ botao_agendar.addEventListener("click", function(evento){
 
     const email_cliente = JSON.parse(localStorage.getItem("cliente logado")) 
     const nome_funcionario = document.getElementById("funcionarios").value
+
     const dia_bruto = document.getElementById("data").value
     const dia_split = dia_bruto.split('-')
     const dia = `${dia_split[2]}/${dia_split[1]}/${dia_split[0]}`
+
     const hora = document.getElementById("hora").value
+    const hora_split = hora.split(':')
+    const hora_inteira = parseInt(hora_split[0])
+
+    const id_temporal = Date.parse(dia_bruto) + hora_inteira
+
     const cabelo = document.getElementById("cabelo").checked
     const sobrancelha = document.getElementById("sobrancelha").checked
     const barba = document.getElementById("barba").checked
@@ -26,7 +33,7 @@ botao_agendar.addEventListener("click", function(evento){
 
         if(email_cliente){
 
-            agendar(email_cliente, nome_funcionario, dia, hora, cabelo, sobrancelha, barba)
+            agendar(email_cliente, nome_funcionario, dia, hora, cabelo, sobrancelha, barba, id_temporal)
 
         } else {
         

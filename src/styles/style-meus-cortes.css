@@ -84,10 +84,10 @@ html, body {
 
 .item-da-lista {
 
-    padding: 3%;
+    padding: 2%;
     text-align: justify;
     list-style: solid circle;
-    list-style-position: outside;
+    list-style-position:inside;
     color: #FFFFFF;
 }
 
@@ -95,4 +95,19 @@ html, body {
 
     display: inline;
     color:#FFFFFF;
+}
+
+.label {
+
+    padding: 0% 0% 0% 0%;
+}
+
+.dado {
+
+    padding: 0% 2% 0% 0%;
+}
+
+.label-dado {
+
+    padding: 0% 2% 0% 0%;
 }
