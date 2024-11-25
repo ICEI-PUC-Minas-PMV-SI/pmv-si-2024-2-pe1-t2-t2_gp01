@@ -15,10 +15,6 @@ for(i = 0; i < classe_cliente.servicos_agendados.length; i++) {
 
         minha_lista.push(classe_cliente.servicos_agendados[i])
         contador ++
-
-        console.log(email)
-        console.log("item adicionado")
-        console.log(`iteração ${i+1}`)
     }   
 }
 

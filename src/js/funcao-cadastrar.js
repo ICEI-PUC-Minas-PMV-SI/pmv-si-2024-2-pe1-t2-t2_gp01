@@ -12,7 +12,7 @@ export function cadastrar_cliente(id, nome, sobrenome, telefone, email, usuario,
 
         let cliente = new classe_cliente(id, nome, sobrenome, telefone, email, usuario, senha)
 
-        confirm(`O cliente ${cliente.nome} ${cliente.sobrenome} foi cadastrado. Seu id é ${cliente.id}. Telefone: ${cliente.telefone}. E-mail: ${cliente.email}. Nome de usuário: ${cliente.usuario}. Agora você será redirecionado para a tela de login.`)
+        confirm(`${cliente.nome} ${cliente.sobrenome}, você foi cadastrado com sucesso! Agora você será redirecionado para a tela de login.`)
 
         classe_cliente.vetor_clientes.push(cliente)
 

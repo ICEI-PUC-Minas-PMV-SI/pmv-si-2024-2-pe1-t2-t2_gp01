@@ -26,36 +26,33 @@ botao_agendar.addEventListener("click", function (evento) {
     const sobrancelha = document.getElementById("sobrancelha").checked
     const barba = document.getElementById("barba").checked
 
+    if (nome_funcionario === "" || dia === "" || hora === "" || ((cabelo || barba || sobrancelha) === false)) {
 
-    if (!email_cliente) {
+        alert("Para que consigamos agendar seu serviço, é necessário selecionar um funcionário, uma data, um horário e pelo menos 1 dos 3 serviços disponíveis.")
 
-        alert("Você não está logado! Faça o login para agendar seu atendimento. Você será redirecionado.")
-
-        window.location.href = "/src/tela-login.html"
+        return
 
     } else {
 
-        if (nome_funcionario === "" || dia === "" || hora === "" || ((cabelo || barba || sobrancelha) === false)) {
+        if (minutos == 0 || minutos == 15 || minutos == 30 || minutos == 45) {
 
-            alert("Para que consigamos agendar seu serviço, é necessário selecionar um funcionário, uma data, um horário e pelo menos 1 dos 3 serviços disponíveis.")
-
-            return
-
-        } else {
-
-            if (minutos == 0 || minutos == 15 || minutos == 30 || minutos == 45) {
+            if (email_cliente) {
 
                 agendar(email_cliente, nome_funcionario, dia, hora, cabelo, sobrancelha, barba, id_temporal)
 
             } else {
 
-                alert("Para que possamos atendê-lo, solicitamos que agende horários em quartos de hora. Exemplos: 16:00, 16:15, 16:30, 16:45.")
+                alert("Você não está logado! Faça o login para agendar seu atendimento. Você será redirecionado.")
 
-                return
+                window.location.href = "/src/tela-login.html"
             }
 
+        } else {
+
+            alert("Para que possamos atendê-lo, solicitamos que agende horários em quartos de hora. Exemplos: 16:00, 16:15, 16:30, 16:45.")
+
+            return
         }
     }
-
 })
 
