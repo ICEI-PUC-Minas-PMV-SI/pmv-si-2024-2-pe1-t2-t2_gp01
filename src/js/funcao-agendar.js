@@ -2,31 +2,40 @@ import { classe_cliente } from "./classe-cliente.js"
 import { classe_funcionario } from "./classe-funcionario.js"
 import { classe_servicos_agendados } from "./classe-servicos-agendados.js"
 import { listar_cortes } from "./funcao-listar-cortes.js"
+import { verifica_disponibilidade } from "./funcao-verifica-disponibilidade.js"
 
-export function agendar (email_cliente, nome_funcionario, dia, hora, cabelo, sobrancelha, barba, id_temporal) {
+export function agendar(email_cliente, nome_funcionario, dia, hora, cabelo, sobrancelha, barba, id_temporal) {
 
-    let agendamento = new classe_servicos_agendados(dia, hora, barba, sobrancelha, cabelo, email_cliente,nome_funcionario, id_temporal)
+    if (verifica_disponibilidade(nome_funcionario, dia, hora)) {
 
-    let i
+        let agendamento = new classe_servicos_agendados(dia, hora, barba, sobrancelha, cabelo, email_cliente, nome_funcionario, id_temporal)
 
-    for (i = 0; i < classe_cliente.vetor_clientes.length; i++) {
+        let i
 
-        if(email_cliente === classe_cliente.vetor_clientes[i].email) {
+        for (i = 0; i < classe_cliente.vetor_clientes.length; i++) {
 
-            const cliente = classe_cliente.vetor_clientes[i]
+            if (email_cliente === classe_cliente.vetor_clientes[i].email) {
 
-            classe_cliente.servicos_agendados.push(agendamento)
-            classe_funcionario.servicos_agendados.push(agendamento)
+                const cliente = classe_cliente.vetor_clientes[i]
 
-            confirm(`Serviço agendado com sucesso, ${cliente.nome}! Aguardamos você no dia ${dia}, às ${hora}! Nosso ${nome_funcionario} irá te atender. Agora, você será redirecionado para a página inicial.`)
+                classe_cliente.servicos_agendados.push(agendamento)
+                classe_funcionario.servicos_agendados.push(agendamento)
 
-            localStorage.setItem("todos os serviços agendados", JSON.stringify(classe_cliente.servicos_agendados))
+                confirm(`Serviço agendado com sucesso, ${cliente.nome}! Aguardamos você no dia ${dia}, às ${hora}! Nosso ${nome_funcionario} irá te atender. Agora, você será redirecionado para a página inicial.`)
 
-            listar_cortes(email_cliente)
+                localStorage.setItem("todos os serviços agendados", JSON.stringify(classe_cliente.servicos_agendados))
 
-            window.location.href = "/src/index.html"
+                listar_cortes(email_cliente)
 
-            return 
+                window.location.href = "/src/index.html"
+
+                return
+            }
         }
-    }    
+    } else {
+
+        alert("Esse horário está indisponível para esse funcionário. Por favor, escolha outro horário ou outro funcionário.")
+
+        return
+    }
 }

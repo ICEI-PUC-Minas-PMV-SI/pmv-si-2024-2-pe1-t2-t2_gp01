@@ -10,8 +10,7 @@ export class classe_servicos_agendados {
     email_cliente
     nome_funcionario
 
-    //esse identificador é temporal, para fins de comparação entre datas. É um número inteiro, quanto mais
-    //à frente a data, maior é o número. O valor tem como dois últimos dígitos o horario
+    //esse identificador é temporal, para fins de comparação entre datas na listagem de agendamentos. É um número inteiro. Quanto mais à frente a data, maior é o número. O valor tem como dois últimos dígitos o horario agendado
     id
 
     constructor (data, hora, barba, sobrancelha, cabelo, email_cliente, nome_funcionario, id_temporal){
