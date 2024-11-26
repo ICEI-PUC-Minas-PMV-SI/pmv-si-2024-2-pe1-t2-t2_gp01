@@ -129,6 +129,8 @@ Opacidade: 100%
 
 1 - Ícone de uma pessoa com um símbolo de adição representando o cadastro de novo usuário.
 
+C:\Users\Jessé\Meu Drive\ESTUDOS ATUAIS\SISTEMAS DE INFORMACAO PUC VIRTUAL\PROJETO WEB EIXO 1\pmv-si-2024-2-pe1-t2-t2_gp01\src\assets\icone_1_cadastro.svg
+
 2 - Ícone de uma pasta com uma seta apontando para dentro para representar o login do usuário no sistema.
 
 3 – Ícone de calendário para representar o agendamento de serviços em uma data e horário específicos.
