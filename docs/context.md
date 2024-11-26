@@ -16,7 +16,7 @@ Objetivos:
 
 A aplicação a ser desenvolvida tem como objetivo aumentar a aderência de um pequeno negócio de serviços de barbearia à tecnologia da informação, bem como elevar o nível de exposição do negócio ao público amplo da região, o que cria a potencialidade de alavancagem dos rendimentos. 
 
-De maneira mais específica, a aplicação oferecerá um fácil manuseio das informações e das opções disponíveis, tais como a escolha entre os serviços de corte, barba e sobrancelha. Os clientes também poderão registrar, de modo que fique visível para todos, a data, o horário e o funcionário escolhidos para o atendimento. Por fim, o histórico de cada cliente poderá ser facilmente consultado, constando dados como as datas e os valores de cortes anteriores.
+De maneira mais específica, a aplicação oferecerá um fácil manuseio das informações e das opções disponíveis, tais como a escolha entre os serviços de corte, barba e sobrancelha. Os clientes também poderão registrar a data, o horário e o funcionário escolhidos para o atendimento. Haverá a possibilidade de edição dos dados cadastrados, incluindo a senha. Uma seção de avaliações dos serviços ficará disponível para que o cliente forneça seu feedback ao estabelecimento. Por fim, o histórico de serviços agendados de cada cliente poderá ser facilmente consultado.
 
 ## Justificativa
 
@@ -27,17 +27,8 @@ Assim, o projeto desenvolvido trará impacto real para um negócio pertencente a
 
 ## Público-Alvo
 
-O público-alvo pretendido consiste principalmente de homens que já consomem serviços de barbearia com foco em cuidados pessoais como corte de cabelo, barba e cuidados com a pele. Trata-se de um grupo  a utilizar a tecnologia para agendar serviços online, 
+O público-alvo pretendido consiste principalmente de homens que já consomem serviços de barbearia com foco em cuidados pessoais como corte de cabelo, barba e cuidados com a pele. Trata-se de um grupo  a utilizar a tecnologia para agendar serviços online. Por estarem inseridos em uma rotina dinâmica, com inúmeros compromissos diários, uma aplicação simples e intuitiva poderá ser atrativa, devido à praticidade e à agilidade oferecidas pelo sistema de agendamentos via internet.
+ 
 
+![image](https://github.com/user-attachments/assets/4e3dd5a6-f91d-4bb5-bfb7-0d99285016f6)
 
-
-
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
