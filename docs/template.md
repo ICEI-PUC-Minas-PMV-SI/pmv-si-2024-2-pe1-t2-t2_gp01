@@ -129,32 +129,27 @@ Opacidade: 100%
 
 1 - Ícone de uma pessoa com um símbolo de adição representando o cadastro de novo usuário.
 
-![image](https://github.com/user-attachments/assets/4557dae4-b46b-4dcb-83f4-b9b0dc3d06c8)
+![image](https://github.com/user-attachments/assets/cf808a53-b29c-4971-bef7-6e317c031c08)
 
 2 - Ícone de uma pasta com uma seta apontando para dentro para representar o login do usuário no sistema.
 
-![image](https://github.com/user-attachments/assets/095ca65d-8581-483a-916d-3d15186d5c21)
-
+![image](https://github.com/user-attachments/assets/7daa9ac4-5999-4130-b567-183892c66421)
 
 3 – Ícone de calendário para representar o agendamento de serviços em uma data e horário específicos.
 
-![image](https://github.com/user-attachments/assets/74b05077-b48a-4608-af98-fb4c5b793496)
-
+![image](https://github.com/user-attachments/assets/88facbac-5aa4-4beb-8d2b-f93415a27649)
 
 4 -Ícone de um lápis representando a edição de informações do usuário.
 
-![image](https://github.com/user-attachments/assets/b9e982aa-26bd-41f1-8d53-8791deed1c75)
-
+![image](https://github.com/user-attachments/assets/223b243c-6827-4786-bfe2-e9c99841aae1)
 
 5 – Ícone de lista para representar a exibição do histórico de serviços prestados para o usuário.
 
- ![image](https://github.com/user-attachments/assets/ce081fa4-2c13-4336-b86b-98f26de71830)
-
+![image](https://github.com/user-attachments/assets/13889d15-774a-4b74-a88b-dfdaa247011a)
 
 6 -Ícone de balões de fala representando as opiniões do usuário a respeito dos serviços prestados.
 
- ![image](https://github.com/user-attachments/assets/8d0b7c35-334b-439b-ae4b-c9dfe20c751d)
-
+![image](https://github.com/user-attachments/assets/774edbb1-0ade-423c-82db-692765dff58f)
 
 ## Estilos CSS
 
