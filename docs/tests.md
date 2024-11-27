@@ -69,7 +69,7 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
  :--------------: | ------------
 **Procedimento**  | 1) Acesse o endereço www.teste.com.br <br> 2) Clique em "Historico de agendamentos" <br>
 **Requisitos associados** | RF-004
-**Resultado esperado** | Visualizar o historico de agendamentos do usuario
+**Resultado esperado** | Visualizar o historico de agendamentos do usuário
 **Dados de entrada** | Listagem automatica
 **Resultado obtido** | Sucesso
 
