@@ -181,7 +181,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-004| A aplicação deve permitir que o cliente visualize seu histórico de serviços agendados |ALTA|
 |RF-005| O cliente deve ser capaz de escolher entre as opções de corte, barba e sobrancelha, inclusive dois ou mais desses itens simultaneamente |ALTA|
 |RF-006| O cliente deve ser capaz de registrar o horário definido na agenda de cortes, bem como qual funcionário foi escolhido para o serviço |ALTA|
-|RF-007| A aplicação deve impedir que o usuário agende serviços em horários que já foram agendados anteriormente, considerando a disponibilidade de cada funcionário.
+|RF-007| A aplicação deve impedir que o usuário agende serviços em horários que já foram agendados anteriormente, considerando a disponibilidade de cada funcionário | ALTA |
 |RF-008| A aplicação deve ser capaz de captar feedbacks do usuário por meio de campos com notas de 1 a 5 e de um campo de opinião por extenso |ALTA|
 
 
