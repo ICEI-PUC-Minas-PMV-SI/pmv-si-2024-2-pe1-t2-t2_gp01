@@ -44,7 +44,7 @@ Considerações finais.
 Utilização de cores neutras. Tons de preto, cinza e branco.
 
 
-![Paleta ce cores](https://github.com/user-attachments/assets/f9cfd372-4755-40b4-b160-7eef8a1def73)
+![Paleta de cores](https://github.com/user-attachments/assets/f9cfd372-4755-40b4-b160-7eef8a1def73)
 
 
 ## Tipografia
