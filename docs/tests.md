@@ -69,8 +69,8 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
  :--------------: | ------------
 **Procedimento**  | 1) Acesse o endereço www.teste.com.br <br> 2) Clique em "Historico de agendamentos" <br>
 **Requisitos associados** | RF-004
-**Resultado esperado** | Visualizar o historico de agendamentos do usuário
-**Dados de entrada** | Listagem automatica
+**Resultado esperado** | Visualizar o histórico de agendamentos do usuário
+**Dados de entrada** | Listagem automática
 **Resultado obtido** | Sucesso
 
 **Caso de Teste** | **CT07 - Opinião dos usuarios**
@@ -85,12 +85,12 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 
 Esta seção deve apresentar o relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado no plano de testes pré-definido. Documente cada caso de teste apresentando um vídeo ou animação que comprove o funcionamento da funcionalidade. Veja os exemplos a seguir.
 
-|*Caso de Teste*                                 |*CT01 - Criar conta parte 1*                                         |
+|*Caso de Teste*                                 |*CT01 - Criar conta          |
 |---|---|
-|Requisito Associado | RF-001 - A aplicação deve permitir que os usuários criem uma conta e gerenciem seu cadastro|
-|Link do vídeo do teste realizado: | https://1drv.ms/u/s!AhD2JqpOUvJChapRtRSQ9vPzbNLwGA?e=mxZs6t| 
+|Requisito Associado | RF-001 - A aplicação deve permitir que o cliente crie seu próprio cadastro|
+|Link do vídeo do teste realizado: | https://drive.google.com/file/d/1T3fwiItcyyV1IH3evvWzvIlFl_EbB7Lz/view?usp=drive_link| 
 
-|*Caso de Teste*                                 |*CT02 - Criar conta parte 2*                                        |
+|*Caso de Teste*                                 |*CT02 -                                        |
 |---|---|
 |Requisito Associado | RF-001 - A aplicação deve permitir que os usuários criem uma conta e gerenciem seu cadastro|
 |Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
