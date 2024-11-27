@@ -16,13 +16,14 @@ botao_cadastrar.addEventListener("click", function(evento) {
     const senha_cliente = document.getElementById("senha").value
     const repita_senha_cliente = document.getElementById("repita-senha").value
 
-    cadastrar_cliente(id_cliente, nome_cliente, sobrenome_cliente, telefone_cliente, email_cliente, usuario_cliente, senha_cliente, repita_senha_cliente)
-
     if(nome_cliente === "" || sobrenome_cliente === "" || telefone_cliente === "" || email_cliente === "" || usuario_cliente === "" || senha_cliente === "" ){
 
         alert("Digite todos os campos!")
 
         return
+        
     }   
+
+    cadastrar_cliente(id_cliente, nome_cliente, sobrenome_cliente, telefone_cliente, email_cliente, usuario_cliente, senha_cliente, repita_senha_cliente)
 
 })
