@@ -76,7 +76,7 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 **Caso de Teste** | **CT07 - Opinião dos usuarios**
  :--------------: | ------------
 **Procedimento**  | 1) Acesse o endereço www.teste.com.br <br> 2) Clique em "Deixe sua opinião" <br> 3) Preencha todos os campos do formulário <br> 4) Clique no botão "Enviar opinião".
-**Requisitos associados** | RF-006
+**Requisitos associados** | RF-008
 **Resultado esperado** | Receber uma mensagem de confirmação e ser redirecionado para a tela inicial
 **Dados de entrada** | Inserção de dados válidos no formulário de agendamentos
 **Resultado obtido** | Sucesso
@@ -92,7 +92,7 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 
 |*Caso de Teste*                                 |*CT02 -   Login no sistema*                               |
 |---|---|
-|Requisito Associado | RF-003 - A aplicação deve permitir que o cliente faça login no sistema|
+|Requisito Associado | RF-002 - A aplicação deve permitir que o cliente faça login no sistema|
 |Link do vídeo do teste realizado: | https://drive.google.com/file/d/1uc_tZHIc_MEFjgXlRL2CrR5ErRHDidCM/view?usp=drive_link | 
 
 |*Caso de Teste*                                 |*CT03 -  Agendamentos de Serviço*                                      |
@@ -117,7 +117,7 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 
 |*Caso de Teste*                                 |*CT07 - Opinião dos usuarios*                                        |
 |---|---|
-|Requisito Associado | RF-006 - A aplicação deve ser capaz de captar feedbacks do usuário por meio de campos com notas de 1 a 5 e de um campo de opinião por extenso|
+|Requisito Associado | RF-008 - A aplicação deve ser capaz de captar feedbacks do usuário por meio de campos com notas de 1 a 5 e de um campo de opinião por extenso|
 |Link do vídeo do teste realizado: | https://drive.google.com/file/d/1nQUv2CyvtIDToWnK75l65f2Oqo1p-VEg/view?usp=drive_link | 
 
 
@@ -160,9 +160,9 @@ Apresente os cenários de testes utilizados na realização dos testes de usabil
 
 | Nº do Cenário | Descrição do cenário |
 |---------------|----------------------|
-| 1             |Você deseja agendar seu primeiro corte na barbearia Det's. Faça seu cadastro e logue com seus dados. Agende seu primeiro serviço e, por fim, verifique sua listagem de serviços.           |
+| 1             |Você deseja agendar seu primeiro corte na barbearia Det's. Faça seu cadastro e logue com seus dados. Agende seu primeiro serviço e, após isso, verifique sua listagem de serviços.           |
 | 2             |Você precisa editar seus dados cadastrados e modificar sua senha. Acesse a personalização de perfil e modifique seus dados e senha.            |
-| 3             |Você deseja avaliar o serviço de um funcionario. Acesse o formulario de opinião, escolha um funcionario, dê notas de 1 a 5 para a pontualidade, a educação e a qualidade do corte. Deixe tambem um comentario por escrito e envie sua avaliação.             |
+| 3             |Você deseja avaliar o serviço de um funcionario. Acesse o formulario de opinião, escolha um funcionário, dê notas de 1 a 5 para a pontualidade, a educação e a qualidade do corte. Deixe tambem um comentário por escrito e envie sua avaliação.             |
 
 
 
