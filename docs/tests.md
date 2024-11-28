@@ -150,43 +150,42 @@ Cenário 1: Você deseja agendar seu primeiro corte na barbearia Det's. Faça se
 
 | Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
 |---------|-----------------|----------------------|---------------------------------|
-| 1       | SIM             | 5                    | 27.87 segundos                  |
-| 2       | SIM             | 5                    | 17.11 segundos                  |
-| 3       | SIM             | 5                    | 39.09 segundos                  |
+| 1       | SIM             |                 |segundos                  |
+| 2       | SIM             |                   | segundos                  |
+| 3       | SIM             |                   |  segundos                  |
 |  |  |  |  |
-| **Média**     | 100%           | 5                | 28.02 segundos                           |
-| **Tempo para conclusão pelo especialista** | SIM | 5 | 8.66 segundos |
+| **Média**     | 100%           |                |  segundos                           |
+| **Tempo para conclusão pelo especialista** | SIM | 5 | 120.96 segundos |
 
-
-    Comentários dos usuários: Achei o site muito bom e intuitivo. 
-    Não tive dificuldades e acho que ficou bem intuitivo.
+Comentários dos usuários: 
 
 
 Cenário 2: Você precisa editar seus dados cadastrados e modificar sua senha. Acesse a personalização de perfil e modifique seus dados e senha.
 
 | Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
 |---------|-----------------|----------------------|---------------------------------|
-| 1       | SIM             | 5                    | 22.54 segundos                          |
-| 2       | SIM             | 5                    | 31.42 segundos                          |
-| 3       | SIM             | 4                    | 36.21 segundos                          |
+| 1       | SIM             |                     |  segundos                          |
+| 2       | SIM             |                    |  segundos                          |
+| 3       | SIM             |                     |  segundos                          |
 |  |  |  |  |
-| **Média**     | 100%           | 4.67                | 30.05 segundos                           |
-| **Tempo para conclusão pelo especialista** | SIM | 5 | 13.57 segundos |
+| **Média**     | 100%           |             |  segundos                           |
+| **Tempo para conclusão pelo especialista** | SIM | 5 | 49.46 segundos |
+
+Comentários dos usuários: 
+
 
 Cenário 3: Você deseja avaliar o serviço de um funcionario. Acesse o formulario de opinião, escolha um funcionário e o avalie. Deixe um comentário por escrito e envie sua avaliação. 
 | Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
 |---------|-----------------|----------------------|---------------------------------|
-| 1       | SIM             | 5                    | 22.54 segundos                          |
-| 2       | SIM             | 5                    | 31.42 segundos                          |
-| 3       | SIM             | 4                    | 36.21 segundos                          |
+| 1       | SIM             |                     |  segundos                          |
+| 2       | SIM             |                     |  segundos                          |
+| 3       | SIM             |                     |  segundos                          |
 |  |  |  |  |
-| **Média**     | 100%           | 4.67                | 30.05 segundos                           |
-| **Tempo para conclusão pelo especialista** | SIM | 5 | 13.57 segundos |
+| **Média**     | 100%           |                 |  segundos                           |
+| **Tempo para conclusão pelo especialista** | SIM | 5 | 29.05 segundos |
 
 
-    Comentários dos usuários: O site é fácil de acessar, mas algumas páginas poderiam 
-    redirecionar a gente automaticamente para outras. Senti a falta de mais opções de filtros, 
-    tanto na hora da pesquisa, quanto depois dela, nos resultados.
+    Comentários dos usuários: 
 
 ## Avaliação dos Testes de Usabilidade
 
