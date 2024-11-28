@@ -27,7 +27,7 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 
 **Caso de Teste** | **CT01 - Criar conta**
  :--------------: | ------------
-**Procedimento**  | 1) Acesse o endereço www.teste.com.br <br> 2) Clique em "Cadastro" <br> 3) Preencha todos os campos do formulário <br> 4) Clique no botão "Cadastrar".
+**Procedimento**  | 1) Acesse o endereço https://pmv-si-2024-2-pe1-t2-t2-gp01.vercel.app/index.html <br> 2) Clique em "Cadastro" <br> 3) Preencha todos os campos do formulário <br> 4) Clique no botão "Cadastrar".
 **Requisitos associados** | RF-001
 **Resultado esperado** | Receber uma mensagem de confirmação e ser redirecionado para a tela de login
 **Dados de entrada** | Inserção de dados válidos no formulário de cadastro
