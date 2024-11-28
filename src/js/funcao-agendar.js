@@ -27,7 +27,7 @@ export function agendar(email_cliente, nome_funcionario, dia, hora, cabelo, sobr
 
                 listar_cortes(email_cliente)
 
-                window.location.href = "/src/index.html"
+                window.location.href = "../index.html"
 
                 return
             }

@@ -38,6 +38,6 @@ document.addEventListener("DOMContentLoaded", () => {
         alert("Obrigado pela sua opinião! Agora você será redirecionado para a página inicial.");
         formulario.reset();
 
-        window.location.href = "/src/index.html"
+        window.location.href = "../index.html"
     });
 });

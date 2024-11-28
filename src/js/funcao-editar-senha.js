@@ -16,7 +16,7 @@ export function editar_senha(email_cliente, nova_senha){
 
             confirm(`${cliente_logado.nome}, sua senha foi modificada com sucesso! Agora você será redirecionado para a página inicial.`)
 
-            window.location.href = "/src/index.html"
+            window.location.href = "../index.html"
 
             return
         }

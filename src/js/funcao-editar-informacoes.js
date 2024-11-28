@@ -21,7 +21,7 @@ export function editar_informacoes(email_cliente, novo_nome, novo_sobrenome, nov
 
             confirm(`${cliente_editado.nome}, seus dados foram editados! Agora você será redirecionado para a página inicial.`)
 
-            window.location.href = "/src/index.html"
+            window.location.href = "../index.html"
 
             return  
         }
