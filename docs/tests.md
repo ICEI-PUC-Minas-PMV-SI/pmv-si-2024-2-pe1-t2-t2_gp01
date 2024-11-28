@@ -160,6 +160,7 @@ Cenário 1: Você deseja agendar seu primeiro corte na barbearia Det's. Faça se
 Comentários dos usuários: 
 
 Usuário 1: "Está bem tranquilo de seguir o fluxo da aplicação."
+
 Usuário 2: "Está muito bom. Só senti falta de um redirecionamento para mudança de senha caso o usuário esteja com dificuldade de lembrá-la."
 
 
@@ -177,6 +178,7 @@ Cenário 2: Você precisa editar seus dados cadastrados e modificar sua senha. A
 Comentários dos usuários: 
 
 Usuário 1: "Faltou, no formulário de edição de dados, aparecerem os dados que já estão registrados, a fim de comparar e ver quais deles desejo modificar."
+
 Usuário 2: "O design está bem padrão, ficaria ótimo se colocassem algo mais original e com a cara do time de desenvolvimento."
 
 
@@ -195,6 +197,7 @@ Cenário 3: Você deseja avaliar o serviço de um funcionario. Acesse o formular
     Comentários dos usuários: 
 
 Usuário 1: "O formulário está bastante completo e intuitivo."
+
 Usuário 2: "O formulário está objetivo e não está chato de preencher. Rápido."
 
 ## Avaliação dos Testes de Usabilidade
