@@ -90,14 +90,14 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 |Requisito Associado | RF-001 - A aplicação deve permitir que o cliente crie seu próprio cadastro|
 |Link do vídeo do teste realizado: | https://drive.google.com/file/d/1T3fwiItcyyV1IH3evvWzvIlFl_EbB7Lz/view?usp=drive_link| 
 
-|*Caso de Teste*                                 |*CT02 -                                        |
+|*Caso de Teste*                                 |*CT02 -   Login no sistema                               |
 |---|---|
-|Requisito Associado | RF-001 - A aplicação deve permitir que os usuários criem uma conta e gerenciem seu cadastro|
-|Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
+|Requisito Associado | RF-003 - A aplicação deve permitir que o cliente faça login no sistema|
+|Link do vídeo do teste realizado: | https://drive.google.com/file/d/1uc_tZHIc_MEFjgXlRL2CrR5ErRHDidCM/view?usp=drive_link | 
 
-|*Caso de Teste*                                 |*CT03 - Criar conta parte 2*                                        |
+|*Caso de Teste*                                 |*CT03 -Agendamentos de Serviço                                       |
 |---|---|
-|Requisito Associado | RF-001 - A aplicação deve permitir que os usuários criem uma conta e gerenciem seu cadastro|
+|Requisito Associado | RF-006 - A aplicação deve permitir que os usuários criem uma conta e gerenciem seu cadastro|
 |Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
 
 |*Caso de Teste*                                 |*CT04 - Criar conta parte 2*                                        |
