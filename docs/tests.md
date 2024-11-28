@@ -152,9 +152,9 @@ Objetivando respeitar as diretrizes da Lei Geral de Proteção de Dados, as info
 |---------|-----------------|----------------------|---------------------------------|
 | 1       | SIM             |       5          | 78.52 segundos            |
 | 2       | SIM             |           4        |       187.97 segundos         |
-| 3       | SIM             |                   |  segundos                  |
+| 3       | SIM             |         4          | 146.13 segundos                  |
 |  |  |  |  |
-| **Média**     | 100%           |                |  segundos                           |
+| **Média**     | 100%           |       4.3         | 137.54 segundos                           |
 | **Tempo para conclusão pelo especialista** | SIM | 5 | 80.96 segundos |
 
 Comentários dos usuários: 
@@ -163,6 +163,7 @@ Usuário 1: "Está bem tranquilo de seguir o fluxo da aplicação."
 
 Usuário 2: "Está muito bom. Só senti falta de um redirecionamento para mudança de senha caso o usuário esteja com dificuldade de lembrá-la."
 
+Usuário 3: "Fluxo bastante intuitivo."
 
 ### Cenário 2: Você precisa editar seus dados cadastrados e modificar sua senha. Acesse a personalização de perfil e modifique seus dados e senha.
 
@@ -170,9 +171,9 @@ Usuário 2: "Está muito bom. Só senti falta de um redirecionamento para mudan�
 |---------|-----------------|----------------------|---------------------------------|
 | 1       | SIM             |           4          |  46.63 segundos                          |
 | 2       | SIM             |             4       |  46.56 segundos                          |
-| 3       | SIM             |                     |  segundos                          |
+| 3       | SIM             |         3.5            | 79.80 segundos                          |
 |  |  |  |  |
-| **Média**     | 100%           |             |  segundos                           |
+| **Média**     | 100%           |      3.8       | 57.66 segundos                           |
 | **Tempo para conclusão pelo especialista** | SIM | 5 | 49.46 segundos |
 
 Comentários dos usuários: 
@@ -181,6 +182,8 @@ Usuário 1: "Faltou, no formulário de edição de dados, aparecerem os dados qu
 
 Usuário 2: "O design está bem padrão, ficaria ótimo se colocassem algo mais original e com a cara do time de desenvolvimento."
 
+Usuário 3: "Poderia redirecionar para mudar senha após editar informações do perfil."
+
 
 ### Cenário 3: Você deseja avaliar o serviço de um funcionario. Acesse o formulario de opinião, escolha um funcionário e o avalie. Deixe um comentário por escrito e envie sua avaliação. 
 
@@ -188,9 +191,9 @@ Usuário 2: "O design está bem padrão, ficaria ótimo se colocassem algo mais 
 |---------|-----------------|----------------------|---------------------------------|
 | 1       | SIM             |        5             |  25.68 segundos                          |
 | 2       | SIM             |           5          |  37.00 segundos                          |
-| 3       | SIM             |                     |  segundos                          |
+| 3       | SIM             |         5            |  49.88 segundos                          |
 |  |  |  |  |
-| **Média**     | 100%           |                 |  segundos                           |
+| **Média**     | 100%           |        5         | 37.52 segundos                           |
 | **Tempo para conclusão pelo especialista** | SIM | 5 | 29.05 segundos |
 
 
@@ -199,6 +202,8 @@ Usuário 2: "O design está bem padrão, ficaria ótimo se colocassem algo mais 
 Usuário 1: "O formulário está bastante completo e intuitivo."
 
 Usuário 2: "O formulário está objetivo e não está chato de preencher. Rápido."
+
+Usuário 3: "Bastante tranquilo de preencher o formulário."
 
 ## Avaliação dos Testes de Usabilidade
 
