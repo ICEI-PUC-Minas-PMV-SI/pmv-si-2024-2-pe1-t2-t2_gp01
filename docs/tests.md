@@ -95,12 +95,12 @@ Nesta seção, será apresentado o relatório com as evidências dos testes de s
 |Requisito Associado | RF-003 - A aplicação deve permitir que o cliente edite seus próprios dados, inclusive sua senha|
 |Link do vídeo do teste realizado: | https://drive.google.com/file/d/1FIRURsgDCcI_QnFYkUIQO6vO15eV97Py/view?usp=drive_link| 
 
-|*Caso de Teste*                                 |*CT06 - Historico de agendamentos*                                       |
+|*Caso de Teste*                                 |*CT06 - Histórico de agendamentos*                                       |
 |---|---|
 |Requisito Associado | RF-004 - A aplicação deve permitir que o cliente visualize seu histórico de serviços agendados|
 |Link do vídeo do teste realizado: | https://drive.google.com/file/d/1GOOTbFaDj2aGV6VicabNmD99TAJQAP02/view?usp=drive_link | 
 
-|*Caso de Teste*                                 |*CT07 - Opinião dos usuarios*                                        |
+|*Caso de Teste*                                 |*CT07 - Opinião dos usuários*                                        |
 |---|---|
 |Requisito Associado | RF-008 - A aplicação deve ser capaz de captar feedbacks do usuário por meio de campos com notas de 1 a 5 e de um campo de opinião por extenso|
 |Link do vídeo do teste realizado: | https://drive.google.com/file/d/1nQUv2CyvtIDToWnK75l65f2Oqo1p-VEg/view?usp=drive_link | 
