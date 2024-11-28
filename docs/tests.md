@@ -168,7 +168,7 @@ Apresente os cenários de testes utilizados na realização dos testes de usabil
 
 ## Registro de Testes de Usabilidade
 
-Cenário 1: Você é uma pessoa que deseja comprar um iphone. Encontre no site um iphone e veja detalhes de localização e contato da loja que anunciando.
+Cenário 1: Você deseja agendar seu primeiro corte na barbearia Det's. Faça seu cadastro e logue com seus dados. Agende seu primeiro serviço e, após isso, verifique sua listagem de serviços.
 
 | Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
 |---------|-----------------|----------------------|---------------------------------|
@@ -184,7 +184,18 @@ Cenário 1: Você é uma pessoa que deseja comprar um iphone. Encontre no site u
     Não tive dificuldades e acho que ficou bem intuitivo.
 
 
-Cenário 2: Você é uma pessoa que deseja comprar um smartphone até R$ 2.000,00. Encontre no site smartphone's nessa faixa de preço.
+Cenário 2: Você precisa editar seus dados cadastrados e modificar sua senha. Acesse a personalização de perfil e modifique seus dados e senha.
+
+| Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
+|---------|-----------------|----------------------|---------------------------------|
+| 1       | SIM             | 5                    | 22.54 segundos                          |
+| 2       | SIM             | 5                    | 31.42 segundos                          |
+| 3       | SIM             | 4                    | 36.21 segundos                          |
+|  |  |  |  |
+| **Média**     | 100%           | 4.67                | 30.05 segundos                           |
+| **Tempo para conclusão pelo especialista** | SIM | 5 | 13.57 segundos |
+
+Cenário 3: Você precisa editar seus dados cadastrados e modificar sua senha. Acesse a personalização de perfil e modifique seus dados e senha.
 
 | Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
 |---------|-----------------|----------------------|---------------------------------|
