@@ -85,40 +85,40 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 
 Esta seção deve apresentar o relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado no plano de testes pré-definido. Documente cada caso de teste apresentando um vídeo ou animação que comprove o funcionamento da funcionalidade. Veja os exemplos a seguir.
 
-|*Caso de Teste*                                 |*CT01 - Criar conta          |
+|*Caso de Teste*                                 |*CT01 - Criar conta*          |
 |---|---|
 |Requisito Associado | RF-001 - A aplicação deve permitir que o cliente crie seu próprio cadastro|
 |Link do vídeo do teste realizado: | https://drive.google.com/file/d/1T3fwiItcyyV1IH3evvWzvIlFl_EbB7Lz/view?usp=drive_link| 
 
-|*Caso de Teste*                                 |*CT02 -   Login no sistema                               |
+|*Caso de Teste*                                 |*CT02 -   Login no sistema*                               |
 |---|---|
 |Requisito Associado | RF-003 - A aplicação deve permitir que o cliente faça login no sistema|
 |Link do vídeo do teste realizado: | https://drive.google.com/file/d/1uc_tZHIc_MEFjgXlRL2CrR5ErRHDidCM/view?usp=drive_link | 
 
-|*Caso de Teste*                                 |*CT03 -Agendamentos de Serviço                                       |
+|*Caso de Teste*                                 |*CT03 -  Agendamentos de Serviço*                                      |
 |---|---|
-|Requisito Associado | RF-006 - A aplicação deve permitir que os usuários criem uma conta e gerenciem seu cadastro|
-|Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
+|Requisito Associado | RF-006 - O cliente deve ser capaz de registrar o horário definido na agenda de cortes, bem como qual funcionário foi escolhido para o serviço|
+|Link do vídeo do teste realizado: | https://drive.google.com/file/d/1oZBSLcRqMmEfH08zSZ6Q1lFGGc1I4bD_/view?usp=drive_link | 
 
-|*Caso de Teste*                                 |*CT04 - Criar conta parte 2*                                        |
+|*Caso de Teste*                                 |*CT04 - Editar informações*                                        |
 |---|---|
-|Requisito Associado | RF-001 - A aplicação deve permitir que os usuários criem uma conta e gerenciem seu cadastro|
-|Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
+|Requisito Associado | RF-003 - A aplicação deve permitir que o cliente edite seus próprios dados, inclusive sua senha|
+|Link do vídeo do teste realizado: | https://drive.google.com/file/d/1ZI-PYfF5BPuqhJyRx4DwUWhPm1ft-p3X/view?usp=drive_link | 
 
-|*Caso de Teste*                                 |*CT05 - Criar conta parte 2*                                        |
+|*Caso de Teste*                                 |*CT05 - Mudar senha*                                        |
 |---|---|
-|Requisito Associado | RF-001 - A aplicação deve permitir que os usuários criem uma conta e gerenciem seu cadastro|
-|Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
+|Requisito Associado | RF-003 - A aplicação deve permitir que o cliente edite seus próprios dados, inclusive sua senha|
+|Link do vídeo do teste realizado: | https://drive.google.com/file/d/1FIRURsgDCcI_QnFYkUIQO6vO15eV97Py/view?usp=drive_link| 
 
-|*Caso de Teste*                                 |*CT06 - Criar conta parte 2*                                        |
+|*Caso de Teste*                                 |*CT06 - Historico de agendamentos*                                       |
 |---|---|
-|Requisito Associado | RF-001 - A aplicação deve permitir que os usuários criem uma conta e gerenciem seu cadastro|
-|Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
+|Requisito Associado | RF-004 - A aplicação deve permitir que o cliente visualize seu histórico de serviços agendados|
+|Link do vídeo do teste realizado: | https://drive.google.com/file/d/1GOOTbFaDj2aGV6VicabNmD99TAJQAP02/view?usp=drive_link | 
 
-|*Caso de Teste*                                 |*CT07 - Criar conta parte 2*                                        |
+|*Caso de Teste*                                 |*CT07 - Opinião dos usuarios*                                        |
 |---|---|
-|Requisito Associado | RF-001 - A aplicação deve permitir que os usuários criem uma conta e gerenciem seu cadastro|
-|Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
+|Requisito Associado | RF-006 - A aplicação deve ser capaz de captar feedbacks do usuário por meio de campos com notas de 1 a 5 e de um campo de opinião por extenso|
+|Link do vídeo do teste realizado: | https://drive.google.com/file/d/1nQUv2CyvtIDToWnK75l65f2Oqo1p-VEg/view?usp=drive_link | 
 
 
 ## Avaliação dos Testes de Software
