@@ -35,7 +35,7 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 
 **Caso de Teste** | **CT02 - Login no sistema**
  :--------------: | ------------
-**Procedimento**  | 1) Acesse o endereço  <br> 2) Clique em "Login" <br> 3) Preencha todos os campos do formulário <br> 4) Clique no botão "Entrar".
+**Procedimento**  | 1) Acesse o endereço https://pmv-si-2024-2-pe1-t2-t2-gp01.vercel.app/index.html  <br> 2) Clique em "Login" <br> 3) Preencha todos os campos do formulário <br> 4) Clique no botão "Entrar".
 **Requisitos associados** | RF-002
 **Resultado esperado** | Receber uma mensagem de confirmação e ser redirecionado para a tela de agendamentos
 **Dados de entrada** | Inserção de dados válidos no formulário de login
@@ -43,7 +43,7 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 
 **Caso de Teste** | **CT03 - Agendamentos de Serviço**
  :--------------: | ------------
-**Procedimento**  | 1) Acesse o endereço www.teste.com.br <br> 2) Clique em "Agendamentos" <br> 3) Preencha todos os campos do formulário <br> 4) Clique no botão "Agendar".
+**Procedimento**  | 1) Acesse o endereço https://pmv-si-2024-2-pe1-t2-t2-gp01.vercel.app/index.html <br> 2) Clique em "Agendamentos" <br> 3) Preencha todos os campos do formulário <br> 4) Clique no botão "Agendar".
 **Requisitos associados** | RF-006
 **Resultado esperado** | Receber uma mensagem de confirmação e ser redirecionado para a tela inicial
 **Dados de entrada** | Inserção de dados válidos no formulário de agendamentos
@@ -51,7 +51,7 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 
 **Caso de Teste** | **CT04 - Editar informações**
  :--------------: | ------------
-**Procedimento**  | 1) Acesse o endereço  <br> 2) Clique em "Editar perfil" <br> 3) Clique em "Editar informações" <br> 4) Preencha todos os campos do formulário <br> 5) Clique no botão "Editar".
+**Procedimento**  | 1) Acesse o endereço https://pmv-si-2024-2-pe1-t2-t2-gp01.vercel.app/index.html <br> 2) Clique em "Editar perfil" <br> 3) Clique em "Editar informações" <br> 4) Preencha todos os campos do formulário <br> 5) Clique no botão "Editar".
 **Requisitos associados** | RF-003
 **Resultado esperado** | Receber uma mensagem de confirmação e ser redirecionado para a tela inicial
 **Dados de entrada** | Inserção de dados válidos no formulário de ediçao de informações
@@ -59,7 +59,7 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 
 **Caso de Teste** | **CT05 - Mudar senha**
  :--------------: | ------------
-**Procedimento**  | 1) Acesse o endereço  <br> 2) Clique em "Editar perfil" <br> 3) Clique em "Mudar senha" <br> 4) Preencha todos os campos do formulário <br> 5) Clique no botão "Confirmar".
+**Procedimento**  | 1) Acesse o endereço https://pmv-si-2024-2-pe1-t2-t2-gp01.vercel.app/index.html <br> 2) Clique em "Editar perfil" <br> 3) Clique em "Mudar senha" <br> 4) Preencha todos os campos do formulário <br> 5) Clique no botão "Confirmar".
 **Requisitos associados** | RF-003
 **Resultado esperado** | Receber uma mensagem de confirmação e ser redirecionado para a tela inicial
 **Dados de entrada** | Inserção de dados válidos no formulário de mudança de senha 
@@ -67,7 +67,7 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 
 **Caso de Teste** | **CT06 - Historico de agendamentos**
  :--------------: | ------------
-**Procedimento**  | 1) Acesse o endereço www.teste.com.br <br> 2) Clique em "Historico de agendamentos" <br>
+**Procedimento**  | 1) Acesse o endereço https://pmv-si-2024-2-pe1-t2-t2-gp01.vercel.app/index.html <br> 2) Clique em "Historico de agendamentos" <br>
 **Requisitos associados** | RF-004
 **Resultado esperado** | Visualizar o histórico de agendamentos do usuário
 **Dados de entrada** | Listagem automática
@@ -75,7 +75,7 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 
 **Caso de Teste** | **CT07 - Opinião dos usuarios**
  :--------------: | ------------
-**Procedimento**  | 1) Acesse o endereço www.teste.com.br <br> 2) Clique em "Deixe sua opinião" <br> 3) Preencha todos os campos do formulário <br> 4) Clique no botão "Enviar opinião".
+**Procedimento**  | 1) Acesse o endereço https://pmv-si-2024-2-pe1-t2-t2-gp01.vercel.app/index.html <br> 2) Clique em "Deixe sua opinião" <br> 3) Preencha todos os campos do formulário <br> 4) Clique no botão "Enviar opinião".
 **Requisitos associados** | RF-008
 **Resultado esperado** | Receber uma mensagem de confirmação e ser redirecionado para a tela inicial
 **Dados de entrada** | Inserção de dados válidos no formulário de agendamentos
