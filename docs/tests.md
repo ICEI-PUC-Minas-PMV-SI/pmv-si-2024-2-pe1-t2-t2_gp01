@@ -150,8 +150,8 @@ Cenário 1: Você deseja agendar seu primeiro corte na barbearia Det's. Faça se
 
 | Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
 |---------|-----------------|----------------------|---------------------------------|
-| 1       | SIM             |       5          |segundos     78.52             |
-| 2       | SIM             |           4        | segundos      187.97            |
+| 1       | SIM             |       5          | 78.52 segundos            |
+| 2       | SIM             |           4        |       187.97 segundos         |
 | 3       | SIM             |                   |  segundos                  |
 |  |  |  |  |
 | **Média**     | 100%           |                |  segundos                           |
