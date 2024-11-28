@@ -160,8 +160,9 @@ Apresente os cenários de testes utilizados na realização dos testes de usabil
 
 | Nº do Cenário | Descrição do cenário |
 |---------------|----------------------|
-| 1             | Você é uma pessoa que deseja comprar um iphone. Encontre no site um iphone e veja detalhes de localização e contato da loja que anunciando. |
-| 2             | Você é uma pessoa que deseja comprar um smartphone até R$ 2.000,00. Encontre no site smartphone's nessa faixa de preço. |
+| 1             |Você deseja agendar seu primeiro corte na barbearia Det's. Faça seu cadastro e logue com seus dados. Agende seu primeiro serviço e, por fim, verifique sua listagem de serviços.           |
+| 2             |Você precisa editar seus dados cadastrados e modificar sua senha. Acesse a personalização de perfil e modifique seus dados e senha.            |
+| 3             |Você deseja avaliar o serviço de um funcionario. Acesse o formulario de opinião, escolha um funcionario, dê notas de 1 a 5 para a pontualidade, a educação e a qualidade do corte. Deixe tambem um comentario por escrito e envie sua avaliação.             |
 
 
 
