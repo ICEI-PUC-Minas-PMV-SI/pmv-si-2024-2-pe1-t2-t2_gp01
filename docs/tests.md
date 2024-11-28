@@ -196,8 +196,7 @@ Usuário 3: "Poderia redirecionar para mudar senha após editar informações do
 | **Média**     | 100%           |        5         | 37.52 segundos                           |
 | **Tempo para conclusão pelo especialista** | SIM | 5 | 29.05 segundos |
 
-
-    Comentários dos usuários: 
+Comentários dos usuários: 
 
 Usuário 1: "O formulário está bastante completo e intuitivo."
 
