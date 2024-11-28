@@ -146,7 +146,7 @@ Objetivando respeitar as diretrizes da Lei Geral de Proteção de Dados, as info
 
 ## Registro de Testes de Usabilidade
 
-Cenário 1: Você deseja agendar seu primeiro corte na barbearia Det's. Faça seu cadastro e logue com seus dados. Agende seu primeiro serviço e, após isso, verifique sua listagem de serviços.
+### Cenário 1: Você deseja agendar seu primeiro corte na barbearia Det's. Faça seu cadastro e logue com seus dados. Agende seu primeiro serviço e, após isso, verifique sua listagem de serviços.
 
 | Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
 |---------|-----------------|----------------------|---------------------------------|
@@ -164,7 +164,7 @@ Usuário 1: "Está bem tranquilo de seguir o fluxo da aplicação."
 Usuário 2: "Está muito bom. Só senti falta de um redirecionamento para mudança de senha caso o usuário esteja com dificuldade de lembrá-la."
 
 
-Cenário 2: Você precisa editar seus dados cadastrados e modificar sua senha. Acesse a personalização de perfil e modifique seus dados e senha.
+### Cenário 2: Você precisa editar seus dados cadastrados e modificar sua senha. Acesse a personalização de perfil e modifique seus dados e senha.
 
 | Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
 |---------|-----------------|----------------------|---------------------------------|
@@ -182,7 +182,7 @@ Usuário 1: "Faltou, no formulário de edição de dados, aparecerem os dados qu
 Usuário 2: "O design está bem padrão, ficaria ótimo se colocassem algo mais original e com a cara do time de desenvolvimento."
 
 
-Cenário 3: Você deseja avaliar o serviço de um funcionario. Acesse o formulario de opinião, escolha um funcionário e o avalie. Deixe um comentário por escrito e envie sua avaliação. 
+### Cenário 3: Você deseja avaliar o serviço de um funcionario. Acesse o formulario de opinião, escolha um funcionário e o avalie. Deixe um comentário por escrito e envie sua avaliação. 
 
 | Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
 |---------|-----------------|----------------------|---------------------------------|
