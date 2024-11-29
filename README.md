@@ -7,15 +7,14 @@
 
 `SEMESTRE: 1º`
 
-Esse projeto visa ao desenvolvimento de uma aplicação web que permita o agendamento de horários em uma barbearia situada no interior de Minas Gerais. Os horários, bem como o barbeiro que prestará o serviço, serão escolhidos, de maneira rápida e fácil, pelos próprios clientes. O usuário poderá escolher, ainda, entre os serviços de corte, sobrancelha e barba.
+Esse projeto visa ao desenvolvimento de uma aplicação web que permita o agendamento de horários em uma barbearia situada no interior de Minas Gerais. Os horários, bem como o barbeiro que prestará o serviço, poderão ser escolhidos de maneira fácil e rápida pelos próprios clientes. O usuário poderá selecionar, ainda, entre os serviços de corte, sobrancelha e barba.
 
-A aplicação também disponibilizará formulários de avaliação, a fim de que seja possível uma melhoria contínua nos serviços prestados. Também haverá exibição do histórico de agendamentos de cada cliente.
+Além disso, o cliente poderá editar suas informações de perfil e modificar sua senha, em caso de necessidade. Também haverá exibição de seu histórico de agendamentos. Por fim, a aplicação disponibilizará um formulário no qual o usuário poderá avaliar o atendimento de cada funcionário, a fim de que seja possível uma melhoria contínua nos serviços prestados. 
 
 ## Integrantes
 
 * Danilo César Brito
 * Filipe Augusto Correa Silva
-* Franz Duarte Glater
 * Jessé Delgado da Costa de Souza e Cunha
 * Kaue Cavalcanti Campos
 * Michael Breno de Oliveira Brito
