@@ -171,9 +171,9 @@ Usuário 3: "Fluxo bastante intuitivo."
 |---------|-----------------|----------------------|---------------------------------|
 | 1       | SIM             |           4          |  46.63 segundos                          |
 | 2       | SIM             |             4       |  46.56 segundos                          |
-| 3       | SIM             |         3.5            | 79.80 segundos                          |
+| 3       | SIM             |         3            | 79.80 segundos                          |
 |  |  |  |  |
-| **Média**     | 100%           |      3.8       | 57.66 segundos                           |
+| **Média**     | 100%           |      3.6     | 57.66 segundos                           |
 | **Tempo para conclusão pelo especialista** | SIM | 5 | 49.46 segundos |
 
 Comentários dos usuários: 
@@ -208,7 +208,7 @@ Usuário 3: "Bastante tranquilo de preencher o formulário."
 
 Tomando como base os resultados obtidos, foi possível verificar que a aplicação web apresenta bons resultados quanto à taxa de sucesso na interação dos usuários, tendo em vista que os cenários propostos foram concluídos com sucesso.
 
-Além disso, a aplicação obteve também uma elevada satisfação subjetiva dos usuários no momento que realizavam os cenários propostos. Prova são as médias das avaliações em cada um dos cenários, que variou entre 4 (bom) e 5 (ótimo).
+Além disso, a aplicação obteve também uma elevada satisfação subjetiva dos usuários no momento que realizavam os cenários propostos. Prova são as médias das avaliações em cada um dos cenários, que em sua maior parte variou entre 4 (bom) e 5 (ótimo).
 
 Com relação ao tempo para conclusão de cada tarefa/cenário, notamos discrepância entre a média de tempo dos usuários e o tempo do especialista/desenvolvedor em todos os cenários. Tal discrepância, em certa medida, é esperada, tendo em vista que o desenvolvedor já tem prévio conhecimento de toda a interface da aplicação, do posicionamento dos elementos, lógica de organização das páginas, etc.
 
