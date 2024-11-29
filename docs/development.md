@@ -9,20 +9,14 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 |ID    | Descrição do Requisito | Responsável | Artefato Criado |
 |------|------------------------|------------|-----------------|
 |RF-001| A aplicação deve permitir que o cliente crie seu próprio cadastro|Kauê | tela-cadastro.html |
+|RF-002| A aplicação deve permitir que o cliente faça login no sistema|Kauê | tela-login.html |
 |RF-003| A aplicação deve permitir que o cliente edite seus próprios dados|Filipe| editar-informacoes.html |
+|RF-003| A aplicação deve permitir que o cliente edite sua senha|Jessé| nova-senha.html |
 |RF-005| O cliente deve ser capaz de escolher entre as opções de corte, barba e sobrancelha, inclusive dois ou mais desses itens simultaneamente| Danilo| agendamento.html|
 |RF-006| O cliente deve ser capaz de registrar o horário definido na agenda de cortes, bem como qual funcionário foi escolhido para o serviço| Jessé| agendamento.html|
 |RF-008|A aplicação deve ser capaz de captar feedbacks do usuário por meio de campos com notas de 1 a 5 e de um campo de opinião por extenso | Michael| opiniao.html|
 
 # Descrição das estruturas:
-
-## Agendamento de cortes
-| **Nome** | **Tipo** | **Descrição** | **Exemplo** |
-|:--------:|:--------:|:-------------:|:-----------:|
-| Clique para selecionar |Lista de seleção de opções | O usuário deverá selecionar o funcionário com o qual deseja realizar o serviço| Funcionário 1 |
-| Escolha uma data | Data | O usuário deve escolher a data em que deseja realizar o seu agendamento | 28/10/2024 |
-| Escolha um horário | Hora | O usuário deve escolher o horário em que deseja realizar seu agendamento | 18:00 |
-| Escolha quais serviços você deseja agendar| Caixa de seleção | O usuário pode escolher, simultaneamente ou não, entre os serviços de corte, sobrancelha e barba| Corte de cabelo|
 
 ## Cadastro 
 |  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
@@ -55,6 +49,14 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 |:--------:|:--------:|:-------------:|:-----------:|
 | Digite sua nova senha | Password | O usuário deve inserir sua nova senha desejada | Jotinha123 |
 | Repita sua nova senha | Password | O usuário deve repetir sua nova senha desejada | Jotinha123 |
+
+## Agendamento de cortes
+| **Nome** | **Tipo** | **Descrição** | **Exemplo** |
+|:--------:|:--------:|:-------------:|:-----------:|
+| Clique para selecionar |Lista de seleção de opções | O usuário deverá selecionar o funcionário com o qual deseja realizar o serviço| Funcionário 1 |
+| Escolha uma data | Data | O usuário deve escolher a data em que deseja realizar o seu agendamento | 28/10/2024 |
+| Escolha um horário | Hora | O usuário deve escolher o horário em que deseja realizar seu agendamento | 18:00 |
+| Escolha quais serviços você deseja agendar| Caixa de seleção | O usuário pode escolher, simultaneamente ou não, entre os serviços de corte, sobrancelha e barba| Corte de cabelo|
 
 ## Opinião
 | **Nome** | **Tipo** | **Descrição** | **Exemplo** |
