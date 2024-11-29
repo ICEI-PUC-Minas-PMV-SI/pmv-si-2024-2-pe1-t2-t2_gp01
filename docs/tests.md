@@ -12,7 +12,7 @@ Foram definidos sete casos de teste, cada um correspondente a uma funcionalidade
 
 **Caso de Teste** | **CT01 - Criar conta**
  :--------------: | ------------
-**Procedimento**  | 1) Acesse o endereço https://pmv-si-2024-2-pe1-t2-t2-gp01.vercel.app/index.html <br> 2) Clique em "Cadastro" <br> 3) Preencha todos os campos do formulário <br> 4) Clique no botão "Cadastrar".
+**Procedimento**  | 1) Acesse o endereço https://pmv-si-2024-2-pe1-t2-t2-gp01.vercel.app/index.html <br> 2) Clique em "Cadastro" <br> 3) Preencha todos os campos do formulário <br> 4) Clique no botão "Cadastrar"
 **Requisitos associados** | RF-001
 **Resultado esperado** | Receber uma mensagem de confirmação e ser redirecionado para a tela de login
 **Dados de entrada** | Inserção de dados válidos no formulário de cadastro
@@ -20,7 +20,7 @@ Foram definidos sete casos de teste, cada um correspondente a uma funcionalidade
 
 **Caso de Teste** | **CT02 - Login no sistema**
  :--------------: | ------------
-**Procedimento**  | 1) Acesse o endereço https://pmv-si-2024-2-pe1-t2-t2-gp01.vercel.app/index.html  <br> 2) Clique em "Login" <br> 3) Preencha todos os campos do formulário <br> 4) Clique no botão "Entrar".
+**Procedimento**  | 1) Acesse o endereço https://pmv-si-2024-2-pe1-t2-t2-gp01.vercel.app/index.html  <br> 2) Clique em "Login" <br> 3) Preencha todos os campos do formulário <br> 4) Clique no botão "Entrar"
 **Requisitos associados** | RF-002
 **Resultado esperado** | Receber uma mensagem de confirmação e ser redirecionado para a tela de agendamentos
 **Dados de entrada** | Inserção de dados válidos no formulário de login
@@ -28,7 +28,7 @@ Foram definidos sete casos de teste, cada um correspondente a uma funcionalidade
 
 **Caso de Teste** | **CT03 - Agendamentos de Serviço**
  :--------------: | ------------
-**Procedimento**  | 1) Acesse o endereço https://pmv-si-2024-2-pe1-t2-t2-gp01.vercel.app/index.html <br> 2) Clique em "Agendamentos" <br> 3) Preencha todos os campos do formulário <br> 4) Clique no botão "Agendar".
+**Procedimento**  | 1) Acesse o endereço https://pmv-si-2024-2-pe1-t2-t2-gp01.vercel.app/index.html <br> 2) Clique em "Agendamentos" <br> 3) Preencha todos os campos do formulário <br> 4) Clique no botão "Agendar"
 **Requisitos associados** | RF-006
 **Resultado esperado** | Receber uma mensagem de confirmação e ser redirecionado para a tela inicial
 **Dados de entrada** | Inserção de dados válidos no formulário de agendamentos
@@ -36,7 +36,7 @@ Foram definidos sete casos de teste, cada um correspondente a uma funcionalidade
 
 **Caso de Teste** | **CT04 - Editar informações**
  :--------------: | ------------
-**Procedimento**  | 1) Acesse o endereço https://pmv-si-2024-2-pe1-t2-t2-gp01.vercel.app/index.html <br> 2) Clique em "Editar perfil" <br> 3) Clique em "Editar informações" <br> 4) Preencha todos os campos do formulário <br> 5) Clique no botão "Editar".
+**Procedimento**  | 1) Acesse o endereço https://pmv-si-2024-2-pe1-t2-t2-gp01.vercel.app/index.html <br> 2) Clique em "Editar perfil" <br> 3) Clique em "Editar informações" <br> 4) Preencha todos os campos do formulário <br> 5) Clique no botão "Editar"
 **Requisitos associados** | RF-003
 **Resultado esperado** | Receber uma mensagem de confirmação e ser redirecionado para a tela inicial
 **Dados de entrada** | Inserção de dados válidos no formulário de ediçao de informações
@@ -44,23 +44,23 @@ Foram definidos sete casos de teste, cada um correspondente a uma funcionalidade
 
 **Caso de Teste** | **CT05 - Mudar senha**
  :--------------: | ------------
-**Procedimento**  | 1) Acesse o endereço https://pmv-si-2024-2-pe1-t2-t2-gp01.vercel.app/index.html <br> 2) Clique em "Editar perfil" <br> 3) Clique em "Mudar senha" <br> 4) Preencha todos os campos do formulário <br> 5) Clique no botão "Confirmar".
+**Procedimento**  | 1) Acesse o endereço https://pmv-si-2024-2-pe1-t2-t2-gp01.vercel.app/index.html <br> 2) Clique em "Editar perfil" <br> 3) Clique em "Mudar senha" <br> 4) Preencha todos os campos do formulário <br> 5) Clique no botão "Confirmar"
 **Requisitos associados** | RF-003
 **Resultado esperado** | Receber uma mensagem de confirmação e ser redirecionado para a tela inicial
 **Dados de entrada** | Inserção de dados válidos no formulário de mudança de senha 
 **Resultado obtido** | Sucesso
 
-**Caso de Teste** | **CT06 - Historico de agendamentos**
+**Caso de Teste** | **CT06 - Histórico de agendamentos**
  :--------------: | ------------
-**Procedimento**  | 1) Acesse o endereço https://pmv-si-2024-2-pe1-t2-t2-gp01.vercel.app/index.html <br> 2) Clique em "Historico de agendamentos" <br>
+**Procedimento**  | 1) Acesse o endereço https://pmv-si-2024-2-pe1-t2-t2-gp01.vercel.app/index.html <br> 2) Clique em "Histórico de agendamentos" <br>
 **Requisitos associados** | RF-004
 **Resultado esperado** | Visualizar o histórico de agendamentos do usuário
 **Dados de entrada** | Listagem automática
 **Resultado obtido** | Sucesso
 
-**Caso de Teste** | **CT07 - Opinião dos usuarios**
+**Caso de Teste** | **CT07 - Opinião dos usuários**
  :--------------: | ------------
-**Procedimento**  | 1) Acesse o endereço https://pmv-si-2024-2-pe1-t2-t2-gp01.vercel.app/index.html <br> 2) Clique em "Deixe sua opinião" <br> 3) Preencha todos os campos do formulário <br> 4) Clique no botão "Enviar opinião".
+**Procedimento**  | 1) Acesse o endereço https://pmv-si-2024-2-pe1-t2-t2-gp01.vercel.app/index.html <br> 2) Clique em "Deixe sua opinião" <br> 3) Preencha todos os campos do formulário <br> 4) Clique no botão "Enviar opinião"
 **Requisitos associados** | RF-008
 **Resultado esperado** | Receber uma mensagem de confirmação e ser redirecionado para a tela inicial
 **Dados de entrada** | Inserção de dados válidos no formulário de agendamentos
@@ -140,7 +140,7 @@ Objetivando respeitar as diretrizes da Lei Geral de Proteção de Dados, as info
 |---------------|----------------------|
 | 1             |Você deseja agendar seu primeiro corte na barbearia Det's. Faça seu cadastro e logue com seus dados. Agende seu primeiro serviço e, após isso, verifique sua listagem de serviços.           |
 | 2             |Você precisa editar seus dados cadastrados e modificar sua senha. Acesse a personalização de perfil e modifique seus dados e senha.            |
-| 3             |Você deseja avaliar o serviço de um funcionario. Acesse o formulario de opinião, escolha um funcionário e o avalie. Deixe um comentário por escrito e envie sua avaliação.             |
+| 3             |Você deseja avaliar o serviço de um funcionario. Acesse o formulário de opinião, escolha um funcionário e o avalie. Deixe um comentário por escrito e envie sua avaliação.             |
 
 
 
@@ -185,7 +185,7 @@ Usuário 2: "O design está bem padrão, ficaria ótimo se colocassem algo mais 
 Usuário 3: "Poderia redirecionar para mudar senha após editar informações do perfil."
 
 
-### Cenário 3: Você deseja avaliar o serviço de um funcionario. Acesse o formulario de opinião, escolha um funcionário e o avalie. Deixe um comentário por escrito e envie sua avaliação. 
+### Cenário 3: Você deseja avaliar o serviço de um funcionario. Acesse o formulário de opinião, escolha um funcionário e o avalie. Deixe um comentário por escrito e envie sua avaliação. 
 
 | Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
 |---------|-----------------|----------------------|---------------------------------|
@@ -208,11 +208,8 @@ Usuário 3: "Bastante tranquilo de preencher o formulário."
 
 Tomando como base os resultados obtidos, foi possível verificar que a aplicação web apresenta bons resultados quanto à taxa de sucesso na interação dos usuários, tendo em vista que os cenários propostos foram concluídos com sucesso.
 
-Além disso, a aplicação obteve também uma elevada satisfação subjetiva dos usuários no momento que realizavam os cenários propostos. Prova são as médias das avaliações em cada um dos cenários, que em sua maior parte variou entre 4 (bom) e 5 (ótimo).
+Além disso, a aplicação obteve também uma elevada satisfação subjetiva dos usuários no momento em que realizavam os cenários propostos. Prova são as médias das avaliações em cada um dos cenários, que em sua maior parte variou entre 4 (bom) e 5 (ótimo).
 
 Com relação ao tempo para conclusão de cada tarefa/cenário, notamos discrepância entre a média de tempo dos usuários e o tempo do especialista/desenvolvedor em todos os cenários. Tal discrepância, em certa medida, é esperada, tendo em vista que o desenvolvedor já tem prévio conhecimento de toda a interface da aplicação, do posicionamento dos elementos, lógica de organização das páginas, etc.
 
-Contudo, tendo em vista que a diferença foi relevante (por exemplo, 137 segundos — média usuários — contra 80 segundos — especialista — no cenário um), e ainda os comentários feitos por alguns usuários, entendemos haver oportunidades de melhoria na usabilidade da aplicação.
-
-
-
+Contudo, tendo em vista que a diferença foi relevante (por exemplo, 137 segundos — média usuários — contra 80 segundos — especialista — no cenário 1), e ainda os comentários feitos por alguns usuários, entendemos haver oportunidades de melhoria na usabilidade da aplicação.
