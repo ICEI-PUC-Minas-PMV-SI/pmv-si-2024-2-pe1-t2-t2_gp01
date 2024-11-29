@@ -18,7 +18,7 @@ botao_cadastrar.addEventListener("click", function(evento) {
 
     if(nome_cliente === "" || sobrenome_cliente === "" || telefone_cliente === "" || email_cliente === "" || usuario_cliente === "" || senha_cliente === "" || repita_senha_cliente ==="" ){
 
-        alert("Digite todos os campos!")
+        alert("Preencha todos os campos!")
 
         return
         

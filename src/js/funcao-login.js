@@ -5,7 +5,7 @@ export function login_cliente(email, senha) {
 
     if(email === "" || senha ===""){
 
-        alert("Digite todos os campos!")
+        alert("Preencha todos os campos!")
 
         return
 

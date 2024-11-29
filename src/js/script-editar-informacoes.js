@@ -24,7 +24,7 @@ botao_editar_info.addEventListener("click", function(evento) {
         
         if(nome_editado === "" || sobrenome_editado === "" ||telefone_editado === "" || email_editado === "" || usuario_editado === "" ){
 
-            alert("Digite todos os campos!")
+            alert("Preencha todos os campos!")
 
             return
         

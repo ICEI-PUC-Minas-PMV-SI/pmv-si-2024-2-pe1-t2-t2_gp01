@@ -1,4 +1,5 @@
-import { classe_cliente } from "./classe-cliente.js";
+import { classe_cliente } from "./classe-cliente.js"
+import { troca_email } from "./funcao-troca-email.js"
 
 export function editar_informacoes(email_cliente, novo_nome, novo_sobrenome, novo_telefone, novo_email, novo_usuario){
 
@@ -19,6 +20,8 @@ export function editar_informacoes(email_cliente, novo_nome, novo_sobrenome, nov
             localStorage.setItem("lista de clientes", JSON.stringify(classe_cliente.vetor_clientes))
             localStorage.setItem("cliente logado", JSON.stringify(classe_cliente.vetor_clientes[i].email))
 
+            troca_email(email_cliente, novo_email)
+            
             confirm(`${cliente_editado.nome}, seus dados foram editados! Agora você será redirecionado para a página inicial.`)
 
             window.location.href = "../index.html"
