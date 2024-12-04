@@ -2,11 +2,11 @@
 
 Os arquivos a seguir correspondem à apresentação do projeto. 
 
-No pitch inicial foram retratadas a justificativa para a escolha da aplicação e a definição do problema a ser abordado, bem como os objetivos gerais, os objetivos específicos e os requisitos funcionais que haviam sido documentados.
+No ***pitch inicial*** foram retratadas a justificativa para a escolha da aplicação e a definição do problema a ser abordado, bem como os objetivos gerais, os objetivos específicos e os requisitos funcionais que haviam sido documentados.
 
-Na apresentação da solução foram exibidos a página inicial, os vários formulários presentes na aplicação e a página de listagem de agendamentos. 
+Na ***apresentação da solução*** foram exibidos a página inicial, os vários formulários presentes na aplicação e a página de listagem de agendamentos. 
 
-Por fim, o vídeo postado demonstra o funcionamento das principais funcionalidades do sistema desenvolvido.
+Por fim, o ***vídeo*** postado demonstra o funcionamento das principais funcionalidades do sistema desenvolvido.
 
 
 ## Título do Projeto
