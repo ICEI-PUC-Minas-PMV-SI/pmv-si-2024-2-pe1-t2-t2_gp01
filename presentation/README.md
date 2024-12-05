@@ -20,10 +20,17 @@ Gestão de Agendamentos
 
 ## Conjunto de Slides (Estrutura)
 
- [GESTAO DE AGENDAMENTOS PT 1 - PITCH INICIAL.pptx](https://github.com/user-attachments/files/18014063/GESTAO.DE.AGENDAMENTOS.PT.1.-.PITCH.INICIAL.pptx)
+***Versões em Power Point***
 
-[GESTAO DE AGENDAMENTOS PT 2  - APRESENTACAO DA SOLUCAO.pptx](https://github.com/user-attachments/files/18014065/GESTAO.DE.AGENDAMENTOS.PT.2.-.APRESENTACAO.DA.SOLUCAO.pptx)
+ [GESTAO DE AGENDAMENTOS PT 1 - PITCH INICIAL.pptx](https://github.com/user-attachments/files/18026280/GESTAO.DE.AGENDAMENTOS.PT.1.-.PITCH.INICIAL.pptx)
 
+[GESTAO DE AGENDAMENTOS PT 2  - APRESENTACAO DA SOLUCAO.pptx](https://github.com/user-attachments/files/18026281/GESTAO.DE.AGENDAMENTOS.PT.2.-.APRESENTACAO.DA.SOLUCAO.pptx)
+
+***Versões em PDF***
+
+[GESTAO DE AGENDAMENTOS PT 1 - PITCH INICIAL - PDF.pdf](https://github.com/user-attachments/files/18026282/GESTAO.DE.AGENDAMENTOS.PT.1.-.PITCH.INICIAL.-.PDF.pdf)
+
+[GESTAO DE AGENDAMENTOS PT 2  - APRESENTACAO DA SOLUCAO - PDF.pdf](https://github.com/user-attachments/files/18026284/GESTAO.DE.AGENDAMENTOS.PT.2.-.APRESENTACAO.DA.SOLUCAO.-.PDF.pdf)
 
 ## Vídeo de demonstração
 
