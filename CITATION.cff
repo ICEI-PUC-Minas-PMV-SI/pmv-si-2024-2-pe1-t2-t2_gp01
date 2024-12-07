@@ -28,6 +28,17 @@ authors:
     family-names: de Oliveira Brito
     email: michaelbreno.mb574@gmail.com
     affiliation: PUC Minas
+contact:
+   - given-names: Nesley Jesus
+    family-names: Daher de Oliveira
+    role: Professor-orientador
+    email: nesdaher@sga.pucminas.br
+    affiliation: PUC Minas
+   - given-names: Hayala
+    family-names: Nepomuceno Curto
+    role: Professor-orientador
+    email: hayala@pucminas.br
+    affiliation: PUC Minas
 repository-code: >-
   https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-2-pe1-t2-t2_gp01
 abstract: >-
@@ -42,4 +53,4 @@ keywords:
   - JavaScript
   - Template
   - Gestão de Agendamentos
-date-released: '2024-12-06'
+date-released: '2024-12-07'
